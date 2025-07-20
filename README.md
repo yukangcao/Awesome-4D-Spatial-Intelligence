@@ -93,7 +93,7 @@
 
 | Year | Venue | Acronym | Paper | Project | GitHub |
 |------|-------|---------|-------|---------|-------------|
-| 2024 | NeurIPS   | TracksTo4D | [Fast Encoder-Based 3D from Casual Videos via Point Track Processing](https://arxiv.org/abs/2404.07097) (TBD)     | [Project](https://tracks-to-4d.github.io/) | [GitHub](https://github.com/NVlabs/tracks-to-4d) |
+| 2024 | NeurIPS   | TracksTo4D | [Fast Encoder-Based 3D from Casual Videos via Point Track Processing](https://arxiv.org/abs/2404.07097)     | [Project](https://tracks-to-4d.github.io/) | [GitHub](https://github.com/NVlabs/tracks-to-4d) |
 | 2025 | CVPR      | Uni4D       | [Uni4D: Unifying Visual Foundation Models for 4D Modeling from a Single Video](https://arxiv.org/abs/2503.21761)  | [Project](https://davidyao99.github.io/uni4d/) | [GitHub](https://github.com/Davidyao99/uni4d/tree/main) |
 | 2025 | arXiv     | BA-Track | [Back on Track: Bundle Adjustment for Dynamic Scene Reconstruction](https://arxiv.org/abs/2504.14516)           | [Project](https://wrchen530.github.io/projects/batrack/) | |  
 | 2025 | arXiv     | TrackingWorld | [TrackingWorld: World-centric Monocular 3D Tracking of Almost All Pixels](https://github.com/IGL-HKUST/TrackingWorld)           | [Project](https://github.com/IGL-HKUST/TrackingWorld) | [GitHub](https://github.com/IGL-HKUST/TrackingWorld) | 

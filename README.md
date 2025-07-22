@@ -1,9 +1,44 @@
 # Awesome-4D-Spatial-Intelligence
 
+This repository collects summaries of over 350 recent studies on methods for reconstructing 4D spatial intelligence, and will be continuously updated.
 
+If you have suggestions for new resources, improvements to methodologies, or corrections for broken links, please don't hesitate to open an [issue](https://github.com/yukangcao/Awesome-4D-Spatial-Intelligence/issues) or submit a [pull request](hhttps://github.com/yukangcao/Awesome-4D-Spatial-Intelligence/pulls). Contributions of all kinds are welcome and greatly appreciated.
+
+### Table of Contents
+
+- [Level1 -- Low-level 3D cues](#level-1----low-level-3d-cues)
+  - [Dynamic Video to Depth Estimation](#dynamic-video-to-depth-estimation)
+  - [Static Video to Depth Estimation](#static-video-to-depth-estimation)
+  - [Camera pose estimation](#camera-pose-estimation)
+  - [3D tracking](#3d-tracking)
+  - [Unifying depth and camera pose estimation](#unifying-depth-and-camera-pose-estimation)
+  - [Unifying depth, camera pose, and 3D tracking](#unifying-depth-camera-pose-and-3d-tracking)
+
+- [Level2 -- 3D scene components](#level-2----3d-scene-components)
+  - [Small-scale 3D object/scene reconstruction](#small-scale-3d-objectscene-reconstruction)
+  - [Large-scale 3D scene reconstruction](#large-scale-3d-scene-reconstruction)
+
+- [Level3 -- 4D dynamic scenes](#level-3----4d-dynamic-scenes)
+  - [General 4D scene reconstruction](#general-4d-scene-reconstruction)
+  - [Human-centric dynamic modeling](#human-centric-dynamic-modeling---smpl)
+    - [SMPL](#human-centric-dynamic-modeling---smpl)
+    - [Egocentric](#human-centric-dynamic-modeling---egocentric)
+    - [Appearance-rich](#human-centric-dynamic-modeling---appearance-rich)
+    
+- [Level 4 -- Interaction among scene components](#level-4----interaction-among-scene-components)
+  - [SMPL-based human-centric interaction](#smpl-based-human-centric-interaction---hoi)
+    - [Human-Object-Interaction (HOI)](#smpl-based-human-centric-interaction---hoi)
+    - [Human-Scene-Interaction (HSI)](#smpl-based-human-centric-interaction---hsi)
+    - [Human-Human-Interaction (HHI)](#smpl-based-human-centric-interaction---hhi)
+  - [Appearance-rich human-centric interaction](#appearance-rich-human-centric-interaction)
+  - [Egocentric human-centric interaction](#egocentric-human-centric-interaction)
+  
+- [Level 5 -- Incorporation of physical laws and constraints](#level-5----incorporation-of-physical-laws-and-constraints)
+  - [Dynamic 4D human simulation with physics](#dynamic-4d-human-simulation-with-physics)
+  - [3D scene reconstruction with physical plausibility](#3d-scene-reconstruction-with-physical-plausibility)
 
 ## Level 1 -- Low-level 3D cues
-### 🌀 Dynamic Video to Depth Estimation
+### Dynamic Video to Depth Estimation
 
 | Year | Venue | Acronym | Paper | Project | GitHub |
 |------|-------|---------|-------|---------|-------------|
@@ -22,7 +57,7 @@
 | 2025 | CVPR | Video Depth Anything | [Video Depth Anything: Consistent Depth Estimation for Super-Long Videos](https://arxiv.org/abs/2501.12375) | [Project](https://videodepthanything.github.io/)  | [GitHub](https://github.com/DepthAnything/Video-Depth-Anything) |
 
 
-### 📷 Static Video to Depth Estimation
+### Static Video to Depth Estimation
 
 | Year | Venue      | Acronym | Paper                                                                                                                                               | Project | GitHub |
 |------|------------|---------|-----------------------------------------------------------------------------------------------------------------------------------------------------|---------|--------|
@@ -51,7 +86,7 @@
 
 ---
 
-### 📷 Camera pose estimation
+### Camera pose estimation
 
 | Year | Venue | Acronym | Paper | Project | GitHub |
 |------|-------|---------|-------|---------|-------------|
@@ -80,7 +115,7 @@
 
 ---
 
-### 📷 3D tracking
+### 3D tracking
 
 | Year | Venue | Acronym | Paper | Project | GitHub |
 |------|-------|---------|-------|---------|-------------|
@@ -95,7 +130,7 @@
 
 ---
 
-### 🎥 Unifying depth and camera pose estimation
+### Unifying depth and camera pose estimation
 
 | Year | Venue | Acronym | Paper | Project | GitHub |
 |------|-------|---------|-------|---------|-------------|
@@ -115,7 +150,7 @@
 | 2025 | arXiv    | StreamVGGT  | [Streaming 4D Visual Geometry Transformer](https://arxiv.org/abs/2507.11539) | [Project](https://wzzheng.net/StreamVGGT/) | [GitHub](https://github.com/wzzheng/StreamVGGT) |
 | 2025 | arXiv    | PI^3  | [π^3: Scalable Permutation-Equivariant Visual Geometry Learning](https://arxiv.org/abs/2507.13347) | [Project](https://yyfz.github.io/pi3/) | [GitHub](https://github.com/yyfz/Pi3) |
 
-### 🎥 Unifying depth, camera pose, and 3D tracking
+### Unifying depth, camera pose, and 3D tracking
 
 | Year | Venue | Acronym | Paper | Project | GitHub |
 |------|-------|---------|-------|---------|-------------|

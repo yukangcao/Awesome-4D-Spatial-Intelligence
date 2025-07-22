@@ -324,8 +324,8 @@ If you have suggestions for new resources, improvements to methodologies, or cor
 | Year | Venue | Acronym | Paper | Project | GitHub |
 |------|-------|---------|-------|---------|-------------|
 | 2015 | TOG | SMPL | [Smpl: A skinned multi-person linear model](https://dl.acm.org/doi/10.1145/2816795.2818013)     | [Project](https://smpl.is.tue.mpg.de/)  |  |
-| 2016 | ECCV | | [Keep it SMPL: Automatic Estimation of 3D Human Pose and Shape from a Single Image](https://arxiv.org/abs/1607.08128)     | [Project](https://smpl.is.tue.mpg.de/)  |  |
-| 2018 | CVPR | | [End-to-end Recovery of Human Shape and Pose](https://arxiv.org/abs/1712.06584)     | [Project](https://akanazawa.github.io/hmr/)  | [GitHub](https://github.com/akanazawa/hmr)  |
+| 2016 | ECCV | SMPLify | [Keep it SMPL: Automatic Estimation of 3D Human Pose and Shape from a Single Image](https://arxiv.org/abs/1607.08128)     | [Project](https://smplify.is.tue.mpg.de/)  | [GitHub](https://github.com/vchoutas/smplify-x) |
+| 2018 | CVPR | HMR | [End-to-end Recovery of Human Shape and Pose](https://arxiv.org/abs/1712.06584)     | [Project](https://akanazawa.github.io/hmr/)  | [GitHub](https://github.com/akanazawa/hmr)  |
 | 2018 | CVPR | | [Learning to Estimate 3D Human Pose and Shape from a Single Color Image](https://arxiv.org/abs/1805.04092)     |   | |
 | 2019 | CVPR | GraphCMR | [Convolutional Mesh Regression for Single-Image Human Shape Reconstruction](https://arxiv.org/abs/1905.03244)     | [Project](https://www.nikoskolot.com/projects/cmr/)  | [GitHub](https://github.com/nkolot/GraphCMR)  |
 | 2019 | CVPR | SMPL-X | [Expressive Body Capture: 3D Hands, Face, and Body from a Single Image](https://arxiv.org/abs/1904.05866)     | [Project](https://smpl-x.is.tue.mpg.de/)  | [GitHub](https://github.com/vchoutas/smplify-x)  |
@@ -335,31 +335,38 @@ If you have suggestions for new resources, improvements to methodologies, or cor
 | 2019 | ICCV | DenseRaC | [DenseRaC: Joint 3D Pose and Shape Estimation by Dense Render-and-Compare](https://arxiv.org/abs/1910.00116)     |   |   |
 | 2019 | MM | DaNet | [DaNet: Decompose-and-aggregate Network for 3D Human Shape and Pose Estimation](https://zhanghongwen.cn/pdf/acmmm19DaNet.pdf)     |   |   |
 | 2019 | NeurIPS | | [Sim2real transfer learning for 3D human pose estimation: motion to the rescue](https://arxiv.org/abs/1907.02499)     |   |   |
+| 2020 | CVPR | DecoMR | [3D Human Mesh Regression with Dense Correspondence](https://arxiv.org/pdf/2006.05734)     |  | [GitHub](https://github.com/zengwang430521/DecoMR?tab=readme-ov-file)  |
+| 2020 | CVPR | VIBE | [VIBE: Video Inference for Human Body Pose and Shape Estimation](https://arxiv.org/abs/1912.05656)     |  | [GitHub](https://github.com/mkocabas/VIBE)  |
+| 2020 | TOG | PhysCap | [PhysCap: Physically Plausible Monocular 3D Motion Capture in Real Time](https://arxiv.org/abs/2008.08880)     | [Project](https://vcai.mpi-inf.mpg.de/projects/PhysCap/)  | [GitHub](https://github.com/soshishimada/PhysCap_demo_release)  |
 | 2020 | ECCV | | [Human Body Model Fitting by Learned Gradient Descent](https://arxiv.org/abs/2008.08474)     |  | [GitHub](https://github.com/InpatientJam/Learned-Gradient-Descent)  |
-| 2020 | ECCV | | [Hierarchical Kinematic Human Mesh Recovery](https://arxiv.org/abs/2003.04232)     |  |  |
+| 2020 | ECCV | HKMR | [Hierarchical Kinematic Human Mesh Recovery](https://arxiv.org/abs/2003.04232)     |  |  |
 | 2020 | ECCV | I2L-MeshNet | [I2L-MeshNet: Image-to-Lixel Prediction Network for Accurate 3D Human Pose and Mesh Estimation from a Single RGB Image](https://arxiv.org/abs/2008.03713)     |  | [GitHub](https://github.com/mks0601/I2L-MeshNet_RELEASE)  |
-| 2020 | CVPR | | [3D Human Mesh Regression with Dense Correspondence](https://arxiv.org/pdf/2006.05734)     |  | [GitHub](https://github.com/zengwang430521/DecoMR?tab=readme-ov-file)  |
-| 2020 | CVPR | | [VIBE: Video Inference for Human Body Pose and Shape Estimation](https://arxiv.org/abs/1912.05656)     |  | [GitHub](https://github.com/mkocabas/VIBE)  |
-| 2021 | CVPR | | [End-to-End Human Pose and Mesh Reconstruction with Transformers](https://arxiv.org/abs/2012.09760)     |  | [GitHub](https://github.com/microsoft/MeshTransformer)  |
-| 2020 | TOG | | [PhysCap: Physically Plausible Monocular 3D Motion Capture in Real Time](https://arxiv.org/abs/2008.08880)     | [Project](https://vcai.mpi-inf.mpg.de/projects/PhysCap/)  | [GitHub](https://github.com/soshishimada/PhysCap_demo_release)  |
+| 2021 | CVPR | METRO | [End-to-End Human Pose and Mesh Reconstruction with Transformers](https://arxiv.org/abs/2012.09760)     |  | [GitHub](https://github.com/microsoft/MeshTransformer)  |
+| 2021 | CVPR | HybrIK | [HybrIK: A Hybrid Analytical-Neural Inverse Kinematics Solution for 3D Human Pose and Shape Estimation](https://arxiv.org/abs/2011.14672)     | [Project](https://jeffli.site/HybrIK/) | [GitHub](https://github.com/jeffffffli/HybrIK)  |
 | 2021 | ICCV | MAED | [Encoder-decoder with Multi-level Attention for 3D Human Shape and Pose Estimation](https://arxiv.org/abs/2109.02303)     |  | [GitHub](https://github.com/ziniuwan/maed)  |
 | 2021 | ICCV | SPEC | [SPEC: Seeing People in the Wild with an Estimated Camera](https://arxiv.org/abs/2110.00620)     | [Project](https://spec.is.tue.mpg.de/)  | [GitHub](https://github.com/mkocabas/SPEC)  |
 | 2021 | ICCV | PyMAF | [PyMAF: 3D Human Pose and Shape Regression with Pyramidal Mesh Alignment Feedback Loop](https://arxiv.org/abs/2103.16507)     | [Project](https://zhanghongwen.cn/pymaf/)  | [GitHub](https://github.com/HongwenZhang/PyMAF)  |
-| 2021 | ICCV | HuMoR | [HuMoR: 3D Human Motion Model for Robust Pose Estimation](https://arxiv.org/abs/2105.04668)     |  | [GitHub](https://github.com/davrempe/humor)  |
+| 2021 | ICCV | HuMoR | [HuMoR: 3D Human Motion Model for Robust Pose Estimation](https://arxiv.org/abs/2105.04668)     | [Project](https://geometry.stanford.edu/projects/humor/) | [GitHub](https://github.com/davrempe/humor)  |
 | 2021 | ICCV | PARE | [PARE: Part Attention Regressor for 3D Human Body Estimation](https://arxiv.org/abs/2104.08527)     | [Project](https://pare.is.tue.mpg.de/)  | [GitHub](https://github.com/mkocabas/PARE)  |
-| 2022 | ECCV | CLIFF | [CLIFF: Carrying Location Information in Full Frames into Human Pose and Shape Estimation](https://arxiv.org/abs/2208.00571)     |  | [GitHub](https://github.com/huawei-noah/noah-research/tree/master/CLIFF)  |
 | 2022 | CVPR | GLAMR | [GLAMR: Global Occlusion-Aware Human Mesh Recovery with Dynamic Cameras](https://arxiv.org/abs/2112.01524)     | [Project](https://nvlabs.github.io/GLAMR/)  | [GitHub](https://github.com/NVlabs/GLAMR)  |
+| 2022 | ECCV | CLIFF | [CLIFF: Carrying Location Information in Full Frames into Human Pose and Shape Estimation](https://arxiv.org/abs/2208.00571)     |  | [GitHub](https://github.com/huawei-noah/noah-research/tree/master/CLIFF)  |
+| 2022 | ECCV | D&D | [D&D: Learning Human Dynamics from Dynamic Camera](https://arxiv.org/abs/2209.08790)     | | [GitHub](https://github.com/jeffffffli/DnD)  |
 | 2023 | TPAMI | PyMAF-X | [PyMAF-X: Towards Well-aligned Full-body Model Regression from Monocular Images](https://arxiv.org/abs/2207.06400)     | [Project](https://www.liuyebin.com/pymaf-x/)  | [GitHub](https://github.com/HongwenZhang/PyMAF-X)  |
 | 2023 | CVPR | TRACE | [TRACE: 5D Temporal Regression of Avatars with Dynamic Cameras in 3D Environments](https://arxiv.org/abs/2306.02850)     | [Project](https://www.yusun.work/TRACE/TRACE.html)  | [GitHub](https://github.com/Arthur151/ROMP)  |
-| 2023 | CVPR | | [Decoupling Human and Camera Motion from Videos in the Wild](https://arxiv.org/abs/2302.12827)     | [Project](https://vye16.github.io/slahmr/)  | [GitHub](https://github.com/vye16/slahmr)  |
-| 2023 | CVPR | | [3D Human Pose Estimation via Intuitive Physics](https://arxiv.org/abs/2303.18246)     | [Project](https://ipman.is.tue.mpg.de/)  | [GitHub](https://github.com/sha2nkt/ipman-r)  |
-| 2023 | ICCV | | [Humans in 4D: Reconstructing and Tracking Humans with Transformers](https://arxiv.org/abs/2305.20091)     | [Project](https://shubham-goel.github.io/4dhumans/)  | [GitHub](https://github.com/shubham-goel/4D-Humans)  |
+| 2023 | CVPR | SLAHMR | [Decoupling Human and Camera Motion from Videos in the Wild](https://arxiv.org/abs/2302.12827)     | [Project](https://vye16.github.io/slahmr/)  | [GitHub](https://github.com/vye16/slahmr)  |
+| 2023 | CVPR | IPMAN | [3D Human Pose Estimation via Intuitive Physics](https://arxiv.org/abs/2303.18246)     | [Project](https://ipman.is.tue.mpg.de/)  | [GitHub](https://github.com/sha2nkt/ipman-r)  |
+| 2023 | CVPR | NIKI | [NIKI: Neural Inverse Kinematics with Invertible Neural Networks for 3D Human Pose and Shape Estimation](https://arxiv.org/abs/2305.08590)     | | [GitHub](https://github.com/jeffffffli/NIKI)
+| 2023 | ICCV | HMR2.0 | [Humans in 4D: Reconstructing and Tracking Humans with Transformers](https://arxiv.org/abs/2305.20091)     | [Project](https://shubham-goel.github.io/4dhumans/)  | [GitHub](https://github.com/shubham-goel/4D-Humans)  |
 | 2023 | NeurIPS | SMPLer-X | [SMPLer-X: Scaling Up Expressive Human Pose and Shape Estimation](https://arxiv.org/abs/2309.17448)     | [Project](https://caizhongang.com/projects/SMPLer-X/)  | [GitHub](https://github.com/SMPLCap/SMPLer-X)  |
-| 2024 | NeurIPS | | [Neural Localizer Fields for Continuous 3D Human Pose and Shape Estimation](https://arxiv.org/abs/2407.07532)     | [Project](https://istvansarandi.com/nlf/)  | [GitHub](https://github.com/isarandi/nlf)  |
 | 2024 | CVPR | TokenHMR | [TokenHMR: Advancing Human Mesh Recovery with a Tokenized Pose Representation](https://arxiv.org/abs/2404.16752)     | [Project](https://tokenhmr.is.tue.mpg.de/)  | [GitHub](https://github.com/saidwivedi/TokenHMR)  
 | 2024 | CVPR | WHAM | [WHAM: Reconstructing World-grounded Humans with Accurate 3D Motion](https://arxiv.org/abs/2312.07531)     | [Project](https://wham.is.tue.mpg.de/)  | [GitHub](https://github.com/yohanshin/WHAM)  
-| 2024 | ECCV | TRAM | [TRAM: Global Trajectory and Motion of 3D Humans from in-the-wild Videos](https://arxiv.org/abs/2403.17346)     | [Project](https://yufu-wang.github.io/tram4d/)  | [GitHub](https://github.com/yufu-wang/tram)  
+| 2024 | ECCV | TRAM | [TRAM: Global Trajectory and Motion of 3D Humans from in-the-wild Videos](https://arxiv.org/abs/2403.17346)     | [Project](https://yufu-wang.github.io/tram4d/)  | [GitHub](https://github.com/yufu-wang/tram)
+| 2024 | ECCV | COIN | [COIN: Control-Inpainting Diffusion Prior for Human and Camera Motion Estimatio](https://arxiv.org/abs/2408.16426)     | [Project](https://nvlabs.github.io/COIN/)  |
+| 2024 | NeurIPS | NLF | [Neural Localizer Fields for Continuous 3D Human Pose and Shape Estimation](https://arxiv.org/abs/2407.07532)     | [Project](https://istvansarandi.com/nlf/)  | [GitHub](https://github.com/isarandi/nlf)  |
 | 2025 | AAAI | GenHMR | [GenHMR: Generative Human Mesh Recovery](https://arxiv.org/abs/2412.14444)     | [Project](https://m-usamasaleem.github.io/publication/GenHMR/GenHMR.html)  |  |
+| 2025 | ICLR | CoMotion | [CoMotion: Concurrent Multi-person 3D Motion](https://arxiv.org/abs/2504.12186)     | | [GitHub](https://github.com/apple/ml-comotion) |
+| 2025 | CVPR | BLADE | [BLADE: Single-view Body Mesh Learning through Accurate Depth Estimation](https://arxiv.org/abs/2412.08640)     | [Project](https://research.nvidia.com/labs/amri/projects/blade/)  |  |
+| 2025 | ICCV | GENMO | [GENMO: A GENarlist Model for Human MOtion](https://arxiv.org/abs/2505.01425)     | [Project](https://research.nvidia.com/labs/dair/genmo/)  |  |
 
 ---
 

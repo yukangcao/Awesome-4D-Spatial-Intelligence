@@ -132,6 +132,168 @@
 | 2025 | CVPR      | Zero-MSF | [Zero-Shot Monocular Scene Flow Estimation in the Wild](https://arxiv.org/abs/2501.10357)                        | [Project](https://research.nvidia.com/labs/lpr/zero_msf//) | [GitHub](https://github.com/SunYangtian/UniGeo) |
 | 2025 | ICCV | SpatialTrackerV2 | [SpatialTrackerV2: 3D Point Tracking Made Easy](https://arxiv.org/abs/2507.12462) | [Project](https://spatialtracker.github.io/) | [GitHub](https://github.com/henry123-boy/SpaTrackerV2) |
 
+
+## Level 3 -- 4D dynamic scenes
+
+### General 4D scene reconstruction
+
+| Year | Venue | Acronym | Paper | Project | GitHub |
+|------|-------|---------|-------|---------|-------------|
+| 2005 | Siggraph | | [Video-based rendering](https://dl.acm.org/doi/10.1145/1128923.1128969)     |  |  |
+| 2017 | CVPR | | [3D Menagerie: Modeling the 3D shape and pose of animals](https://arxiv.org/abs/1611.07700)     |  |  |
+| 2020 | NeurIPS | | [Online adaptation for consistent mesh reconstruction in the wild](https://arxiv.org/abs/2012.03196)     |  |  |
+| 2020 | CVPR | | [Novel View Synthesis of Dynamic Scenes with Globally Coherent Depths from a Monocular Camera](https://arxiv.org/abs/2004.01294)     | [Project](https://research.nvidia.com/publication/2020-06_novel-view-synthesis-dynamic-scenes-globally-coherent-depths) | [GitHub](https://github.com/visonpon/New-View-Synthesis) |
+| 2021 | | | [Neural Trajectory Fields for Dynamic Novel View Synthesis](https://arxiv.org/abs/2105.05994)     | | |
+| 2021 | IJCV | | [The Isowarp: The Template-Based Visual Geometry of Isometric Surfaces](https://link.springer.com/article/10.1007/s11263-021-01472-w)     | | |
+| 2021 | CVPR | | [Space-time Neural Irradiance Fields for Free-Viewpoint Video](https://arxiv.org/abs/2105.02976)     | [Project](https://video-nerf.github.io/) | |
+| 2021 | CVPR | LASR | [LASR: Learning Articulated Shape Reconstruction from a Monocular Video](https://arxiv.org/abs/2105.02976)     | [Project](https://lasr-google.github.io/) | [GitHub](https://github.com/google/lasr) |
+| 2021 | CVPR | | [Neural Scene Flow Fields for Space-Time View Synthesis of Dynamic Scenes](https://arxiv.org/abs/2011.13084)     | [Project](https://www.cs.cornell.edu/~zl548/NSFF/) | [GitHub](https://github.com/zhengqili/Neural-Scene-Flow-Fields) |
+| 2021 | ICCV | | [Neural radiance flow for 4d view synthesis and video processing](https://arxiv.org/abs/2012.09790)     | [Project](https://yilundu.github.io/nerflow/) | [GitHub](https://github.com/yilundu/nerflow) |
+| 2021 | ICCV | Nerfies | [Nerfies: Deformable Neural Radiance Fields](https://arxiv.org/abs/2011.12948)     | [Project](https://nerfies.github.io/) | [GitHub](https://github.com/google/nerfies) |
+| 2021 | ICCV | | [Dynamic View Synthesis from Dynamic Monocular Video](https://arxiv.org/abs/2105.06468)     | [Project](https://free-view-video.github.io/) | [GitHub](https://github.com/gaochen315/DynamicNeRF) |
+| 2021 | ICCV | | [Non-Rigid Neural Radiance Fields: Reconstruction and Novel View Synthesis of a Dynamic Scene From Monocular Video](https://arxiv.org/abs/2012.12247)     | [Project](https://vcai.mpi-inf.mpg.de/projects/nonrigid_nerf/) | [GitHub](https://github.com/facebookresearch/nonrigid_nerf) |
+| 2021 | Siggraph Asia | HyperNeRF | [HyperNeRF: A Higher-Dimensional Representation for Topologically Varying Neural Radiance Fields](https://arxiv.org/abs/2106.13228)     | [Project](https://hypernerf.github.io/) | [GitHub](https://github.com/google/hypernerf) |
+| 2021 | CVPR | D-NeRF | [D-NeRF: Neural Radiance Fields for Dynamic Scenes](https://arxiv.org/abs/2011.13961)     | [Project](https://www.albertpumarola.com/research/D-NeRF/index.html) | [GitHub](https://github.com/albertpumarola/D-NeRF) |
+| 2022 | CVPR | | [ϕ-SfT: Shape-from-Template with a Physics-Based Deformation Model](https://arxiv.org/abs/2203.11938)     | [Project](https://4dqv.mpi-inf.mpg.de/phi-SfT/) | [GitHub](https://github.com/navamikairanda/phi_sft) |
+| 2022 | CVPR | BANMo | [BANMo: Building Animatable 3D Neural Models from Many Casual Videos](https://arxiv.org/abs/2112.12761)     | [Project](https://banmo-www.github.io/) | [GitHub](https://github.com/facebookresearch/banmo) |
+| 2022 | CVPR | | [Revealing Occlusions with 4D Neural Fields](https://arxiv.org/abs/2204.10916)     | [Project](https://occlusions.cs.columbia.edu/) | [GitHub](https://github.com/basilevh/occlusions-4d) |
+| 2023 | | EmerNeRF | [EmerNeRF: Emergent Spatial-Temporal Scene Decomposition via Self-Supervision](https://arxiv.org/abs/2311.02077)     | [Project](https://emernerf.github.io/) | [GitHub](https://github.com/NVlabs/EmerNeRF) |
+| 2023 | | DeformGS | [DeformGS: Scene Flow in Highly Deformable Scenes for Deformable Object Manipulation](https://arxiv.org/abs/2312.00583)     | [Project](https://md-splatting.github.io/) | [GitHub](https://github.com/momentum-robotics-lab/deformgs) |
+| 2023 | | | [Dynamic 3D Gaussians: Tracking by Persistent Dynamic View Synthesis](https://arxiv.org/abs/2308.09713)     | [Project](https://dynamic3dgaussians.github.io/) | [GitHub](https://github.com/JonathonLuiten/Dynamic3DGaussians?tab=readme-ov-file) |
+| 2023 | | | [An Efficient 3D Gaussian Representation for Monocular/Multi-view Dynamic Scenes](https://openreview.net/forum?id=EcGS75uziT)     | | [GitHub](https://github.com/raven38/EfficientDynamic3DGaussian) |
+| 2023 | CVPR | Tensor4D | [Tensor4D : Efficient Neural 4D Decomposition for High-fidelity Dynamic Reconstruction and Rendering](https://arxiv.org/abs/2211.11610)     | [Project](https://liuyebin.com/tensor4d/tensor4d.html) | [GitHub](https://github.com/DSaurus/Tensor4D) |
+| 2023 | CVPR | | [Unbiased 4D: Monocular 4D Reconstruction with a Neural Deformation Model](https://arxiv.org/abs/2206.08368)     | [Project](https://4dqv.mpi-inf.mpg.de/Ub4D/) | [GitHub](https://github.com/ecmjohnson/ub4d) |
+| 2023 | CVPR | DyLiN | [DyLiN: Making Light Field Networks Dynamic](https://arxiv.org/abs/2303.14243)     | [Project](https://dylin2023.github.io/) | [GitHub](https://github.com/Heng14/DyLiN) |
+| 2023 | CVPR | HexPlane | [HexPlane: A Fast Representation for Dynamic Scenes](https://arxiv.org/abs/2301.09632)     | | [GitHub](https://github.com/Caoang327/HexPlane) |
+| 2023 | CVPR | K-Planes | [K-Planes: Explicit Radiance Fields in Space, Time, and Appearance](https://arxiv.org/abs/2301.10241)     | [Project](https://sarafridov.github.io/K-Planes/) | [GitHub](https://github.com/sarafridov/K-Planes) |
+| 2023 | CVPR | | [Flow supervision for Deformable NeRF](https://arxiv.org/abs/2303.16333)     | [Project](https://mightychaos.github.io/projects/fsdnerf/) | [GitHub](https://github.com/MightyChaos/fsdnerf) |
+| 2023 | CVPR | | [Neural Scene Chronology](https://arxiv.org/abs/2306.07970)     | [Project](https://zju3dv.github.io/neusc/) | [GitHub](https://github.com/zju3dv/NeuSC) |
+| 2023 | CVPR | | [Spacetime Surface Regularization for Neural Dynamic Scene Reconstruction](https://openaccess.thecvf.com/content/ICCV2023/papers/Choe_Spacetime_Surface_Regularization_for_Neural_Dynamic_Scene_Reconstruction_ICCV_2023_paper.pdf)     | | |
+| 2023 | CVPR | | [Robust Dynamic Radiance Fields](https://arxiv.org/abs/2301.02239)     | [Project](https://robust-dynrf.github.io/) | [GitHub](https://github.com/facebookresearch/robust-dynrf) |
+| 2023 | ICCV | PPR | [PPR: Physically Plausible Reconstruction from Monocular Videos](https://openaccess.thecvf.com/content/ICCV2023/html/Yang_PPR_Physically_Plausible_Reconstruction_from_Monocular_Videos_ICCV_2023_paper.html)     | [Project](https://gengshan-y.github.io/ppr/) | [GitHub](https://github.com/gengshan-y/ppr?tab=readme-ov-file) |
+| 2023 | ICCV | MonoNeRF | [MonoNeRF: Learning a Generalizable Dynamic Radiance Field from Monocular Videos](https://arxiv.org/abs/2212.13056)     | | [GitHub](https://github.com/tianfr/MonoNeRF) |
+| 2024 | CVPR | REACTO | [REACTO: Reconstructing Articulated Objects from a Single Video](https://arxiv.org/abs/2404.11151)     | [Project](https://chaoyuesong.github.io/REACTO/) | [GitHub](https://github.com/ChaoyueSong/REACTO) |
+| 2024 | CVPR | | [Spacetime Gaussian Feature Splatting for Real-Time Dynamic View Synthesis](https://arxiv.org/abs/2312.16812)     | [Project](https://oppo-us-research.github.io/SpacetimeGaussians-website/) | [GitHub](https://github.com/oppo-us-research/SpacetimeGaussians) |
+| 2024 | CVPR | 3DGStream | [3DGStream: On-the-Fly Training of 3D Gaussians for Efficient Streaming of Photo-Realistic Free-Viewpoint Videos](https://arxiv.org/abs/2403.01444)     | [Project](https://sjojok.top/3dgstream/) | [GitHub](https://github.com/SJoJoK/3DGStream) |
+| 2024 | CVPR | | [4D Gaussian Splatting for Real-Time Dynamic Scene Rendering](https://arxiv.org/abs/2310.08528)     | [Project](https://guanjunwu.github.io/4dgs/index.html) | [GitHub](https://github.com/hustvl/4DGaussians) |
+| 2024 | CVPR | | [Deformable 3D Gaussians for High-Fidelity Monocular Dynamic Scene Reconstruction](https://arxiv.org/abs/2309.13101)     | [Project](https://ingra14m.github.io/Deformable-Gaussians/) | [GitHub](https://github.com/ingra14m/Deformable-3D-Gaussians) |
+| 2024 | CVPR | DaReNeRF | [DaReNeRF: Direction-aware Representation for Dynamic Scenes](https://arxiv.org/abs/2309.13101)     | | |
+| 2024 | CVPR | | [Neural Parametric Gaussians for Monocular Non-Rigid Object Reconstruction](https://arxiv.org/abs/2312.01196)     | [Project](https://geometric-rl.mpi-inf.mpg.de/npg/) | [GitHub](https://github.com/DevikalyanDas/npgs) |
+| 2024 | CVPR | | [3D Geometry-aware Deformable Gaussian Splatting for Dynamic View Synthesis](https://arxiv.org/abs/2404.06270)     | [Project](https://npucvr.github.io/GaGS/) | [GitHub](https://github.com/zhichengLuxx/GaGS) |
+| 2024 | CVPR | SC-GS | [SC-GS: Sparse-Controlled Gaussian Splatting for Editable Dynamic Scenes](https://arxiv.org/abs/2312.14937)     | [Project](https://yihua7.github.io/SC-GS-web/) | [GitHub](https://github.com/CVMI-Lab/SC-GS) |
+| 2024 | CVPRW | FlowIBR | [FlowIBR: Leveraging Pre-Training for Efficient Neural Image-Based Rendering of Dynamic Scenes](https://arxiv.org/abs/2309.05418)     | [Project](https://flowibr.github.io/) | |
+| 2024 | ICLR | | [Real-time Photorealistic Dynamic Scene Representation and Rendering with 4D Gaussian Splatting](https://arxiv.org/abs/2310.10642)     | [Project](https://fudan-zvg.github.io/4d-gaussian-splatting/) | [GitHub](https://github.com/fudan-zvg/4d-gaussian-splatting) |
+| 2024 | Siggraph | | [4D-Rotor Gaussian Splatting: Towards Efficient Novel View Synthesis for Dynamic Scenes](https://arxiv.org/abs/2402.03307)     | [Project](https://weify627.github.io/4drotorgs/) | [GitHub](https://github.com/weify627/4D-Rotor-Gaussians) |
+| 2024 | Siggraph Asia | | [Dynamic Gaussian Marbles for Novel View Synthesis of Casual Monocular Videos](https://arxiv.org/abs/2406.18717)     | [Project](https://geometry.stanford.edu/projects/dynamic-gaussian-marbles.github.io/) | [GitHub](https://github.com/coltonstearns/dynamic-gaussian-marbles) |
+| 2024 |  | MoSca | [MoSca: Dynamic Gaussian Fusion from Casual Videos via 4D Motion Scaffolds](https://arxiv.org/abs/2405.17421)     | [Project](https://www.cis.upenn.edu/~leijh/projects/mosca/) | [GitHub](https://github.com/JiahuiLei/MoSca) |
+| 2024 |  | Das3R | [DAS3R: Dynamics-Aware Gaussian Splatting for Static Scene Reconstruction](https://arxiv.org/abs/2412.19584)     | | [GitHub](https://github.com/kai422/DAS3R) |
+| 2024 |  | | [Feed-Forward Bullet-Time Reconstruction of Dynamic Scenes from Monocular Videos](https://arxiv.org/abs/2412.03526)     | [Project](https://research.nvidia.com/labs/toronto-ai/bullet-timer/) |  |
+| 2024 |  | | [Shape of Motion: 4D Reconstruction from a Single Video](https://arxiv.org/abs/2407.13764)     | [Project](https://shape-of-motion.github.io/) | [GitHub](https://github.com/vye16/shape-of-motion) |
+| 2024 | TVCG |  | [Decoupling Dynamic Monocular Videos for Dynamic View Synthesis](https://arxiv.org/abs/2304.01716)     | | |
+| 2024 | TMLR  | GaussianFlow | [GaussianFlow: Splatting Gaussian Dynamics for 4D Content Creation](https://arxiv.org/abs/2403.12365)     | [Project](https://zerg-overmind.github.io/GaussianFlow.github.io/) | [GitHub](https://github.com/Zerg-Overmind/GaussianFlow) |
+| 2024 | ECCV | | [Per-Gaussian Embedding-Based Deformation for Deformable 3D Gaussian Splatting](https://arxiv.org/abs/2404.03613)     | [Project](https://jeongminb.github.io/e-d3dgs/) | [GitHub](https://github.com/JeongminB/E-D3DGS) |
+| 2024 | NeurIPS | DN-4DGS | [DN-4DGS: Denoised Deformable Network with Temporal-Spatial Aggregation for Dynamic Scene Rendering](https://arxiv.org/abs/2410.13607)     | | [GitHub](https://github.com/peoplelu/DN-4DGS) |
+| 2024 | NeurIPS | MotionGS | [MotionGS: Exploring Explicit Motion Guidance for Deformable 3D Gaussian Splatting](https://arxiv.org/abs/2410.07707)     | [Project](https://ruijiezhu94.github.io/MotionGS_page/) | [GitHub](https://github.com/RuijieZhu94/MotionGS) |
+| 2024 | ICLR |  | [Neural SDF Flow for 3D Reconstruction of Dynamic Scenes](https://openreview.net/forum?id=rzF0R6GOd4)     | | [GitHub](https://github.com/wei-mao-2019/SDFFlow) |
+| 2024 | ICLR |  | [Pseudo-Generalized Dynamic View Synthesis from a Video](https://arxiv.org/abs/2310.08587)     | [Project](https://xiaoming-zhao.github.io/projects/pgdvs/) | [GitHub](https://github.com/apple/ml-pgdvs) |
+| 2024 | | DynaSurfGS | [DynaSurfGS: Dynamic Surface Reconstruction with Planar-based Gaussian Splatting](https://arxiv.org/abs/2408.13972)     | [Project](https://open3dvlab.github.io/DynaSurfGS/) | [GitHub](https://github.com/Open3DVLab/DynaSurfGS) |
+| 2024 | | st-2dgs | [Space-time 2D Gaussian Splatting for Accurate Surface Reconstruction under Complex Dynamic Scenes](https://arxiv.org/abs/2409.18852)     | [Project](https://tb2-sy.github.io/st-2dgs/) | [GitHub](https://github.com/tb2-sy/st-2dgs) |
+| 2024 | | DGNS | [DGNS: Deformable Gaussian Splatting and Dynamic Neural Surface for Monocular Dynamic 3D Reconstruction](https://arxiv.org/abs/2412.03910)     |  | |
+| 2025 | ICLR | DG-Mesh  | [Dynamic Gaussians Mesh: Consistent Mesh Reconstruction from Dynamic Scenes](https://arxiv.org/abs/2404.12379)     | [Project](https://www.liuisabella.com/DG-Mesh/) | [GitHub](https://github.com/Isabella98Liu/DG-Mesh) |
+| 2025 | ICLR | MoDGS  | [MoDGS: Dynamic Gaussian Splatting from Casually-captured Monocular Videos with Depth Priors](https://arxiv.org/abs/2406.00434)     | [Project](https://modgs.github.io/) | [GitHub](https://github.com/MobiusLqm/MoDGS) |
+| 2025 | WACV | AT-GS  | [Adaptive and Temporally Consistent Gaussian Surfels for Multi-view Dynamic Reconstruction](https://arxiv.org/abs/2411.06602)     | [Project](https://fraunhoferhhi.github.io/AT-GS/) | [GitHub](https://github.com/fraunhoferhhi/AT-GS) |
+| 2025 | CVPR | SpectroMotion  | [SpectroMotion: Dynamic 3D Reconstruction of Specular Scenes](https://arxiv.org/abs/2410.17249)     | [Project](https://cdfan0627.github.io/spectromotion/) | [GitHub](https://github.com/cdfan0627/SpectroMotion) |
+| 2025 |  |  | [Light of Normals: Unified Feature Representation for Universal Photometric Stereo](https://arxiv.org/abs/2506.18882)     | [Project](https://houyuanchen111.github.io/lino.github.io/) | [GitHub](https://github.com/houyuanchen111/LINO_UniPS) |
+
+
+
+### Human-centric dynamic modeling - SMPL
+
+
+| Year | Venue | Acronym | Paper | Project | GitHub |
+|------|-------|---------|-------|---------|-------------|
+| 2015 | TOG | SMPL | [Smpl: A skinned multi-person linear model](https://dl.acm.org/doi/10.1145/2816795.2818013)     | [Project](https://smpl.is.tue.mpg.de/)  |  |
+| 2016 | ECCV | | [Keep it SMPL: Automatic Estimation of 3D Human Pose and Shape from a Single Image](https://arxiv.org/abs/1607.08128)     | [Project](https://smpl.is.tue.mpg.de/)  |  |
+| 2018 | CVPR | | [End-to-end Recovery of Human Shape and Pose](https://arxiv.org/abs/1712.06584)     | [Project](https://akanazawa.github.io/hmr/)  | [GitHub](https://github.com/akanazawa/hmr)  |
+| 2018 | CVPR | | [Learning to Estimate 3D Human Pose and Shape from a Single Color Image](https://arxiv.org/abs/1805.04092)     |   | |
+| 2019 | CVPR | GraphCMR | [Convolutional Mesh Regression for Single-Image Human Shape Reconstruction](https://arxiv.org/abs/1905.03244)     | [Project](https://www.nikoskolot.com/projects/cmr/)  | [GitHub](https://github.com/nkolot/GraphCMR)  |
+| 2019 | CVPR | SMPL-X | [Expressive Body Capture: 3D Hands, Face, and Body from a Single Image](https://arxiv.org/abs/1904.05866)     | [Project](https://smpl-x.is.tue.mpg.de/)  | [GitHub](https://github.com/vchoutas/smplify-x)  |
+| 2019 | CVPR | HoloPose | [HoloPose: Holistic 3D Human Reconstruction In-The-Wild](https://openaccess.thecvf.com/content_CVPR_2019/papers/Guler_HoloPose_Holistic_3D_Human_Reconstruction_In-The-Wild_CVPR_2019_paper.pdf)     |   |  |
+| 2019 | CVPR | | [Learning 3D Human Dynamics from Video](https://arxiv.org/abs/1812.01601)     | [Project](https://akanazawa.github.io/human_dynamics/)  | [GitHub](https://github.com/akanazawa/human_dynamics)  |
+| 2019 | ICCV | SPIN | [Learning to Reconstruct 3D Human Pose and Shape via Model-fitting in the Loop](https://arxiv.org/abs/1909.12828)     | [Project](https://www.nikoskolot.com/projects/spin/)  | [GitHub](https://github.com/nkolot/SPIN)  |
+| 2019 | ICCV | DenseRaC | [DenseRaC: Joint 3D Pose and Shape Estimation by Dense Render-and-Compare](https://arxiv.org/abs/1910.00116)     |   |   |
+| 2019 | MM | DaNet | [DaNet: Decompose-and-aggregate Network for 3D Human Shape and Pose Estimation](https://zhanghongwen.cn/pdf/acmmm19DaNet.pdf)     |   |   |
+| 2019 | NeurIPS | | [Sim2real transfer learning for 3D human pose estimation: motion to the rescue](https://arxiv.org/abs/1907.02499)     |   |   |
+| 2020 | ECCV | | [Human Body Model Fitting by Learned Gradient Descent](https://arxiv.org/abs/2008.08474)     |  | [GitHub](https://github.com/InpatientJam/Learned-Gradient-Descent)  |
+| 2020 | ECCV | | [Hierarchical Kinematic Human Mesh Recovery](https://arxiv.org/abs/2003.04232)     |  |  |
+| 2020 | ECCV | I2L-MeshNet | [I2L-MeshNet: Image-to-Lixel Prediction Network for Accurate 3D Human Pose and Mesh Estimation from a Single RGB Image](https://arxiv.org/abs/2008.03713)     |  | [GitHub](https://github.com/mks0601/I2L-MeshNet_RELEASE)  |
+| 2020 | CVPR | | [3D Human Mesh Regression with Dense Correspondence](https://arxiv.org/pdf/2006.05734)     |  | [GitHub](https://github.com/zengwang430521/DecoMR?tab=readme-ov-file)  |
+| 2020 | CVPR | | [VIBE: Video Inference for Human Body Pose and Shape Estimation](https://arxiv.org/abs/1912.05656)     |  | [GitHub](https://github.com/mkocabas/VIBE)  |
+| 2021 | CVPR | | [End-to-End Human Pose and Mesh Reconstruction with Transformers](https://arxiv.org/abs/2012.09760)     |  | [GitHub](https://github.com/microsoft/MeshTransformer)  |
+| 2020 | TOG | | [PhysCap: Physically Plausible Monocular 3D Motion Capture in Real Time](https://arxiv.org/abs/2008.08880)     | [Project](https://vcai.mpi-inf.mpg.de/projects/PhysCap/)  | [GitHub](https://github.com/soshishimada/PhysCap_demo_release)  |
+| 2021 | ICCV | MAED | [Encoder-decoder with Multi-level Attention for 3D Human Shape and Pose Estimation](https://arxiv.org/abs/2109.02303)     |  | [GitHub](https://github.com/ziniuwan/maed)  |
+| 2021 | ICCV | SPEC | [SPEC: Seeing People in the Wild with an Estimated Camera](https://arxiv.org/abs/2110.00620)     | [Project](https://spec.is.tue.mpg.de/)  | [GitHub](https://github.com/mkocabas/SPEC)  |
+| 2021 | ICCV | PyMAF | [PyMAF: 3D Human Pose and Shape Regression with Pyramidal Mesh Alignment Feedback Loop](https://arxiv.org/abs/2103.16507)     | [Project](https://zhanghongwen.cn/pymaf/)  | [GitHub](https://github.com/HongwenZhang/PyMAF)  |
+| 2021 | ICCV | HuMoR | [HuMoR: 3D Human Motion Model for Robust Pose Estimation](https://arxiv.org/abs/2105.04668)     |  | [GitHub](https://github.com/davrempe/humor)  |
+| 2021 | ICCV | PARE | [PARE: Part Attention Regressor for 3D Human Body Estimation](https://arxiv.org/abs/2104.08527)     | [Project](https://pare.is.tue.mpg.de/)  | [GitHub](https://github.com/mkocabas/PARE)  |
+| 2022 | ECCV | CLIFF | [CLIFF: Carrying Location Information in Full Frames into Human Pose and Shape Estimation](https://arxiv.org/abs/2208.00571)     |  | [GitHub](https://github.com/huawei-noah/noah-research/tree/master/CLIFF)  |
+| 2022 | CVPR | GLAMR | [GLAMR: Global Occlusion-Aware Human Mesh Recovery with Dynamic Cameras](https://arxiv.org/abs/2112.01524)     | [Project](https://nvlabs.github.io/GLAMR/)  | [GitHub](https://github.com/NVlabs/GLAMR)  |
+| 2023 | TPAMI | PyMAF-X | [PyMAF-X: Towards Well-aligned Full-body Model Regression from Monocular Images](https://arxiv.org/abs/2207.06400)     | [Project](https://www.liuyebin.com/pymaf-x/)  | [GitHub](https://github.com/HongwenZhang/PyMAF-X)  |
+| 2023 | CVPR | TRACE | [TRACE: 5D Temporal Regression of Avatars with Dynamic Cameras in 3D Environments](https://arxiv.org/abs/2306.02850)     | [Project](https://www.yusun.work/TRACE/TRACE.html)  | [GitHub](https://github.com/Arthur151/ROMP)  |
+| 2023 | CVPR | | [Decoupling Human and Camera Motion from Videos in the Wild](https://arxiv.org/abs/2302.12827)     | [Project](https://vye16.github.io/slahmr/)  | [GitHub](https://github.com/vye16/slahmr)  |
+| 2023 | CVPR | | [3D Human Pose Estimation via Intuitive Physics](https://arxiv.org/abs/2303.18246)     | [Project](https://ipman.is.tue.mpg.de/)  | [GitHub](https://github.com/sha2nkt/ipman-r)  |
+| 2023 | ICCV | | [Humans in 4D: Reconstructing and Tracking Humans with Transformers](https://arxiv.org/abs/2305.20091)     | [Project](https://shubham-goel.github.io/4dhumans/)  | [GitHub](https://github.com/shubham-goel/4D-Humans)  |
+| 2023 | NeurIPS | SMPLer-X | [SMPLer-X: Scaling Up Expressive Human Pose and Shape Estimation](https://arxiv.org/abs/2309.17448)     | [Project](https://caizhongang.com/projects/SMPLer-X/)  | [GitHub](https://github.com/SMPLCap/SMPLer-X)  |
+| 2024 | NeurIPS | | [Neural Localizer Fields for Continuous 3D Human Pose and Shape Estimation](https://arxiv.org/abs/2407.07532)     | [Project](https://istvansarandi.com/nlf/)  | [GitHub](https://github.com/isarandi/nlf)  |
+| 2024 | CVPR | TokenHMR | [TokenHMR: Advancing Human Mesh Recovery with a Tokenized Pose Representation](https://arxiv.org/abs/2404.16752)     | [Project](https://tokenhmr.is.tue.mpg.de/)  | [GitHub](https://github.com/saidwivedi/TokenHMR)  
+| 2024 | CVPR | WHAM | [WHAM: Reconstructing World-grounded Humans with Accurate 3D Motion](https://arxiv.org/abs/2312.07531)     | [Project](https://wham.is.tue.mpg.de/)  | [GitHub](https://github.com/yohanshin/WHAM)  
+| 2024 | ECCV | TRAM | [TRAM: Global Trajectory and Motion of 3D Humans from in-the-wild Videos](https://arxiv.org/abs/2403.17346)     | [Project](https://yufu-wang.github.io/tram4d/)  | [GitHub](https://github.com/yufu-wang/tram)  
+| 2025 | AAAI | GenHMR | [GenHMR: Generative Human Mesh Recovery](https://arxiv.org/abs/2412.14444)     | [Project](https://m-usamasaleem.github.io/publication/GenHMR/GenHMR.html)  |  |
+
+
+
+### Human-centric dynamic modeling - Egocentric
+
+
+| Year | Venue | Acronym | Paper | Project | GitHub |
+|------|-------|---------|-------|---------|-------------|
+| 2022 | ECCV | AvatarPoser | [Avatarposer: Articulated full-body pose tracking from sparse motion sensing](https://arxiv.org/abs/2207.13784)     | | [GitHub](https://github.com/eth-siplab/AvatarPoser) |
+| 2023 | | | [Egocentric Whole-Body Motion Capture with FisheyeViT and Diffusion-Based Motion Refinement](https://arxiv.org/abs/2311.16495)     |  | [GitHub](https://github.com/jianwang-mpi/egowholemocap) |
+| 2023 | CVPR | | [Ego-Body Pose Estimation via Ego-Head Pose Estimation](https://arxiv.org/abs/2212.04636)     | [Project](https://lijiaman.github.io/projects/egoego/)  | [GitHub](https://github.com/lijiaman/egoego_release) |
+| 2023 | CVPR | BoDiffusion | [BoDiffusion: Diffusing Sparse Observations for Full-Body Human Motion Synthesis](https://arxiv.org/abs/2304.11118)     |  | [GitHub](https://github.com/BCV-Uniandes/BoDiffusion) |
+| 2023 | CVPR | SeceneEgo | [Scene-aware egocentric 3d human pose estimation](https://arxiv.org/abs/2212.11684)     |  | [GitHub](https://github.com/jianwang-mpi/SceneEgo) |
+| 2023 | CVPR | | [Avatars Grow Legs: Generating Smooth Human Motion from Sparse Tracking Inputs with Diffusion Model](https://arxiv.org/abs/2304.08577)     | [Project](https://dulucas.github.io/agrol/)  | [GitHub](https://github.com/facebookresearch/AGRoL) |
+| 2025 | 3DV | | [HMD^2: Environment-aware Motion Generation from Single Egocentric Head-Mounted Device](https://arxiv.org/abs/2409.13426)     |  |  |
+| 2025 | CVPR | EgoLM | [Egolm: Multi-modal language model of egocentric motions](https://arxiv.org/pdf/2409.18127)     | [Project](https://hongfz16.github.io/projects/EgoLM)  |  |
+| 2025 | CVPR | EgoAllo | [Estimating Body and Hand Motion in an Ego-sensed World](https://arxiv.org/abs/2410.03665)     | [Project](https://egoallo.github.io/)  | [GitHub](https://github.com/brentyi/egoallo)  |
+
+
+
+### Human-centric dynamic modeling - Appearance-rich
+
+
+| Year | Venue | Acronym | Paper | Project | GitHub |
+|------|-------|---------|-------|---------|-------------|
+| 2018 | TOG | MonoPerfCap | [MonoPerfCap: Human Performance Capture from Monocular Video](https://arxiv.org/abs/1708.02136)     | | |
+| 2018 | CVPR | VideoAvatars | [Video Based Reconstruction of 3D People Models](https://arxiv.org/abs/1803.04758)     | | [GitHub](https://github.com/thmoa/videoavatars) |
+| 2018 | TOG | LiveCap | [LiveCap: Real-time Human Performance Capture from Monocular Video](https://arxiv.org/abs/1810.02648)     | |  |
+| 2021 | 3DV |  | [Human Performance Capture from Monocular Video in the Wild](https://arxiv.org/abs/2111.14672)     | [Project](https://ait.ethz.ch/human-performance-capture) | [GitHub](https://github.com/MoyGcc/hpcwild) |
+| 2021 | NeurIPS | A-NeRF | [A-NeRF: Articulated Neural Radiance Fields for Learning Human Shape, Appearance, and Pose](https://arxiv.org/abs/2102.06199)     | [Project](https://lemonatsu.github.io/anerf/) | [GitHub](https://github.com/LemonATsu/A-NeRF) |
+| 2021 | NeurIPS | | [ViSER: Video-Specific Surface Embeddings for Articulated 3D Shape Reconstruction](https://openreview.net/forum?id=-JJy-Hw8TFB)     | | [GitHub](https://github.com/gengshan-y/viser) |
+| 2022 | CVPR | SelfRecon | [SelfRecon: Self Reconstruction Your Digital Avatar from Monocular Video](https://arxiv.org/abs/2201.12792)     | [Project](https://jby1993.github.io/SelfRecon/) | [GitHub](https://github.com/jby1993/SelfReconCode) |
+| 2022 | ECCV | DANBO | [DANBO: Disentangled Articulated Neural Body Representations via Graph Neural Networks](https://arxiv.org/abs/2205.01666)     | [Project](https://lemonatsu.github.io/danbo/) | [GitHub](https://github.com/LemonATsu/DANBO-pytorch) |
+| 2022 | ECCV | AvatarPoser | [Avatarposer: Articulated full-body pose tracking from sparse motion sensing](https://arxiv.org/abs/2207.13784)     | | [GitHub](https://github.com/eth-siplab/AvatarPoser) |
+| 2022 | NeurIPS | FOF | [FOF: Learning Fourier Occupancy Field for Monocular Real-time Human Reconstruction](https://arxiv.org/abs/2206.02194)     | [Project](https://cic.tju.edu.cn/faculty/likun/projects/FOFX/index.html) | [GitHub](https://github.com/fengq1a0/FOF) |
+| 2023 | CVPR | Vid2Avatar | [Vid2Avatar: 3D Avatar Reconstruction from Videos in the Wild via Self-supervised Scene Decomposition](https://arxiv.org/abs/2302.11566)     | [Project](https://moygcc.github.io/vid2avatar/) | [GitHub](https://github.com/MoyGcc/vid2avatar) |
+| 2024 | CVPR | HUGS  | [HUGS: Human Gaussian Splats](https://arxiv.org/abs/2311.17910)     | [Project](https://machinelearning.apple.com/research/hugs)  | [GitHub](https://github.com/apple/ml-hugs)  |
+| 2024 | CVPR | GaussianAvatar  | [GaussianAvatar: Towards Realistic Human Avatar Modeling from a Single Video via Animatable 3D Gaussians](https://arxiv.org/abs/2312.02134)     | [Project](https://huliangxiao.github.io/GaussianAvatar)  | [GitHub](https://github.com/aipixel/GaussianAvatar)  |
+| 2024 | CVPR | Animatable Gaussians  | Animatable Gaussians: Learning Pose-dependent Gaussian Maps for High-fidelity Human Avatar Modeling](https://arxiv.org/pdf/2311.16096)     | [Project](https://animatable-gaussians.github.io/)  | [GitHub](https://github.com/lizhe00/AnimatableGaussians?tab=readme-ov-file)  |
+| 2024 | CVPR | GPS-Gaussian  | [GPS-Gaussian: Generalizable Pixel-wise 3D Gaussian Splatting for Real-time Human Novel View Synthesis](https://arxiv.org/abs/2312.02155)     | [Project](https://shunyuanzheng.github.io/GPS-Gaussian)  | [GitHub](https://github.com/aipixel/GPS-Gaussian)  |
+| 2024 | CVPR | 3DGS-Avatar  | [3DGS-Avatar: Animatable Avatars via Deformable 3D Gaussian Splatting](https://arxiv.org/abs/2312.09228)     | [Project](https://neuralbodies.github.io/3DGS-Avatar/  | [GitHub](https://github.com/mikeqzy/3dgs-avatar-release)  |
+| 2025 | | GauSTAR  | [GauSTAR: Gaussian Surface Tracking and Reconstruction](https://arxiv.org/abs/2501.10283)     |  |  |
+
+
+
 ## Level 4 -- Interaction among scene components
 
 ### SMPL-based human-centric interaction - HOI

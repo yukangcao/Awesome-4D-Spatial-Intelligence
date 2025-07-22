@@ -22,6 +22,33 @@
 | 2025 | CVPR | Video Depth Anything | [Video Depth Anything: Consistent Depth Estimation for Super-Long Videos](https://arxiv.org/abs/2501.12375) | [Project](https://videodepthanything.github.io/)  | [GitHub](https://github.com/DepthAnything/Video-Depth-Anything) |
 
 
+### 📷 Static Video to Depth Estimation
+
+| Year | Venue      | Acronym | Paper                                                                                                                                               | Project | GitHub |
+|------|------------|---------|-----------------------------------------------------------------------------------------------------------------------------------------------------|---------|--------|
+| 2018 | CVPR       | GeoNet  | [GeoNet: Unsupervised learning of dense depth, optical flow and camera pose](https://openaccess.thecvf.com/content_cvpr_2018/papers/Yin_GeoNet_Unsupervised_Learning_CVPR_2018_paper.pdf) | – | [GitHub](https://github.com/yzcjtr/GeoNet) |
+| 2019 | NeurIPS    | SC-SfMLearner | [Unsupervised scale-consistent depth and ego-motion learning from monocular video](https://proceedings.neurips.cc/paper_files/paper/2019/file/6364d3f0f495b6ab9dcf8d3b5c6e0b01-Paper.pdf) | – | [GitHub](https://github.com/JiawangBian/SC-SfMLearner-Release) |
+| 2019 | ICCV       | –       | [Depth from videos in the wild: Unsupervised monocular depth learning from unknown cameras](https://openaccess.thecvf.com/content_ICCV_2019/papers/Gordon_Depth_From_Videos_in_the_Wild_Unsupervised_Monocular_Depth_Learning_ICCV_2019_paper.pdf) | – | [GitHub](https://github.com/bolianchen/pytorch_depth_from_videos_in_the_wild) |
+| 2019 | ICCV       | –       | [Exploiting temporal consistency for real-time video depth estimation](https://openaccess.thecvf.com/content_ICCV_2019/papers/Zhang_Exploiting_Temporal_Consistency_for_Real-Time_Video_Depth_Estimation_ICCV_2019_paper.pdf) | – | [GitHub](https://github.com/hkzhang-git/ST-CLSTM) |
+| 2019 | IEEE T‑ITS | FlowGRU | [Temporally consistent depth prediction with flow‑guided memory units](https://openaccess.thecvf.com/content/WACV2023/papers/Li_Temporally_Consistent_Online_Depth_Estimation_in_Dynamic_Scenes_WACV_2023_paper.pdf) | [Project](https://cvlab.yonsei.ac.kr/projects/FlowGRU/) | [GitHub](https://github.com/cvlab-yonsei/FlowGRU) |
+| 2020 | IEEE RA‑L  | –       | [Don’t forget the past: Recurrent depth estimation from monocular video](https://arxiv.org/pdf/2001.02613) | [Project](https://www.trace.ethz.ch/publications/2020/rec_depth_estimation/index.html) | – |
+| 2020 | IROS       | FDNet   | [Video depth estimation by fusing flow‑to‑depth proposals](https://ieeexplore.ieee.org/document/9341191) | [Project](https://jiaxinxie97.github.io/Jiaxin-Xie/FDNet/FDNet) | [GitHub](https://github.com/jiaxinxie97/Video-depth-estimation) |
+| 2020 | SIGGRAPH   | –       | [Consistent video depth estimation](https://arxiv.org/abs/2004.15021) | [Project](https://roxanneluo.github.io/Consistent-Video-Depth-Estimation/) | [GitHub](https://github.com/facebookresearch/consistent_depth) |
+| 2021 | CVPR       | CVD     | [Robust consistent video depth estimation](https://arxiv.org/pdf/2012.05901) | [Project](https://robust-cvd.github.io/) | [GitHub](https://github.com/facebookresearch/robust_cvd) |
+| 2021 | CVPR       | ESTDepth | [Multi‑view depth estimation using epipolar spatio‑temporal networks](https://openaccess.thecvf.com/content/CVPR2021/papers/Long_Multi-View_Depth_Estimation_Using_Epipolar_Spatio-Temporal_Networks_CVPR_2021_paper.pdf) | [Project](https://www.xxlong.site/ESTDepth/) | [GitHub](https://github.com/xxlong0/ESTDepth) |
+| 2021 | CVPR       | ManyDepth | [The temporal opportunist: Self‑supervised multi‑frame monocular depth](https://arxiv.org/abs/2104.14540) | – | [GitHub](https://github.com/nianticlabs/manydepth) |
+| 2021 | ECCV       | SimpleRecon | [Simplerecon: 3D reconstruction without 3D convolutions](https://arxiv.org/abs/2208.14743) | [Project](https://nianticlabs.github.io/simplerecon/) | [GitHub](https://github.com/nianticlabs/simplerecon) |
+| 2022 | CVPR       | DepthFormer | [Multi‑frame self‑supervised depth with transformers](https://openaccess.thecvf.com/content/CVPR2022/papers/Guizilini_Multi-Frame_Self-Supervised_Depth_With_Transformers_CVPR_2022_paper.pdf) | [Project](https://sites.google.com/tri.global/depthformer) | – |
+| 2022 | 3DV        | MonoViT | [Monovit: Self‑supervised monocular depth estimation with a vision transformer](https://arxiv.org/abs/2208.03543) | – | [GitHub](https://github.com/zxcqlf/MonoViT) |
+| 2022 | ACM MM     | FMNet   | [Less is more: Consistent video depth estimation with masked frames modeling](https://dl.acm.org/doi/10.1145/3503161.3547713) | – | [GitHub](https://github.com/RaymondWang987/FMNet) |
+| 2023 | ICCV       | MAMo    | [MAMo: Leveraging memory and attention for monocular video depth estimation](https://openaccess.thecvf.com/content/ICCV2023/papers/Yasarla_MAMo_Leveraging_Memory_and_Attention_for_Monocular_Video_Depth_Estimation_ICCV_2023_paper.pdf) | – | – |
+| 2024 | T-PAMI     | NVDS+   | [NVDS: Towards Efficient and Versatile Neural Stabilizer for Video Depth Estimation](https://arxiv.org/pdf/2307.08695) | [Project](https://raymondwang987.github.io/NVDS/) | [GitHub](https://github.com/RaymondWang987/NVDS) |
+| 2024 | ECCV       | FutureDepth | [FutureDepth: Learning to predict the future improves video depth estimation](https://arxiv.org/pdf/2403.12953) | – | – |
+| 2025 | CVPR       | ChronoDepth | [Learning Temporally Consistent Video Depth from Video Diffusion Priors](https://arxiv.org/abs/2406.01493) | [Project](https://xdimlab.github.io/ChronoDepth/) | [GitHub](https://github.com/jiahao-shao1/ChronoDepth) |
+| 2024 | arXiv      | DepthAnyVideo | [Depth Any Video with Scalable Synthetic Data](https://arxiv.org/abs/2410.10815) | [Project](https://depthanyvideo.github.io/) | [GitHub](https://github.com/Nightmare-n/DepthAnyVideo) |
+| 2025 | CVPR       | –       | [Video Depth Anything: Consistent Depth Estimation for Super‑Long Videos](https://arxiv.org/abs/2501.12375) | [Project](https://videodepthanything.github.io/) | [GitHub](https://github.com/DepthAnything/Video-Depth-Anything) |
+
+
 ---
 
 ### 📷 Camera pose estimation

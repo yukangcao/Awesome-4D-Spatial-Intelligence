@@ -148,7 +148,7 @@ If you have suggestions for new resources, improvements to methodologies, or cor
 | 2025 | arXiv    | UniGeo  | [UniGeo: Taming Video Diffusion for Unified Consistent Geometry Estimation](https://arxiv.org/abs/2505.24521) | [Project](https://sunyangtian.github.io/UniGeo-web/) | [GitHub](https://github.com/SunYangtian/UniGeo) |
 | 2025 | arXiv    | Point3R  | [Point3R: Streaming 3D Reconstruction with Explicit Spatial Pointer Memory](https://arxiv.org/abs/2507.02863) | [Project](https://ykiwu.github.io/Point3R/) | [GitHub](https://github.com/YkiWu/Point3R) |
 | 2025 | arXiv    | StreamVGGT  | [Streaming 4D Visual Geometry Transformer](https://arxiv.org/abs/2507.11539) | [Project](https://wzzheng.net/StreamVGGT/) | [GitHub](https://github.com/wzzheng/StreamVGGT) |
-| 2025 | arXiv    | PI^3  | [π^3: Scalable Permutation-Equivariant Visual Geometry Learning](https://arxiv.org/abs/2507.13347) | [Project](https://yyfz.github.io/pi3/) | [GitHub](https://github.com/yyfz/Pi3) |
+| 2025 | arXiv    | π$`^3`$  | [π$`^3`$: Scalable Permutation-Equivariant Visual Geometry Learning](https://arxiv.org/abs/2507.13347) | [Project](https://yyfz.github.io/pi3/) | [GitHub](https://github.com/yyfz/Pi3) |
 
 ### Unifying depth, camera pose, and 3D tracking
 

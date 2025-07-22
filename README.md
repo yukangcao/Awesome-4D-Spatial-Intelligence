@@ -1,4 +1,4 @@
-# Awesome-3D-Spatial-Intelligence
+# Awesome-4D-Spatial-Intelligence
 
 
 
@@ -132,6 +132,82 @@
 | 2025 | CVPR      | Zero-MSF | [Zero-Shot Monocular Scene Flow Estimation in the Wild](https://arxiv.org/abs/2501.10357)                        | [Project](https://research.nvidia.com/labs/lpr/zero_msf//) | [GitHub](https://github.com/SunYangtian/UniGeo) |
 | 2025 | ICCV | SpatialTrackerV2 | [SpatialTrackerV2: 3D Point Tracking Made Easy](https://arxiv.org/abs/2507.12462) | [Project](https://spatialtracker.github.io/) | [GitHub](https://github.com/henry123-boy/SpaTrackerV2) |
 
+## Level 2 -- 3D scene components
+
+### Small-scale 3D object/scene reconstruction
+
+| Year | Venue | Acronym | Paper | Project | GitHub |
+|------|-------|---------|-------|---------|-------------|
+| 2006 | Photogrammetric Computer Vision |  | [Bundle Adjustment Rules](https://www.isprs.org/proceedings/xxxvi/part3/singlepapers/O_24.pdf)     | |  |
+| 2010 | ECCV |  | [Bundle adjustment in the large](https://homes.cs.washington.edu/~sagarwal/bal.pdf)     | [Project](https://grail.cs.washington.edu/projects/bal/) |  |
+| 2016 | CVPR | COLMAP | [Structure-from-motion Revisited](https://openaccess.thecvf.com/content_cvpr_2016/papers/Schonberger_Structure-From-Motion_Revisited_CVPR_2016_paper.pdf)     |  |  [GitHub](https://github.com/colmap/colmap) |
+| 2016 | ECCV |  | [Pixelwise View Selection for Unstructured Multi-View Stereo](https://demuc.de/papers/schoenberger2016mvs.pdf)     |  |  [GitHub](https://github.com/mitjap/pwmvs) |
+| 2019 | ECCV | MVSNet | [MVSNet: Depth Inference for Unstructured Multi-view Stereo](https://demuc.de/papers/schoenberger2016mvs.pdf)     |  |  [GitHub](https://github.com/YoYo000/MVSNet) |
+| 2020 | BMVC |  | [Visibility-aware Multi-view Stereo Network](https://arxiv.org/abs/2008.07928)     |  |  [GitHub](https://github.com/jzhangbs/Vis-MVSNet) |
+| 2020 | CVPR |  | [Cost Volume Pyramid Based Depth Inference for Multi-View Stereo](https://arxiv.org/abs/1912.08329)     |  |  [GitHub](https://github.com/JiayuYANG/CVP-MVSNet) |
+| 2020 | CVPR |  | [Cascade Cost Volume for High-Resolution Multi-View Stereo and Stereo Matching](https://arxiv.org/abs/1912.06378)     |  |  [GitHub](https://github.com/alibaba/cascade-stereo) |
+| 2021 | ICCV | | [Pixel-Perfect Structure-from-Motion with Featuremetric Refinement](https://arxiv.org/abs/2108.08291)     |  |  [GitHub](https://github.com/cvg/pixel-perfect-sfm) |
+| 2021 | NeurIPS | NeuS | [NeuS: Learning Neural Implicit Surfaces by Volume Rendering for Multi-view Reconstruction](https://arxiv.org/abs/2106.10689)     | [Project](https://lingjie0206.github.io/papers/NeuS/) |  [GitHub](https://github.com/Totoro97/NeuS?tab=readme-ov-file) |
+| 2021 | NeurIPS | VolSDF | [Volume Rendering of Neural Implicit Surfaces](https://arxiv.org/abs/2106.12052)     | [Project](https://lioryariv.github.io/volsdf/) |  [GitHub](https://github.com/lioryariv/volsdf) |
+| 2021 | CVPR | PatchMatchNet | [PatchmatchNet: Learned Multi-View Patchmatch Stereo](https://arxiv.org/abs/2108.08291)     |  |  [GitHub](https://github.com/FangjinhuaWang/PatchmatchNet) |
+| 2022 | ECCV | SparseNeuS | [SparseNeuS: Fast Generalizable Neural Surface Reconstruction from Sparse Views](https://arxiv.org/abs/2206.05737)     | [Project](https://www.xxlong.site/SparseNeuS/) |  [GitHub](https://github.com/xxlong0/SparseNeuS) |
+| 2023 | ICCV | C2F2NeUS | [C2F2NeUS: Cascade Cost Frustum Fusion for High Fidelity and Generalizable Neural Surface Reconstruction](https://arxiv.org/abs/2306.10003)     | | |
+| 2023 | NeurIPS | GenS | [GenS: Generalizable Neural Surface Reconstruction from Multi-View Images](https://arxiv.org/abs/2406.02495)     | |  [GitHub](https://github.com/prstrive/GenS) |
+| 2023 | CVPR | NeAT | [NeAT: Learning Neural Implicit Surfaces with Arbitrary Topologies from Multi-view Images](https://arxiv.org/abs/2303.12012)     | [Project](https://xmeng525.github.io/xiaoxumeng.github.io/projects/cvpr23_neat) |  [GitHub](https://github.com/xmeng525/NeAT) |
+| 2023 | CVPR | Neuralangelo | [Neuralangelo: High-Fidelity Neural Surface Reconstruction](https://arxiv.org/abs/2306.03092)     | [Project](https://research.nvidia.com/labs/dir/neuralangelo/) |  [GitHub](https://github.com/NVlabs/neuralangelo) |
+| 2024 | Siggraph | 2DGS | [2D Gaussian Splatting for Geometrically Accurate Radiance Fields](https://arxiv.org/abs/2403.17888)     | [Project](https://surfsplatting.github.io/) |  [GitHub](https://github.com/hbb1/2d-gaussian-splatting) |
+| 2024 | TVCG | PGSR | [PGSR: Planar-based Gaussian Splatting for Efficient and High-Fidelity Surface Reconstruction](https://arxiv.org/abs/2406.06521)     | [Project](https://zju3dv.github.io/pgsr/) |  [GitHub](https://github.com/zju3dv/PGSR) |
+| 2025 |  | SolidGS | [SolidGS: Consolidating Gaussian Surfel Splatting for Sparse-View Surface Reconstruction](https://arxiv.org/abs/2412.15400)     | [Project](https://mickshen7558.github.io/projects/SolidGS/) | |
+| 2024 | CVPR | UFORecon | [UFORecon: Generalizable Sparse-View Surface Reconstruction from Arbitrary and UnFavOrable Sets](https://arxiv.org/abs/2403.05086)     | [Project](https://youngju-na.github.io/uforecon.github.io/) |  [GitHub](https://github.com/Youngju-Na/UFORecon/) |
+| 2024 | CVPR | SuGaR | [SuGaR: Surface-Aligned Gaussian Splatting for Efficient 3D Mesh Reconstruction and High-Quality Mesh Rendering](https://arxiv.org/abs/2311.12775)     | [Project](https://anttwo.github.io/sugar/) |  [GitHub](https://github.com/Anttwo/SuGaR) |
+| 2024 | ECCV | SuRF | [Surface-Centric Modeling for High-Fidelity Generalizable Neural Surface Reconstruction](https://arxiv.org/abs/2409.03634)     | |  [GitHub](https://github.com/prstrive/SuRF) |
+| 2024 | ECCV | LoRa | [LaRa: Efficient Large-Baseline Radiance Fields](https://arxiv.org/abs/2407.04699)     | [Project](https://apchenstu.github.io/LaRa/) |  [GitHub](https://github.com/autonomousvision/LaRa) |
+| 2024 | ECCV | SceneScript | [SceneScript: Reconstructing Scenes With An Autoregressive Structured Language Model](https://arxiv.org/abs/2403.13064)     | [Project](https://www.projectaria.com/scenescript/) |  [GitHub](https://github.com/facebookresearch/scenescript) |
+| 2024 | ECCV | EgoLifter | [EgoLifter: Open-world 3D Segmentation for Egocentric Perception](https://arxiv.org/abs/2403.18118)     | [Project](https://egolifter.github.io/) |  [GitHub](https://github.com/facebookresearch/egolifter) |
+| 2025 | TMM | Tri2Plane | [Tri2Plane: Advancing Neural Implicit Surface Reconstruction for Indoor Scenes](https://ieeexplore.ieee.org/document/10982030)     |  |  |
+| 2025 | CVPR | GaussianUDF | [GaussianUDF: Inferring Unsigned Distance Functions through 3D Gaussian Splatting](https://arxiv.org/abs/2503.19458)     | [Project](https://lisj575.github.io/GaussianUDF/) | [GitHub](https://github.com/lisj575/GaussianUDF) |
+| 2025 |  | SOF | [SOF: Sorted Opacity Fields for Fast Unbounded Surface Reconstruction](https://www.arxiv.org/abs/2506.19139)     |  | |
+| 2025 |  | SOF | [RNb-NeuS2: Multi-View Surface Reconstruction Using Normal and Reflectance Cues](https://arxiv.org/abs/2506.04115)     | | [GitHub](https://github.com/RobinBruneau/RNb-NeuS2) |
+| 2025 |  | QuickSplat | [QuickSplat: Fast 3D Surface Reconstruction via Learned Gaussian Initialization](https://arxiv.org/abs/2505.05591)     | [Project](https://liu115.github.io/quicksplat) | |
+| 2025 | CVPR | | [Geometry Field Splatting with Gaussian Surfels](https://arxiv.org/abs/2411.17067)     | | |
+| 2025 | NeurIPS | ReTR | [ReTR: Modeling Rendering Via Transformer for Generalizable Neural Surface Reconstruction](https://arxiv.org/abs/2305.18832)     | [Project](https://yixunliang.github.io/ReTR/) | [GitHub](https://github.com/YixunLiang/ReTR) |
+
+
+---
+
+### Large-scale 3D scene reconstruction
+
+| Year | Venue | Acronym | Paper | Project | GitHub |
+|------|-------|---------|-------|---------|-------------|
+| 2021 | CVPR | NeRF++ | [NeRF++: Analyzing and Improving Neural Radiance Fields](https://arxiv.org/abs/2404.10772)     | |  [GitHub](https://github.com/Kai-46/nerfplusplus) |
+| 2021 | CVPR | NeuralRecon | [NeuralRecon: Real-Time Coherent 3D Reconstruction from Monocular Video](https://arxiv.org/abs/2104.00681)     | [Project](https://zju3dv.github.io/neuralrecon/) |  [GitHub](https://github.com/zju3dv/NeuralRecon) |
+| 2021 | NeurIPS | TransformerFusion | [TransformerFusion: Monocular RGB Scene Reconstruction using Transformers](https://arxiv.org/abs/2107.02191)     | |  [GitHub](https://github.com/AljazBozic/TransformerFusion) |
+| 2022 | CVPR | Block-NeRF | [Block-NeRF: Scalable Large Scene Neural View Synthesis](https://arxiv.org/abs/2202.05263)     | [Project](https://waymo.com/research/block-nerf/) | |
+| 2022 | CVPR | Mega-NeRF | [Mega-NeRF: Scalable Construction of Large-Scale NeRFs for Virtual Fly-Throughs](https://arxiv.org/abs/2112.10703)     | [Project](https://meganerf.cmusatyalab.org/) | [GitHub](https://github.com/cmusatyalab/mega-nerf) |
+| 2022 | ECCV | BungeeNeRF | [BungeeNeRF: Progressive Neural Radiance Field for Extreme Multi-scale Scene Rendering](https://arxiv.org/abs/2112.05504)     | [Project](https://city-super.github.io/citynerf/) | [GitHub](https://github.com/city-super/BungeeNeRF) |
+| 2022 | NeurIPS | MonoSDF | [MonoSDF: Exploring Monocular Geometric Cues for Neural Implicit Surface Reconstruction](https://arxiv.org/abs/2206.00665)     | [Project](https://niujinshuchong.github.io/monosdf/) | [GitHub](https://github.com/autonomousvision/monosdf) |
+| 2023 | ICCV | FineRecon | [FineRecon: Depth-aware Feed-forward Network for Detailed 3D Reconstruction](https://arxiv.org/abs/2304.01480)     |  |  [GitHub](https://github.com/apple/ml-finerecon) |
+| 2023 | ICCV | CVRecon | [CVRecon: Rethinking 3D Geometric Feature Learning For Neural Reconstruction](https://arxiv.org/abs/2304.14633)     | [Project](https://cvrecon.ziyue.cool/) |  [GitHub](https://github.com/fengziyue/CVRecon) |
+| 2023 | ICCV | Zip-NeRF | [Zip-NeRF: Anti-Aliased Grid-Based Neural Radiance Fields](https://arxiv.org/abs/2404.10772)     | [Project](https://jonbarron.info/zipnerf/) |  [GitHub](https://github.com/SuLvXiangXin/zipnerf-pytorch) |
+| 2023 | CVPR | F2-NeRF | [F2-NeRF: Fast Neural Radiance Field Training with Free Camera Trajectories](https://arxiv.org/abs/2303.15951)     | [Project](https://totoro97.github.io/projects/f2-nerf/) |  [GitHub](https://github.com/Totoro97/f2-nerf) |
+| 2023 | CVPR | DG-Recon | [DG-Recon: Depth-Guided Neural 3D Scene Reconstruction](https://openaccess.thecvf.com/content/ICCV2023/papers/Ju_DG-Recon_Depth-Guided_Neural_3D_Scene_Reconstruction_ICCV_2023_paper.pdf)     | | |
+| 2023 | CVPR | VisFusion | [VisFusion: Visibility-aware Online 3D Scene Reconstruction from Videos](https://arxiv.org/abs/2304.10687)     | [Project](https://huiyu-gao.github.io/visfusion/) |  [GitHub](https://github.com/huiyu-gao/VisFusion) |
+| 2023 | AAAI | Flora | [Flora: Dual-Frequency LOss-Compensated ReAl-Time Monocular 3D Video Reconstruction](https://ojs.aaai.org/index.php/AAAI/article/view/25358)     | |  |
+| 2023 | ICLR | Switch-NeRF | [Switch-nerf: Learning scene decomposition with mixture of experts for large-scale neural radiance fields](https://openreview.net/forum?id=PQ2zoIZqvm)     | [Project](https://mizhenxing.github.io/switchnerf/) |  [GitHub](https://github.com/MiZhenxing/Switch-NeRF) |
+| 2024 | ECCV | CityGaussian | [CityGaussian: Real-time High-quality Large-Scale Scene Rendering with Gaussians](https://arxiv.org/abs/2404.01133)     | [Project](https://dekuliutesla.github.io/citygs/) |  [GitHub](https://github.com/Linketic/CityGaussian) |
+| 2024 |  | Octree-GS | [Octree-GS: Towards Consistent Real-time Rendering with LOD-Structured 3D Gaussians](https://arxiv.org/abs/2403.17898)     | [Project](https://city-super.github.io/octree-gs/) |  [GitHub](https://github.com/city-super/Octree-GS) |
+| 2024 |  | SCALAR-NeRF | [SCALAR-NeRF: SCAlable LARge-scale Neural Radiance Fields for Scene Reconstruction](https://arxiv.org/abs/2311.16657)     |  |  |
+| 2024 | Siggraph Asia | | [Gaussian Opacity Fields: Efficient Adaptive Surface Reconstruction in Unbounded Scenes](https://arxiv.org/abs/2404.10772)     | [Project](https://niujinshuchong.github.io/gaussian-opacity-fields/) |  [GitHub](https://github.com/autonomousvision/gaussian-opacity-fields) |
+| 2024 | CVPR | Scaffold-GS | [Scaffold-GS: Structured 3D Gaussians for View-Adaptive Rendering](https://arxiv.org/abs/2312.00109)     | [Project](https://city-super.github.io/scaffold-gs/) |  [GitHub](https://github.com/city-super/Scaffold-GS) |
+| 2024 | CVPR | MonoSelfRecon | [MonoSelfRecon: Purely Self-Supervised Explicit Generalizable 3D Reconstruction of Indoor Scenes from Monocular RGB Views](https://arxiv.org/abs/2404.06753)     |  |  [GitHub](https://github.com/BlarkLee/MonoSelfRecon) |
+| 2025 |  | CityGS-X | [CityGS-X: A Scalable Architecture for Efficient and Geometrically Accurate Large-Scale Scene Reconstruction](https://arxiv.org/abs/2503.23044)     | [Project](https://lifuguan.github.io/CityGS-X/) |  [GitHub](https://github.com/gyy456/CityGS-X) |
+| 2025 |  | LODGE | [LODGE: Level-of-Detail Large-Scale Gaussian Splatting with Efficient Rendering](https://arxiv.org/abs/2505.23158)     | [Project](https://lodge-gs.github.io/) |  |
+| 2025 | ICLR | CityGaussianV2 | [CityGaussianV2: Efficient and Geometrically Accurate Reconstruction for Large-Scale Scenes](https://arxiv.org/abs/2411.00771)     | [Project](https://dekuliutesla.github.io/CityGaussianV2/) | [GitHub](https://github.com/Linketic/CityGaussian) |
+| 2025 | TMM | DetailRecon | [Focusing on Detailed Regions for Online Monocular 3D Reconstruction](https://ieeexplore.ieee.org/document/10855550)     |  |  |
+| 2025 | IROS |  | [3D Gaussian Splatting for Fine-Detailed Surface Reconstruction in Large-Scale Scene](https://arxiv.org/abs/2506.17636)     |  |  |
+| 2025 | EGSR |  | [Multiview Geometric Regularization of Gaussian Splatting for Accurate Radiance Fields](https://arxiv.org/abs/2506.13508)     |  |  |
+| 2025 | Siggraph | | [Photoreal Scene Reconstruction from an Egocentric Device](https://arxiv.org/abs/2506.04444)     | [Project](https://www.projectaria.com/photoreal-reconstruction/) | [GitHub](https://github.com/facebookresearch/egocentric_splats) |
+
 
 ## Level 3 -- 4D dynamic scenes
 
@@ -205,7 +281,7 @@
 | 2025 | CVPR | SpectroMotion  | [SpectroMotion: Dynamic 3D Reconstruction of Specular Scenes](https://arxiv.org/abs/2410.17249)     | [Project](https://cdfan0627.github.io/spectromotion/) | [GitHub](https://github.com/cdfan0627/SpectroMotion) |
 | 2025 |  |  | [Light of Normals: Unified Feature Representation for Universal Photometric Stereo](https://arxiv.org/abs/2506.18882)     | [Project](https://houyuanchen111.github.io/lino.github.io/) | [GitHub](https://github.com/houyuanchen111/LINO_UniPS) |
 
-
+---
 
 ### Human-centric dynamic modeling - SMPL
 
@@ -250,7 +326,7 @@
 | 2024 | ECCV | TRAM | [TRAM: Global Trajectory and Motion of 3D Humans from in-the-wild Videos](https://arxiv.org/abs/2403.17346)     | [Project](https://yufu-wang.github.io/tram4d/)  | [GitHub](https://github.com/yufu-wang/tram)  
 | 2025 | AAAI | GenHMR | [GenHMR: Generative Human Mesh Recovery](https://arxiv.org/abs/2412.14444)     | [Project](https://m-usamasaleem.github.io/publication/GenHMR/GenHMR.html)  |  |
 
-
+---
 
 ### Human-centric dynamic modeling - Egocentric
 
@@ -267,7 +343,7 @@
 | 2025 | CVPR | EgoLM | [Egolm: Multi-modal language model of egocentric motions](https://arxiv.org/pdf/2409.18127)     | [Project](https://hongfz16.github.io/projects/EgoLM)  |  |
 | 2025 | CVPR | EgoAllo | [Estimating Body and Hand Motion in an Ego-sensed World](https://arxiv.org/abs/2410.03665)     | [Project](https://egoallo.github.io/)  | [GitHub](https://github.com/brentyi/egoallo)  |
 
-
+---
 
 ### Human-centric dynamic modeling - Appearance-rich
 
@@ -346,6 +422,7 @@
 | 2024 | ECCV | AvatarPose | [AvatarPose: Avatar-guided 3D Pose Estimation of Close Human Interaction from Sparse Multi-view Videos](https://arxiv.org/abs/2408.02110)     | [Project](https://eth-ait.github.io/AvatarPose/) | [GitHub](https://github.com/eth-ait/AvatarPose) |
 | 2024 | NeurIPS | Harmony4D | [Harmony4D: A Video Dataset for In-The-Wild Close Human Interactions](https://arxiv.org/abs/2410.20294)     | [Project](https://jyuntins.github.io/harmony4d/) | [GitHub](https://github.com/jyuntins/harmony4d) |
 
+---
 
 ### Appearance-rich human-centric interaction
 
@@ -354,6 +431,7 @@
 | 2022 | ECCV | NeuMan | [NeuMan: Neural Human Radiance Field from a Single Video](https://arxiv.org/abs/2203.12575)     | [Project](https://machinelearning.apple.com/research/neural-human-radiance-field) | [GitHub](https://github.com/apple/ml-neuman) |
 | 2023 | ICCV | HOSNeRF | [HOSNeRF: Dynamic Human-Object-Scene Neural Radiance Fields from a Single Video](https://arxiv.org/abs/2304.12281)     | [Project](https://showlab.github.io/HOSNeRF/) | [GitHub](https://github.com/TencentARC/HOSNeRF) |
 
+---
 
 ### Egocentric human-centric interaction
 
@@ -417,6 +495,8 @@
 | 2025 | ICRA   | HOVER | [HOVER: Versatile Neural Whole-Body Controller for Humanoid Robots](https://arxiv.org/abs/2410.21229)     | [Project](https://hover-versatile-humanoid.github.io/) | [GitHub](https://github.com/NVlabs/HOVER/) |
 | 2025 | RSS   | ASAP | [ASAP: Aligning Simulation and Real-World Physics for Learning Agile Humanoid Whole-Body Skills](https://arxiv.org/abs/2502.01143)     | [Project](https://agile.human2humanoid.com/) | [GitHub](https://github.com/LeCAR-Lab/ASAP) |
 | 2025 |   | UniPhys | [UniPhys: Unified Planner and Controller with Diffusion for Flexible Physics-Based Character Control](https://arxiv.org/abs/2504.12540)     | [Project](https://wuyan01.github.io/uniphys-project/) | |
+
+---
 
 ### 3D scene reconstruction with physical plausibility
 | Year | Venue | Acronym | Paper | Project | GitHub |

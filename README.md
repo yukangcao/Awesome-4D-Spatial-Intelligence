@@ -376,14 +376,18 @@ If you have suggestions for new resources, improvements to methodologies, or cor
 | Year | Venue | Acronym | Paper | Project | GitHub |
 |------|-------|---------|-------|---------|-------------|
 | 2022 | ECCV | AvatarPoser | [Avatarposer: Articulated full-body pose tracking from sparse motion sensing](https://arxiv.org/abs/2207.13784)     | | [GitHub](https://github.com/eth-siplab/AvatarPoser) |
-| 2023 | | | [Egocentric Whole-Body Motion Capture with FisheyeViT and Diffusion-Based Motion Refinement](https://arxiv.org/abs/2311.16495)     |  | [GitHub](https://github.com/jianwang-mpi/egowholemocap) |
-| 2023 | CVPR | | [Ego-Body Pose Estimation via Ego-Head Pose Estimation](https://arxiv.org/abs/2212.04636)     | [Project](https://lijiaman.github.io/projects/egoego/)  | [GitHub](https://github.com/lijiaman/egoego_release) |
+| 2023 | CVPR | EgoEgo | [Ego-Body Pose Estimation via Ego-Head Pose Estimation](https://arxiv.org/abs/2212.04636)     | [Project](https://lijiaman.github.io/projects/egoego/)  | [GitHub](https://github.com/lijiaman/egoego_release) |
 | 2023 | CVPR | BoDiffusion | [BoDiffusion: Diffusing Sparse Observations for Full-Body Human Motion Synthesis](https://arxiv.org/abs/2304.11118)     |  | [GitHub](https://github.com/BCV-Uniandes/BoDiffusion) |
 | 2023 | CVPR | SeceneEgo | [Scene-aware egocentric 3d human pose estimation](https://arxiv.org/abs/2212.11684)     |  | [GitHub](https://github.com/jianwang-mpi/SceneEgo) |
-| 2023 | CVPR | | [Avatars Grow Legs: Generating Smooth Human Motion from Sparse Tracking Inputs with Diffusion Model](https://arxiv.org/abs/2304.08577)     | [Project](https://dulucas.github.io/agrol/)  | [GitHub](https://github.com/facebookresearch/AGRoL) |
-| 2025 | 3DV | | [HMD^2: Environment-aware Motion Generation from Single Egocentric Head-Mounted Device](https://arxiv.org/abs/2409.13426)     |  |  |
+| 2023 | CVPR | AGRoL | [Avatars Grow Legs: Generating Smooth Human Motion from Sparse Tracking Inputs with Diffusion Model](https://arxiv.org/abs/2304.08577)     | [Project](https://dulucas.github.io/agrol/)  | [GitHub](https://github.com/facebookresearch/AGRoL) |
+| 2024 | CVPR | EgoWholeBody | [Egocentric Whole-Body Motion Capture with FisheyeViT and Diffusion-Based Motion Refinement](https://arxiv.org/abs/2311.16495)     |  | [GitHub](https://github.com/jianwang-mpi/egowholemocap) |
+| 2024 | CVPR | EventEgo3D | [EventEgo3D: 3D Human Motion Capture from Egocentric Event Streams](https://arxiv.org/abs/2404.08640)     | [Project](https://4dqv.mpi-inf.mpg.de/EventEgo3D/) | [GitHub](https://github.com/Chris10M/EventEgo3D) |
+| 2025 | 3DV | HMD$^2$ | [HMD$^2$: Environment-aware Motion Generation from Single Egocentric Head-Mounted Device](https://arxiv.org/abs/2409.13426)     | [Project](https://hmdsquared.github.io/) | |
+| 2025 | IJCV | EventEgo3D++ | [EventEgo3D++: 3D Human Motion Capture from a Head Mounted Event Camera](https://arxiv.org/abs/2502.07869)     | [Project](https://eventego3d.mpi-inf.mpg.de/)  | [GitHub](https://github.com/Chris10M/EventEgo3D_plus_plus) |
 | 2025 | CVPR | EgoLM | [Egolm: Multi-modal language model of egocentric motions](https://arxiv.org/pdf/2409.18127)     | [Project](https://hongfz16.github.io/projects/EgoLM)  |  |
 | 2025 | CVPR | EgoAllo | [Estimating Body and Hand Motion in an Ego-sensed World](https://arxiv.org/abs/2410.03665)     | [Project](https://egoallo.github.io/)  | [GitHub](https://github.com/brentyi/egoallo)  |
+| 2025 | CVPR | Ego4o | [Ego4o: Egocentric Human Motion Capture and Understanding from Multi-Modal Input](https://arxiv.org/abs/2504.08449)     | [Project](https://jianwang-mpi.github.io/ego4o/)  | |
+| 2025 | CVPR | FRAME | [FRAME: Floor-aligned Representation for Avatar Motion from Egocentric Video](https://arxiv.org/abs/2503.23094)     | [Project](https://vcai.mpi-inf.mpg.de/projects/FRAME/)  | [GitHub](https://github.com/abcamiletto/frame) |
 
 ---
 

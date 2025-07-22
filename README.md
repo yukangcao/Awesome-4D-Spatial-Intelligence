@@ -2,7 +2,7 @@
 
 This repository collects summaries of over 350 recent studies on methods for reconstructing 4D spatial intelligence, and will be continuously updated.
 
-If you have suggestions for new resources, improvements to methodologies, or corrections for broken links, please don't hesitate to open an [issue](https://github.com/yukangcao/Awesome-4D-Spatial-Intelligence/issues) or submit a [pull request](hhttps://github.com/yukangcao/Awesome-4D-Spatial-Intelligence/pulls). Contributions of all kinds are welcome and greatly appreciated.
+If you have suggestions for new resources, improvements to methodologies, or corrections for broken links, please don't hesitate to open an [issue](https://github.com/yukangcao/Awesome-4D-Spatial-Intelligence/issues) or submit a [pull request](https://github.com/yukangcao/Awesome-4D-Spatial-Intelligence/pulls). Contributions of all kinds are welcome and greatly appreciated.
 
 ### Table of Contents
 
@@ -65,7 +65,7 @@ If you have suggestions for new resources, improvements to methodologies, or cor
 | 2019 | NeurIPS    | SC-SfMLearner | [Unsupervised scale-consistent depth and ego-motion learning from monocular video](https://proceedings.neurips.cc/paper_files/paper/2019/file/6364d3f0f495b6ab9dcf8d3b5c6e0b01-Paper.pdf) | – | [GitHub](https://github.com/JiawangBian/SC-SfMLearner-Release) |
 | 2019 | ICCV       | –       | [Depth from videos in the wild: Unsupervised monocular depth learning from unknown cameras](https://openaccess.thecvf.com/content_ICCV_2019/papers/Gordon_Depth_From_Videos_in_the_Wild_Unsupervised_Monocular_Depth_Learning_ICCV_2019_paper.pdf) | – | [GitHub](https://github.com/bolianchen/pytorch_depth_from_videos_in_the_wild) |
 | 2019 | ICCV       | –       | [Exploiting temporal consistency for real-time video depth estimation](https://openaccess.thecvf.com/content_ICCV_2019/papers/Zhang_Exploiting_Temporal_Consistency_for_Real-Time_Video_Depth_Estimation_ICCV_2019_paper.pdf) | – | [GitHub](https://github.com/hkzhang-git/ST-CLSTM) |
-| 2019 | IEEE T‑ITS | FlowGRU | [Temporally consistent depth prediction with flow‑guided memory units](https://openaccess.thecvf.com/content/WACV2023/papers/Li_Temporally_Consistent_Online_Depth_Estimation_in_Dynamic_Scenes_WACV_2023_paper.pdf) | [Project](https://cvlab.yonsei.ac.kr/projects/FlowGRU/) | [GitHub](https://github.com/cvlab-yonsei/FlowGRU) |
+| 2019 | IEEE T‑ITS | FlowGRU | [Temporally consistent depth prediction with flow‑guided memory units](https://ieeexplore.ieee.org/document/8848860) | [Project](https://cvlab.yonsei.ac.kr/projects/FlowGRU/) | [GitHub](https://github.com/cvlab-yonsei/FlowGRU) |
 | 2020 | IEEE RA‑L  | –       | [Don’t forget the past: Recurrent depth estimation from monocular video](https://arxiv.org/pdf/2001.02613) | [Project](https://www.trace.ethz.ch/publications/2020/rec_depth_estimation/index.html) | – |
 | 2020 | IROS       | FDNet   | [Video depth estimation by fusing flow‑to‑depth proposals](https://ieeexplore.ieee.org/document/9341191) | [Project](https://jiaxinxie97.github.io/Jiaxin-Xie/FDNet/FDNet) | [GitHub](https://github.com/jiaxinxie97/Video-depth-estimation) |
 | 2020 | SIGGRAPH   | –       | [Consistent video depth estimation](https://arxiv.org/abs/2004.15021) | [Project](https://roxanneluo.github.io/Consistent-Video-Depth-Estimation/) | [GitHub](https://github.com/facebookresearch/consistent_depth) |
@@ -177,7 +177,7 @@ If you have suggestions for new resources, improvements to methodologies, or cor
 | 2010 | ECCV |  | [Bundle adjustment in the large](https://homes.cs.washington.edu/~sagarwal/bal.pdf)     | [Project](https://grail.cs.washington.edu/projects/bal/) |  |
 | 2016 | CVPR | COLMAP | [Structure-from-motion Revisited](https://openaccess.thecvf.com/content_cvpr_2016/papers/Schonberger_Structure-From-Motion_Revisited_CVPR_2016_paper.pdf)     |  |  [GitHub](https://github.com/colmap/colmap) |
 | 2016 | ECCV |  | [Pixelwise View Selection for Unstructured Multi-View Stereo](https://demuc.de/papers/schoenberger2016mvs.pdf)     |  |  [GitHub](https://github.com/mitjap/pwmvs) |
-| 2019 | ECCV | MVSNet | [MVSNet: Depth Inference for Unstructured Multi-view Stereo](https://demuc.de/papers/schoenberger2016mvs.pdf)     |  |  [GitHub](https://github.com/YoYo000/MVSNet) |
+| 2019 | ECCV | MVSNet | [MVSNet: Depth Inference for Unstructured Multi-view Stereo](https://arxiv.org/abs/1804.02505)     |  |  [GitHub](https://github.com/YoYo000/MVSNet) |
 | 2020 | BMVC |  | [Visibility-aware Multi-view Stereo Network](https://arxiv.org/abs/2008.07928)     |  |  [GitHub](https://github.com/jzhangbs/Vis-MVSNet) |
 | 2020 | CVPR |  | [Cost Volume Pyramid Based Depth Inference for Multi-View Stereo](https://arxiv.org/abs/1912.08329)     |  |  [GitHub](https://github.com/JiayuYANG/CVP-MVSNet) |
 | 2020 | CVPR |  | [Cascade Cost Volume for High-Resolution Multi-View Stereo and Stereo Matching](https://arxiv.org/abs/1912.06378)     |  |  [GitHub](https://github.com/alibaba/cascade-stereo) |
@@ -196,13 +196,13 @@ If you have suggestions for new resources, improvements to methodologies, or cor
 | 2024 | CVPR | UFORecon | [UFORecon: Generalizable Sparse-View Surface Reconstruction from Arbitrary and UnFavOrable Sets](https://arxiv.org/abs/2403.05086)     | [Project](https://youngju-na.github.io/uforecon.github.io/) |  [GitHub](https://github.com/Youngju-Na/UFORecon/) |
 | 2024 | CVPR | SuGaR | [SuGaR: Surface-Aligned Gaussian Splatting for Efficient 3D Mesh Reconstruction and High-Quality Mesh Rendering](https://arxiv.org/abs/2311.12775)     | [Project](https://anttwo.github.io/sugar/) |  [GitHub](https://github.com/Anttwo/SuGaR) |
 | 2024 | ECCV | SuRF | [Surface-Centric Modeling for High-Fidelity Generalizable Neural Surface Reconstruction](https://arxiv.org/abs/2409.03634)     | |  [GitHub](https://github.com/prstrive/SuRF) |
-| 2024 | ECCV | LoRa | [LaRa: Efficient Large-Baseline Radiance Fields](https://arxiv.org/abs/2407.04699)     | [Project](https://apchenstu.github.io/LaRa/) |  [GitHub](https://github.com/autonomousvision/LaRa) |
+| 2024 | ECCV | LaRa | [LaRa: Efficient Large-Baseline Radiance Fields](https://arxiv.org/abs/2407.04699)     | [Project](https://apchenstu.github.io/LaRa/) |  [GitHub](https://github.com/autonomousvision/LaRa) |
 | 2024 | ECCV | SceneScript | [SceneScript: Reconstructing Scenes With An Autoregressive Structured Language Model](https://arxiv.org/abs/2403.13064)     | [Project](https://www.projectaria.com/scenescript/) |  [GitHub](https://github.com/facebookresearch/scenescript) |
 | 2024 | ECCV | EgoLifter | [EgoLifter: Open-world 3D Segmentation for Egocentric Perception](https://arxiv.org/abs/2403.18118)     | [Project](https://egolifter.github.io/) |  [GitHub](https://github.com/facebookresearch/egolifter) |
 | 2025 | TMM | Tri2Plane | [Tri2Plane: Advancing Neural Implicit Surface Reconstruction for Indoor Scenes](https://ieeexplore.ieee.org/document/10982030)     |  |  |
 | 2025 | CVPR | GaussianUDF | [GaussianUDF: Inferring Unsigned Distance Functions through 3D Gaussian Splatting](https://arxiv.org/abs/2503.19458)     | [Project](https://lisj575.github.io/GaussianUDF/) | [GitHub](https://github.com/lisj575/GaussianUDF) |
 | 2025 |  | SOF | [SOF: Sorted Opacity Fields for Fast Unbounded Surface Reconstruction](https://www.arxiv.org/abs/2506.19139)     |  | |
-| 2025 |  | SOF | [RNb-NeuS2: Multi-View Surface Reconstruction Using Normal and Reflectance Cues](https://arxiv.org/abs/2506.04115)     | | [GitHub](https://github.com/RobinBruneau/RNb-NeuS2) |
+| 2025 |  | RNb-NeuS2 | [RNb-NeuS2: Multi-View Surface Reconstruction Using Normal and Reflectance Cues](https://robinbruneau.github.io/publications/rnb_neus2.html)     | | [GitHub](https://github.com/RobinBruneau/RNb-NeuS2) |
 | 2025 |  | QuickSplat | [QuickSplat: Fast 3D Surface Reconstruction via Learned Gaussian Initialization](https://arxiv.org/abs/2505.05591)     | [Project](https://liu115.github.io/quicksplat) | |
 | 2025 | CVPR | | [Geometry Field Splatting with Gaussian Surfels](https://arxiv.org/abs/2411.17067)     | | |
 | 2025 | NeurIPS | ReTR | [ReTR: Modeling Rendering Via Transformer for Generalizable Neural Surface Reconstruction](https://arxiv.org/abs/2305.18832)     | [Project](https://yixunliang.github.io/ReTR/) | [GitHub](https://github.com/YixunLiang/ReTR) |
@@ -214,7 +214,7 @@ If you have suggestions for new resources, improvements to methodologies, or cor
 
 | Year | Venue | Acronym | Paper | Project | GitHub |
 |------|-------|---------|-------|---------|-------------|
-| 2021 | CVPR | NeRF++ | [NeRF++: Analyzing and Improving Neural Radiance Fields](https://arxiv.org/abs/2404.10772)     | |  [GitHub](https://github.com/Kai-46/nerfplusplus) |
+| 2021 | CVPR | NeRF++ | [NeRF++: Analyzing and Improving Neural Radiance Fields](https://arxiv.org/abs/2010.07492)     | |  [GitHub](https://github.com/Kai-46/nerfplusplus) |
 | 2021 | CVPR | NeuralRecon | [NeuralRecon: Real-Time Coherent 3D Reconstruction from Monocular Video](https://arxiv.org/abs/2104.00681)     | [Project](https://zju3dv.github.io/neuralrecon/) |  [GitHub](https://github.com/zju3dv/NeuralRecon) |
 | 2021 | NeurIPS | TransformerFusion | [TransformerFusion: Monocular RGB Scene Reconstruction using Transformers](https://arxiv.org/abs/2107.02191)     | |  [GitHub](https://github.com/AljazBozic/TransformerFusion) |
 | 2022 | CVPR | Block-NeRF | [Block-NeRF: Scalable Large Scene Neural View Synthesis](https://arxiv.org/abs/2202.05263)     | [Project](https://waymo.com/research/block-nerf/) | |
@@ -223,7 +223,7 @@ If you have suggestions for new resources, improvements to methodologies, or cor
 | 2022 | NeurIPS | MonoSDF | [MonoSDF: Exploring Monocular Geometric Cues for Neural Implicit Surface Reconstruction](https://arxiv.org/abs/2206.00665)     | [Project](https://niujinshuchong.github.io/monosdf/) | [GitHub](https://github.com/autonomousvision/monosdf) |
 | 2023 | ICCV | FineRecon | [FineRecon: Depth-aware Feed-forward Network for Detailed 3D Reconstruction](https://arxiv.org/abs/2304.01480)     |  |  [GitHub](https://github.com/apple/ml-finerecon) |
 | 2023 | ICCV | CVRecon | [CVRecon: Rethinking 3D Geometric Feature Learning For Neural Reconstruction](https://arxiv.org/abs/2304.14633)     | [Project](https://cvrecon.ziyue.cool/) |  [GitHub](https://github.com/fengziyue/CVRecon) |
-| 2023 | ICCV | Zip-NeRF | [Zip-NeRF: Anti-Aliased Grid-Based Neural Radiance Fields](https://arxiv.org/abs/2404.10772)     | [Project](https://jonbarron.info/zipnerf/) |  [GitHub](https://github.com/SuLvXiangXin/zipnerf-pytorch) |
+| 2023 | ICCV | Zip-NeRF | [Zip-NeRF: Anti-Aliased Grid-Based Neural Radiance Fields](https://arxiv.org/abs/2304.06706)     | [Project](https://jonbarron.info/zipnerf/) |  [GitHub](https://github.com/SuLvXiangXin/zipnerf-pytorch) |
 | 2023 | CVPR | F2-NeRF | [F2-NeRF: Fast Neural Radiance Field Training with Free Camera Trajectories](https://arxiv.org/abs/2303.15951)     | [Project](https://totoro97.github.io/projects/f2-nerf/) |  [GitHub](https://github.com/Totoro97/f2-nerf) |
 | 2023 | CVPR | DG-Recon | [DG-Recon: Depth-Guided Neural 3D Scene Reconstruction](https://openaccess.thecvf.com/content/ICCV2023/papers/Ju_DG-Recon_Depth-Guided_Neural_3D_Scene_Reconstruction_ICCV_2023_paper.pdf)     | | |
 | 2023 | CVPR | VisFusion | [VisFusion: Visibility-aware Online 3D Scene Reconstruction from Videos](https://arxiv.org/abs/2304.10687)     | [Project](https://huiyu-gao.github.io/visfusion/) |  [GitHub](https://github.com/huiyu-gao/VisFusion) |
@@ -253,10 +253,10 @@ If you have suggestions for new resources, improvements to methodologies, or cor
 | 2005 | Siggraph | | [Video-based rendering](https://dl.acm.org/doi/10.1145/1128923.1128969)     |  |  |
 | 2017 | CVPR | | [3D Menagerie: Modeling the 3D shape and pose of animals](https://arxiv.org/abs/1611.07700)     |  |  |
 | 2020 | NeurIPS | | [Online adaptation for consistent mesh reconstruction in the wild](https://arxiv.org/abs/2012.03196)     |  |  |
-| 2020 | CVPR | | [Novel View Synthesis of Dynamic Scenes with Globally Coherent Depths from a Monocular Camera](https://arxiv.org/abs/2004.01294)     | [Project](https://research.nvidia.com/publication/2020-06_novel-view-synthesis-dynamic-scenes-globally-coherent-depths) | [GitHub](https://github.com/visonpon/New-View-Synthesis) |
-| 2021 | | | [Neural Trajectory Fields for Dynamic Novel View Synthesis](https://arxiv.org/abs/2105.05994)     | | |
+| 2020 | CVPR | | [Novel View Synthesis of Dynamic Scenes with Globally Coherent Depths from a Monocular Camera](https://arxiv.org/abs/2004.01294)     | [Project](https://research.nvidia.com/publication/2020-06_novel-view-synthesis-dynamic-scenes-globally-coherent-depths) | |
+| 2021 | | DCT-NeRF | [Neural Trajectory Fields for Dynamic Novel View Synthesis](https://arxiv.org/abs/2105.05994)     | | |
 | 2021 | IJCV | | [The Isowarp: The Template-Based Visual Geometry of Isometric Surfaces](https://link.springer.com/article/10.1007/s11263-021-01472-w)     | | |
-| 2021 | CVPR | | [Space-time Neural Irradiance Fields for Free-Viewpoint Video](https://arxiv.org/abs/2105.02976)     | [Project](https://video-nerf.github.io/) | |
+| 2021 | CVPR | | [Space-time Neural Irradiance Fields for Free-Viewpoint Video](https://arxiv.org/abs/2011.12950)     | [Project](https://video-nerf.github.io/) | |
 | 2021 | CVPR | LASR | [LASR: Learning Articulated Shape Reconstruction from a Monocular Video](https://arxiv.org/abs/2105.02976)     | [Project](https://lasr-google.github.io/) | [GitHub](https://github.com/google/lasr) |
 | 2021 | CVPR | | [Neural Scene Flow Fields for Space-Time View Synthesis of Dynamic Scenes](https://arxiv.org/abs/2011.13084)     | [Project](https://www.cs.cornell.edu/~zl548/NSFF/) | [GitHub](https://github.com/zhengqili/Neural-Scene-Flow-Fields) |
 | 2021 | ICCV | | [Neural radiance flow for 4d view synthesis and video processing](https://arxiv.org/abs/2012.09790)     | [Project](https://yilundu.github.io/nerflow/) | [GitHub](https://github.com/yilundu/nerflow) |

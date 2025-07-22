@@ -131,3 +131,63 @@
 | 2025 | CVPR      | VGGT        | [VGGT: Visual Geometry Grounded Transformer](https://arxiv.org/abs/2503.11651)  | [Project](https://vgg-t.github.io/) | [GitHub](https://github.com/facebookresearch/vggt) |
 | 2025 | CVPR      | Zero-MSF | [Zero-Shot Monocular Scene Flow Estimation in the Wild](https://arxiv.org/abs/2501.10357)                        | [Project](https://research.nvidia.com/labs/lpr/zero_msf//) | [GitHub](https://github.com/SunYangtian/UniGeo) |
 | 2025 | ICCV | SpatialTrackerV2 | [SpatialTrackerV2: 3D Point Tracking Made Easy](https://arxiv.org/abs/2507.12462) | [Project](https://spatialtracker.github.io/) | [GitHub](https://github.com/henry123-boy/SpaTrackerV2) |
+
+## Level 5 -- Incorporation of physical laws and constraints
+
+
+### Dynamic 4D human simulation with physics
+
+| Year | Venue | Acronym | Paper | Project | GitHub |
+|------|-------|---------|-------|---------|-------------|
+| 1995 | Siggraph  | | [Animating human athletics](https://arxiv.org/abs/2302.06108)     | | |
+| 2002 | TOG   | | [Interactive control of avatars animated with human motion data](https://graphics.cs.cmu.edu/projects/Avatar/avatar.pdf)     | | |
+| 2007 | TOG  | SIMBICON | [Simbicon: Simple biped locomotion control](https://dl.acm.org/doi/10.1145/1276377.1276509)     | | |
+| 2007 | Siggraph  | | [Construction and optimal search of interpolated motion graphs](https://dl.acm.org/doi/abs/10.1145/1276377.1276510)     | | |
+| 2007 | Siggraph  | | [Near-optimal Character Animation with Continuous Control](https://dl.acm.org/doi/10.1145/1276377.1276386)     | | |
+| 2010 | Siggraph Asia   | | [Motion fields for interactive character locomotion](https://dl.acm.org/doi/10.1145/1882261.1866160)     | | |
+| 2010 | TOG  | | [Generalized biped walking control](https://dl.acm.org/doi/10.1145/1778765.1781156)     | | |
+| 2010 | TOG  | | [Spatial relationship preserving character motion adaptation](https://dl.acm.org/doi/10.1145/1778765.1778770)     | | |
+| 2012 | TOG   | | [Continuous character control with low-dimensional embeddings](https://dl.acm.org/doi/abs/10.1145/2185520.2185524)     | | |
+| 2014 | TOG   | | [Learning bicycle stunts](https://dl.acm.org/doi/10.1145/2601097.2601121)     | | |
+| 2016 | NeurIPS   | GAIL | [Generative Adversarial Imitation Learning](https://arxiv.org/abs/1606.03476)     | | |
+| 2017 | TOG   | PFNN | [Phase-functioned neural networks for character control](https://dl.acm.org/doi/10.1145/3072959.3073663)     | | [GitHub](http://github.com/sreyafrancis/PFNN) |
+| 2017 | TOG   | | [Learning to schedule control fragments for physics-based characters using deep q-learning](https://dl.acm.org/doi/10.1145/3083723)     | | |
+| 2018 | TOG   | MANN | [Mode-adaptive neural networks for quadruped motion control](https://dl.acm.org/doi/10.1145/3197517.3201366)     | | [GitHub](https://github.com/cghezhang/MANN) |
+| 2018 | TOG   | | [Learning basketball dribbling skills using trajectory optimization and deep reinforcement learning](https://dl.acm.org/doi/10.1145/3197517.3201315)     | | |
+| 2018 | TOG   | DeepMimic | [DeepMimic: Example-Guided Deep Reinforcement Learning of Physics-Based Character Skills](https://arxiv.org/abs/1804.02717)     | | [GitHub](https://github.com/xbpeng/DeepMimic) |
+| 2020 | | UniCon | [UniCon: Universal Neural Controller For Physics-based Character Motion](https://arxiv.org/abs/2011.15119)     | [Project](https://research.nvidia.com/labs/toronto-ai/unicon/) | |
+| 2020 | TOG | ScaDiver | [A scalable approach to control diverse behaviors for physically simulated characters](https://dl.acm.org/doi/10.1145/3386569.3392381)     | [Project](https://research.facebook.com/publications/a-scalable-approach-to-control-diverse-behaviors-for-physically-simulated-characters/) | [GitHub](https://github.com/facebookresearch/ScaDiver) |
+| 2020 | Siggraph   | MotionVAEs | [Character Controllers using Motion VAEs](https://arxiv.org/abs/2103.14274)     | | [GitHub](https://github.com/electronicarts/character-motion-vaes) |
+| 2021 | TOG | AMP | [AMP: Adversarial Motion Priors for Stylized Physics-Based Character Control](https://arxiv.org/abs/2104.02180)     |  |  |
+| 2022 | NeurIPS | MoCapAct | [MoCapAct: A Multi-Task Dataset for Simulated Humanoid Control](https://arxiv.org/abs/2208.07363)     | [Project](https://microsoft.github.io/MoCapAct/) | [GitHub](https://github.com/microsoft/MoCapAct) |
+| 2022 | Siggraph Asia | PADL | [PADL: Language-Directed Physics-Based Character Control](https://arxiv.org/abs/2301.13868)     | | [GitHub](https://github.com/nv-tlabs/PADL) |
+| 2022 | TOG | ASE | [ASE: Large-Scale Reusable Adversarial Skill Embeddings for Physically Simulated Characters](https://arxiv.org/abs/2205.01906)     | [Project](https://xbpeng.github.io/projects/ASE/index.html) | [GitHub](https://github.com/nv-tlabs/ASE) |
+| 2022 | TOG | ControlVAE | [ControlVAE: Model-Based Learning of Generative Controllers for Physics-Based Characters](https://arxiv.org/abs/2210.06063)     | [Project](https://heyuanyao-pku.github.io/Control-VAE/) | [GitHub](https://github.com/heyuanYao-pku/Control-VAE) |
+| 2023 | Siggraph | CALM | [CALM: Conditional Adversarial Latent Models for Directable Virtual Characters](https://arxiv.org/abs/2305.02195)     | [Project](https://research.nvidia.com/labs/par/calm/) | [GitHub](https://github.com/NVlabs/CALM) |
+| 2023 | Siggraph | | [Simulation and Retargeting of Complex Multi-Character Interactions](https://arxiv.org/abs/2305.20041)     | | [GitHub](https://github.com/JackZhouSz/InteractionGraph) |
+| 2023 | Siggraph | PMP | [PMP: Learning to Physically Interact with Environments using Part-wise Motion Priors](https://arxiv.org/abs/2305.03249)     | | [GitHub](https://github.com/jinseokbae/pmp) |
+| 2023 | CVPR   | | [Trace and Pace: Controllable Pedestrian Animation via Guided Trajectory Diffusion](https://arxiv.org/abs/2304.01893)     | [Project](https://research.nvidia.com/labs/toronto-ai/trace-pace/) | [GitHub](https://github.com/nv-tlabs/trace) |
+| 2023 | TOG   | | [Learning Physically Simulated Tennis Skills from Broadcast Videos](https://dl.acm.org/doi/10.1145/3592408)     | [Project](https://research.nvidia.com/labs/toronto-ai/vid2player3d/) | [GitHub](https://github.com/nv-tlabs/vid2player3d) |
+| 2024 | 3DV   | | [Physically Plausible Full-Body Hand-Object Interaction Synthesis](https://arxiv.org/abs/2309.07907)     | [Project](https://eth-ait.github.io/phys-fullbody-grasp/) | |
+| 2024 | NeurIPS   | Omnigrasp | [Omnigrasp: Grasping Diverse Objects with Simulated Humanoids](https://arxiv.org/abs/2407.11385)     | | [GitHub](https://github.com/ZhengyiLuo/Omnigrasp) |
+| 2024 | Siggraph   | SuperPADL | [SuperPADL: Scaling Language-Directed Physics-Based Control with Progressive Supervised Distillation](https://arxiv.org/abs/2407.10481)     | [Project](https://xbpeng.github.io/projects/SuperPADL/) | |
+| 2024 | Siggraph Asia  | PDP | [PDP: Physics-Based Character Animation via Diffusion Policy](https://arxiv.org/abs/2406.00960)     |  | |
+| 2024 | TOG   | MaskedMimic | [MaskedMimic: Unified Physics-Based Character Control Through Masked Motion Inpainting](https://arxiv.org/abs/2409.14393)     | [Project](https://research.nvidia.com/labs/par/maskedmimic/) | [GitHub](https://github.com/NVlabs/ProtoMotions) |
+| 2024 | CVPR   | PACER++ | [PACER+: On-Demand Pedestrian Animation Controller in Driving Scenarios](https://arxiv.org/abs/2404.19722)     | | [GitHub](https://github.com/IDC-Flash/PacerPlus) |
+| 2025 | ICLR   | CLoSD | [CLoSD: Closing the Loop between Simulation and Diffusion for multi-task character control](https://arxiv.org/abs/2410.03441)     | [Project](https://guytevet.github.io/CLoSD-page/) | [GitHub](https://github.com/GuyTevet/CLoSD) |
+| 2025 | ICLR   | | [Hierarchical World Models as Visual Whole-Body Humanoid Controllers](https://arxiv.org/abs/2405.18418)     | [Project](https://www.nicklashansen.com/rlpuppeteer/) | [GitHub](https://github.com/nicklashansen/puppeteer) |
+| 2025 | CVPR   | SkillMimic | [SkillMimic: Learning Basketball Interaction Skills from Demonstrations](https://arxiv.org/abs/2408.15270)     | [Project](https://ingrid789.github.io/SkillMimic/) | [GitHub](https://github.com/wyhuai/SkillMimic) |
+| 2025 | ICRA   | HOVER | [HOVER: Versatile Neural Whole-Body Controller for Humanoid Robots](https://arxiv.org/abs/2410.21229)     | [Project](https://hover-versatile-humanoid.github.io/) | [GitHub](https://github.com/NVlabs/HOVER/) |
+| 2025 | RSS   | ASAP | [ASAP: Aligning Simulation and Real-World Physics for Learning Agile Humanoid Whole-Body Skills](https://arxiv.org/abs/2502.01143)     | [Project](https://agile.human2humanoid.com/) | [GitHub](https://github.com/LeCAR-Lab/ASAP) |
+| 2025 |   | UniPhys | [UniPhys: Unified Planner and Controller with Diffusion for Flexible Physics-Based Character Control](https://arxiv.org/abs/2504.12540)     | [Project](https://wuyan01.github.io/uniphys-project/) | |
+
+### 3D scene reconstruction with physical plausibility
+| Year | Venue | Acronym | Paper | Project | GitHub |
+|------|-------|---------|-------|---------|-------------|
+| 2022 | CVPR   | AugNeRF | [Aug-NeRF: Training Stronger Neural Radiance Fields with Triple-Level Physically-Grounded Augmentations](https://arxiv.org/abs/2207.01164)     | | [GitHub](https://github.com/VITA-Group/Aug-NeRF) |
+| 2024 | ECCV   | PhysDreamer | [PhysDreamer: Physics-Based Interaction with 3D Objects via Video Generation](https://arxiv.org/abs/2404.13026)     | [Project](https://physdreamer.github.io/) | [GitHub](https://github.com/a1600012888/PhysDreamer) |
+| 2024 | Siggraph Asia   | | [Planar Reflection-Aware Neural Radiance Fields](https://arxiv.org/abs/2411.04984)     | | |
+| 2024 | NeurIPS   | PhyRecon | [Phyrecon: Physically plausible neural scene reconstruction](https://arxiv.org/abs/2404.16666)     | [Project](https://phyrecon.github.io/) | [GitHub](https://github.com/PhyRecon/PhyRecon) |
+| 2025 | ICML   | PhysicsNeRF | [PhysicsNeRF: Physics-Guided 3D Reconstruction from Sparse Views](https://arxiv.org/abs/2505.23481)     | | [GitHub](https://github.com/bmrayan/PhysicsNeRF) |
+| 2025 | CVPR   | PBR-NeRF | [PBR-NeRF: Inverse Rendering with Physics-Based Neural Fields](https://arxiv.org/abs/2505.23481)     | | [GitHub](https://github.com/s3anwu/pbrnerf) |
+| 2025 |   | CAST | [CAST: Component-Aligned 3D Scene Reconstruction from an RGB Image](https://arxiv.org/abs/2502.12894)     | [Project](https://sites.google.com/view/cast4) | |

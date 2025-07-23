@@ -454,7 +454,7 @@ If you have suggestions for new resources, improvements to methodologies, or cor
 | 2022 | ECCV | SitComs3D | [The One Where They Reconstructed 3D Humans and Environments in TV Shows](https://arxiv.org/abs/2204.06950)     | [Project](https://ethanweber.me/sitcoms3D/) | [GitHub](https://github.com/ethanweber/sitcoms3D) |
 | 2023 | CVPR | CIRCLE | [CIRCLE: Capture In Rich Contextual Environments](https://arxiv.org/abs/2303.17912)     | | [GitHub](https://github.com/Stanford-TML/circle_dataset) |
 | 2024 | CVPR | TRUMANS | [Scaling Up Dynamic Human-Scene Interaction Modeling](https://arxiv.org/pdf/2403.08629)     | [Project](https://jnnan.github.io/trumans/) | [GitHub](https://github.com/jnnan/trumans_utils) |
-| 2025 | arXiv | JOSH | [InterDreamer: Zero-Shot Text to 3D Dynamic Human-Object Interaction](https://arxiv.org/abs/2501.02158)     | [Project](https://genforce.github.io/JOSH/) | [GitHub](https://github.com/genforce/JOSH) |
+| 2025 | arXiv | JOSH | [Joint Optimization for 4D Human-Scene Reconstruction in the Wild](https://arxiv.org/abs/2501.02158)     | [Project](https://genforce.github.io/JOSH/) | [GitHub](https://github.com/genforce/JOSH) |
 | 2025 | CVPR | ODHSR | [ODHSR: Online Dense 3D Reconstruction of Humans and Scenes from Monocular Videos](https://arxiv.org/abs/2504.13167)     | [Project](https://eth-ait.github.io/ODHSR/) | |
 
 

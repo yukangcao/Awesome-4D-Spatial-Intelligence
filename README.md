@@ -406,7 +406,7 @@ If you have suggestions for new resources, improvements to methodologies, or cor
 | 2018 | TOG | LiveCap | [LiveCap: Real-time Human Performance Capture from Monocular Video](https://arxiv.org/abs/1810.02648)     | |  |
 | 2021 | 3DV |  | [Human Performance Capture from Monocular Video in the Wild](https://arxiv.org/abs/2111.14672)     | [Project](https://ait.ethz.ch/human-performance-capture) | [GitHub](https://github.com/MoyGcc/hpcwild) |
 | 2021 | NeurIPS | A-NeRF | [A-NeRF: Articulated Neural Radiance Fields for Learning Human Shape, Appearance, and Pose](https://arxiv.org/abs/2102.06199)     | [Project](https://lemonatsu.github.io/anerf/) | [GitHub](https://github.com/LemonATsu/A-NeRF) |
-| 2021 | NeurIPS | | [ViSER: Video-Specific Surface Embeddings for Articulated 3D Shape Reconstruction](https://openreview.net/forum?id=-JJy-Hw8TFB)     | | [GitHub](https://github.com/gengshan-y/viser) |
+| 2021 | NeurIPS | ViSER | [ViSER: Video-Specific Surface Embeddings for Articulated 3D Shape Reconstruction](https://openreview.net/forum?id=-JJy-Hw8TFB)     | [Project](https://viser-shape.github.io/) | [GitHub](https://github.com/gengshan-y/viser) |
 | 2022 | CVPR | SelfRecon | [SelfRecon: Self Reconstruction Your Digital Avatar from Monocular Video](https://arxiv.org/abs/2201.12792)     | [Project](https://jby1993.github.io/SelfRecon/) | [GitHub](https://github.com/jby1993/SelfReconCode) |
 | 2022 | ECCV | DANBO | [DANBO: Disentangled Articulated Neural Body Representations via Graph Neural Networks](https://arxiv.org/abs/2205.01666)     | [Project](https://lemonatsu.github.io/danbo/) | [GitHub](https://github.com/LemonATsu/DANBO-pytorch) |
 | 2022 | ECCV | AvatarPoser | [Avatarposer: Articulated full-body pose tracking from sparse motion sensing](https://arxiv.org/abs/2207.13784)     | | [GitHub](https://github.com/eth-siplab/AvatarPoser) |
@@ -417,7 +417,7 @@ If you have suggestions for new resources, improvements to methodologies, or cor
 | 2024 | CVPR | Animatable Gaussians  | [Animatable Gaussians: Learning Pose-dependent Gaussian Maps for High-fidelity Human Avatar Modeling](https://arxiv.org/pdf/2311.16096)     | [Project](https://animatable-gaussians.github.io/)  | [GitHub](https://github.com/lizhe00/AnimatableGaussians?tab=readme-ov-file)  |
 | 2024 | CVPR | GPS-Gaussian  | [GPS-Gaussian: Generalizable Pixel-wise 3D Gaussian Splatting for Real-time Human Novel View Synthesis](https://arxiv.org/abs/2312.02155)     | [Project](https://shunyuanzheng.github.io/GPS-Gaussian)  | [GitHub](https://github.com/aipixel/GPS-Gaussian)  |
 | 2024 | CVPR | 3DGS-Avatar  | [3DGS-Avatar: Animatable Avatars via Deformable 3D Gaussian Splatting](https://arxiv.org/abs/2312.09228)     | [Project](https://neuralbodies.github.io/3DGS-Avatar/)  | [GitHub](https://github.com/mikeqzy/3dgs-avatar-release)  |
-| 2025 | | GauSTAR  | [GauSTAR: Gaussian Surface Tracking and Reconstruction](https://arxiv.org/abs/2501.10283)     |  |  |
+| 2025 | CVPR | GauSTAR  | [GauSTAR: Gaussian Surface Tracking and Reconstruction](https://arxiv.org/abs/2501.10283)     | [Project](https://eth-ait.github.io/GauSTAR/) | [GitHub](https://github.com/eth-ait/GauSTAR) |
 
 
 
@@ -427,7 +427,7 @@ If you have suggestions for new resources, improvements to methodologies, or cor
 
 | Year | Venue | Acronym | Paper | Project | GitHub |
 |------|-------|---------|-------|---------|-------------|
-| 2016 | TOG | PiGraphs | [PiGraphs: learning interaction snapshots from observations](https://dl.acm.org/doi/10.1145/2897824.2925867)     | | |
+| 2016 | TOG | PiGraphs | [PiGraphs: learning interaction snapshots from observations](https://dl.acm.org/doi/10.1145/2897824.2925867)     | [Project](http://graphics.stanford.edu/projects/pigraphs/) | [GitHub](https://github.com/msavva/pigraphs) |
 | 2020 | ECCV | PHOSA | [Perceiving 3D Human-Object Spatial Arrangements from a Single Image in the Wild](https://arxiv.org/abs/2007.15649)     | [Project](https://jasonyzhang.com/phosa/) | [GitHub](https://github.com/facebookresearch/phosa) |
 | 2021 | arXiv | D3D-HOI | [3d-hoi: Dynamic 3d human-object interactions from videos](https://arxiv.org/abs/2108.08420)     | | [GitHub](https://github.com/facebookresearch/d3d-hoi) |
 | 2021 | CVPR | GraviCap | [Gravity-Aware Monocular 3D Human-Object Reconstruction](https://arxiv.org/abs/2108.08844)     | [Project](https://4dqv.mpi-inf.mpg.de/GraviCap/) | [GitHub](https://github.com/rishabhdabral/gravicap) |
@@ -441,7 +441,7 @@ If you have suggestions for new resources, improvements to methodologies, or cor
 | 2024 | CVPR | I'M HOI | [I'M HOI: Inertia-aware Monocular Capture of 3D Human-Object Interactions](https://arxiv.org/abs/2312.08869)     | [Project](https://afterjourney00.github.io/IM-HOI.github.io/) | [GitHub](https://github.com/AfterJourney00/IMHD-Dataset) |
 | 2024 | CVPR | HDM | [Template Free Reconstruction of Human-object Interaction with Procedural Interaction Generation](https://arxiv.org/abs/2312.07063)     | [Project](https://virtualhumans.mpi-inf.mpg.de/procigen-hdm/) | [GitHub](https://github.com/xiexh20/HDM) |
 | 2024 | NeurIPS | InterDreamer | [InterDreamer: Zero-Shot Text to 3D Dynamic Human-Object Interaction](https://arxiv.org/abs/2403.19652)     | [Project](https://sirui-xu.github.io/InterDreamer/) | |
-| 2025 | 3DV | InterTrack | [InterTrack: Tracking Human Object Interaction without Object Templates](https://arxiv.org/abs/2408.13953)     | [Project](https://virtualhumans.mpi-inf.mpg.de/InterTrack/) | |
+| 2025 | 3DV | InterTrack | [InterTrack: Tracking Human Object Interaction without Object Templates](https://arxiv.org/abs/2408.13953)     | [Project](https://virtualhumans.mpi-inf.mpg.de/InterTrack/) | [GitHub](https://github.com/xiexh20/InterTrack) |
 
 
 ### SMPL-based human-centric interaction - HSI

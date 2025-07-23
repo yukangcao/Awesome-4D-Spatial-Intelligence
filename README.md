@@ -80,8 +80,8 @@ If you have suggestions for new resources, improvements to methodologies, or cor
 | 2024 | T-PAMI     | NVDS+   | [NVDS: Towards Efficient and Versatile Neural Stabilizer for Video Depth Estimation](https://arxiv.org/pdf/2307.08695) | [Project](https://raymondwang987.github.io/NVDS/) | [GitHub](https://github.com/RaymondWang987/NVDS) |
 | 2024 | ECCV       | FutureDepth | [FutureDepth: Learning to predict the future improves video depth estimation](https://arxiv.org/pdf/2403.12953) | – | – |
 | 2025 | CVPR       | ChronoDepth | [Learning Temporally Consistent Video Depth from Video Diffusion Priors](https://arxiv.org/abs/2406.01493) | [Project](https://xdimlab.github.io/ChronoDepth/) | [GitHub](https://github.com/jiahao-shao1/ChronoDepth) |
-| 2024 | arXiv      | DepthAnyVideo | [Depth Any Video with Scalable Synthetic Data](https://arxiv.org/abs/2410.10815) | [Project](https://depthanyvideo.github.io/) | [GitHub](https://github.com/Nightmare-n/DepthAnyVideo) |
-| 2025 | CVPR       | –       | [Video Depth Anything: Consistent Depth Estimation for Super‑Long Videos](https://arxiv.org/abs/2501.12375) | [Project](https://videodepthanything.github.io/) | [GitHub](https://github.com/DepthAnything/Video-Depth-Anything) |
+| 2025 | ICLR      | DepthAnyVideo | [Depth Any Video with Scalable Synthetic Data](https://arxiv.org/abs/2410.10815) | [Project](https://depthanyvideo.github.io/) | [GitHub](https://github.com/Nightmare-n/DepthAnyVideo) |
+| 2025 | CVPR       | Video Depth Anything   | [Video Depth Anything: Consistent Depth Estimation for Super‑Long Videos](https://arxiv.org/abs/2501.12375) | [Project](https://videodepthanything.github.io/) | [GitHub](https://github.com/DepthAnything/Video-Depth-Anything) |
 
 
 ---

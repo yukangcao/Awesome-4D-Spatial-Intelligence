@@ -21,9 +21,9 @@ If you have suggestions for new resources, improvements to methodologies, or cor
 - [Level3 -- 4D dynamic scenes](#level-3----4d-dynamic-scenes)
   - [General 4D scene reconstruction](#general-4d-scene-reconstruction)
   - [Human-centric dynamic modeling](#human-centric-dynamic-modeling---smpl)
-    - [SMPL](#human-centric-dynamic-modeling---smpl)
-    - [Egocentric](#human-centric-dynamic-modeling---egocentric)
-    - [Appearance-rich](#human-centric-dynamic-modeling---appearance-rich)
+    - [SMPL-based human mesh recovery and tracking](#human-centric-dynamic-modeling---smpl)
+    - [Egocentric motion tracking](#human-centric-dynamic-modeling---egocentric)
+    - [Appearance-rich dynamic human modeling](#human-centric-dynamic-modeling---appearance-rich)
     
 - [Level 4 -- Interaction among scene components](#level-4----interaction-among-scene-components)
   - [SMPL-based human-centric interaction](#smpl-based-human-centric-interaction---hoi)

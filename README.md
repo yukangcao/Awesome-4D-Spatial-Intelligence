@@ -364,9 +364,12 @@ If you have suggestions for new resources, improvements to methodologies, or cor
 | 2024 | ECCV | TRAM | [TRAM: Global Trajectory and Motion of 3D Humans from in-the-wild Videos](https://arxiv.org/abs/2403.17346)     | [Project](https://yufu-wang.github.io/tram4d/)  | [GitHub](https://github.com/yufu-wang/tram)
 | 2024 | ECCV | COIN | [COIN: Control-Inpainting Diffusion Prior for Human and Camera Motion Estimatio](https://arxiv.org/abs/2408.16426)     | [Project](https://nvlabs.github.io/COIN/)  |
 | 2024 | NeurIPS | NLF | [Neural Localizer Fields for Continuous 3D Human Pose and Shape Estimation](https://arxiv.org/abs/2407.07532)     | [Project](https://istvansarandi.com/nlf/)  | [GitHub](https://github.com/isarandi/nlf)  |
+| 2024 | Siggraph Asia | GVHMR | [World-Grounded Human Motion Recovery via Gravity-View Coordinates](https://arxiv.org/abs/2409.06662)     | [Project](https://zju3dv.github.io/gvhmr/)  | [GitHub](https://github.com/zju3dv/GVHMR)  |
+| 2025 | 3DV | CameraHMR | [CameraHMR: Aligning People with Perspective](https://arxiv.org/abs/2411.08128)     | [Project](https://camerahmr.is.tue.mpg.de/)  | [GitHub](https://github.com/pixelite1201/CameraHMR/) |
 | 2025 | AAAI | GenHMR | [GenHMR: Generative Human Mesh Recovery](https://arxiv.org/abs/2412.14444)     | [Project](https://m-usamasaleem.github.io/publication/GenHMR/GenHMR.html)  |  |
 | 2025 | ICLR | CoMotion | [CoMotion: Concurrent Multi-person 3D Motion](https://arxiv.org/abs/2504.12186)     | | [GitHub](https://github.com/apple/ml-comotion) |
 | 2025 | CVPR | BLADE | [BLADE: Single-view Body Mesh Learning through Accurate Depth Estimation](https://arxiv.org/abs/2412.08640)     | [Project](https://research.nvidia.com/labs/amri/projects/blade/)  |  |
+| 2025 | CVPR | HSMR | [Reconstructing Humans with a Biomechanically Accurate Skeleton](https://arxiv.org/abs/2503.21751)     | [Project](https://isshikihugh.github.io/HSMR/)  | [GitHub](https://github.com/IsshikiHugh/HSMR) |
 | 2025 | ICCV | GENMO | [GENMO: A GENarlist Model for Human MOtion](https://arxiv.org/abs/2505.01425)     | [Project](https://research.nvidia.com/labs/dair/genmo/)  |  |
 
 ---

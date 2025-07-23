@@ -429,20 +429,19 @@ If you have suggestions for new resources, improvements to methodologies, or cor
 |------|-------|---------|-------|---------|-------------|
 | 2016 | TOG | PiGraphs | [PiGraphs: learning interaction snapshots from observations](https://dl.acm.org/doi/10.1145/2897824.2925867)     | | |
 | 2020 | ECCV | PHOSA | [Perceiving 3D Human-Object Spatial Arrangements from a Single Image in the Wild](https://arxiv.org/abs/2007.15649)     | [Project](https://jasonyzhang.com/phosa/) | [GitHub](https://github.com/facebookresearch/phosa) |
-| 2021 | | D3D-HOI | [3d-hoi: Dynamic 3d human-object interactions from videos](https://arxiv.org/abs/2108.08420)     | | [GitHub](https://github.com/facebookresearch/d3d-hoi) |
+| 2021 | arXiv | D3D-HOI | [3d-hoi: Dynamic 3d human-object interactions from videos](https://arxiv.org/abs/2108.08420)     | | [GitHub](https://github.com/facebookresearch/d3d-hoi) |
 | 2021 | CVPR | GraviCap | [Gravity-Aware Monocular 3D Human-Object Reconstruction](https://arxiv.org/abs/2108.08844)     | [Project](https://4dqv.mpi-inf.mpg.de/GraviCap/) | [GitHub](https://github.com/rishabhdabral/gravicap) |
 | 2022 | CVPR | BEHAVE | [BEHAVE: Dataset and Method for Tracking Human Object Interactions](https://arxiv.org/abs/2204.06950)     | [Project](https://virtualhumans.mpi-inf.mpg.de/behave/) | [GitHub](https://github.com/xiexh20/behave-dataset) |
 | 2022 | ECCV | CHORE | [CHORE: Contact, Human and Object REconstruction from a single RGB image](https://arxiv.org/abs/2204.02445)     | [Project](https://virtualhumans.mpi-inf.mpg.de/chore/) | [GitHub](https://github.com/xiexh20/CHORE) |
 | 2023 | ICCV | CHAIRS | [Full-Body Articulated Human-Object Interaction](https://arxiv.org/abs/2212.10621)     | [Project](https://yzhu.io/publication/hoi2023iccv/) | [GitHub](https://github.com/jnnan/chairs) |
-| 2023 | ICCV | Humans in 4D | [Humans in 4D: Reconstructing and Tracking Humans with Transformers](https://arxiv.org/abs/2305.20091)     | [Project](https://shubham-goel.github.io/4dhumans/) | [GitHub](https://github.com/shubham-goel/4D-Humans) |
 | 2023 | IJCAI | StackFLOW | [StackFLOW: Monocular Human-Object Reconstruction by Stacked Normalizing Flow with Offset](https://arxiv.org/abs/2407.20545)     | [Project](https://huochf.github.io/StackFLOW/) | [GitHub](https://github.com/huochf/StackFLOW) |
 | 2023 | CVPR | VisTracker | [Visibility Aware Human-Object Interaction Tracking from Single RGB Camera](https://arxiv.org/abs/2303.16479)     | [Project](https://virtualhumans.mpi-inf.mpg.de/VisTracker/) | [GitHub](https://github.com/xiexh20/VisTracker) |
 | 2024 | IJCV | InterCap | [InterCap: Joint Markerless 3D Tracking of Humans and Objects in Interaction](https://arxiv.org/abs/2209.12354)     | [Project](https://intercap.is.tue.mpg.de/) | [GitHub](https://github.com/YinghaoHuang91/InterCap/tree/master) |
 | 2024 | MM | WildHOI | [Monocular Human-Object Reconstruction in the Wild](https://arxiv.org/abs/2407.20566)     | [Project](https://huochf.github.io/WildHOI/) | [GitHub](https://github.com/huochf/WildHOI) |
 | 2024 | CVPR | I'M HOI | [I'M HOI: Inertia-aware Monocular Capture of 3D Human-Object Interactions](https://arxiv.org/abs/2312.08869)     | [Project](https://afterjourney00.github.io/IM-HOI.github.io/) | [GitHub](https://github.com/AfterJourney00/IMHD-Dataset) |
 | 2024 | CVPR | HDM | [Template Free Reconstruction of Human-object Interaction with Procedural Interaction Generation](https://arxiv.org/abs/2312.07063)     | [Project](https://virtualhumans.mpi-inf.mpg.de/procigen-hdm/) | [GitHub](https://github.com/xiexh20/HDM) |
-| 2024 |  | InterTrack | [InterTrack: Tracking Human Object Interaction without Object Templates](https://arxiv.org/abs/2408.13953)     | [Project](https://virtualhumans.mpi-inf.mpg.de/InterTrack/) | |
 | 2024 | NeurIPS | InterDreamer | [InterDreamer: Zero-Shot Text to 3D Dynamic Human-Object Interaction](https://arxiv.org/abs/2403.19652)     | [Project](https://sirui-xu.github.io/InterDreamer/) | |
+| 2025 | 3DV | InterTrack | [InterTrack: Tracking Human Object Interaction without Object Templates](https://arxiv.org/abs/2408.13953)     | [Project](https://virtualhumans.mpi-inf.mpg.de/InterTrack/) | |
 
 
 ### SMPL-based human-centric interaction - HSI
@@ -455,7 +454,7 @@ If you have suggestions for new resources, improvements to methodologies, or cor
 | 2022 | ECCV | SitComs3D | [The One Where They Reconstructed 3D Humans and Environments in TV Shows](https://arxiv.org/abs/2204.06950)     | [Project](https://ethanweber.me/sitcoms3D/) | [GitHub](https://github.com/ethanweber/sitcoms3D) |
 | 2023 | CVPR | CIRCLE | [CIRCLE: Capture In Rich Contextual Environments](https://arxiv.org/abs/2303.17912)     | | [GitHub](https://github.com/Stanford-TML/circle_dataset) |
 | 2024 | CVPR | TRUMANS | [Scaling Up Dynamic Human-Scene Interaction Modeling](https://arxiv.org/pdf/2403.08629)     | [Project](https://jnnan.github.io/trumans/) | [GitHub](https://github.com/jnnan/trumans_utils) |
-| 2025 | | JOSH | [InterDreamer: Zero-Shot Text to 3D Dynamic Human-Object Interaction](https://arxiv.org/abs/2501.02158)     | [Project](https://genforce.github.io/JOSH/) | [GitHub](https://github.com/genforce/JOSH) |
+| 2025 | arXiv | JOSH | [InterDreamer: Zero-Shot Text to 3D Dynamic Human-Object Interaction](https://arxiv.org/abs/2501.02158)     | [Project](https://genforce.github.io/JOSH/) | [GitHub](https://github.com/genforce/JOSH) |
 | 2025 | CVPR | ODHSR | [ODHSR: Online Dense 3D Reconstruction of Humans and Scenes from Monocular Videos](https://arxiv.org/abs/2504.13167)     | [Project](https://eth-ait.github.io/ODHSR/) | |
 
 

@@ -7,8 +7,7 @@ If you have suggestions for new resources, improvements to methodologies, or cor
 ### Table of Contents
 
 - [Level1 -- Low-level 3D cues](#level-1----low-level-3d-cues)
-  - [Dynamic Video to Depth Estimation](#dynamic-video-to-depth-estimation)
-  - [Static Video to Depth Estimation](#static-video-to-depth-estimation)
+  - [Depth Estimation](#depth-estimation)
   - [Camera pose estimation](#camera-pose-estimation)
   - [3D tracking](#3d-tracking)
   - [Unifying depth and camera pose estimation](#unifying-depth-and-camera-pose-estimation)

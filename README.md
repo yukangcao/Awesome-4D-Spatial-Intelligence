@@ -1,5 +1,7 @@
 # Awesome-4D-Spatial-Intelligence
 
+[![Paper](http://img.shields.io/badge/Paper-arxiv.2507.21045-B31B1B.svg)](https://arxiv.org/abs/2507.21045)
+
 This repository collects summaries of over 350 recent studies on methods for reconstructing 4D spatial intelligence, and will be continuously updated.
 
 If you have suggestions for new resources, improvements to methodologies, or corrections for broken links, please don't hesitate to open an [issue](https://github.com/yukangcao/Awesome-4D-Spatial-Intelligence/issues) or submit a [pull request](https://github.com/yukangcao/Awesome-4D-Spatial-Intelligence/pulls). Contributions of all kinds are welcome and greatly appreciated.

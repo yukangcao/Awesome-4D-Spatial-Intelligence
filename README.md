@@ -302,7 +302,7 @@ If you have suggestions for new resources, improvements to methodologies, or cor
 | 2025 | WACV | AT-GS  | [Adaptive and Temporally Consistent Gaussian Surfels for Multi-view Dynamic Reconstruction](https://arxiv.org/abs/2411.06602)     | [Project](https://fraunhoferhhi.github.io/AT-GS/) | [GitHub](https://github.com/fraunhoferhhi/AT-GS) |
 | 2025 | CVPR | SpectroMotion  | [SpectroMotion: Dynamic 3D Reconstruction of Specular Scenes](https://arxiv.org/abs/2410.17249)     | [Project](https://cdfan0627.github.io/spectromotion/) | [GitHub](https://github.com/cdfan0627/SpectroMotion) |
 | 2025 |  |  | [Light of Normals: Unified Feature Representation for Universal Photometric Stereo](https://arxiv.org/abs/2506.18882)     | [Project](https://houyuanchen111.github.io/lino.github.io/) | [GitHub](https://github.com/houyuanchen111/LINO_UniPS) |
-| 2025 |  |  | [WideRange4D: Enabling High-Quality 4D Reconstruction with Wide-Range Movements and Scenes](https://arxiv.org/abs/2503.13435)     |  | [GitHub](https://github.com/Gen-Verse/WideRange4D) |
+| 2025 |  | WideRange4D | [WideRange4D: Enabling High-Quality 4D Reconstruction with Wide-Range Movements and Scenes](https://arxiv.org/abs/2503.13435)     |  | [GitHub](https://github.com/Gen-Verse/WideRange4D) |
 
 ---
 

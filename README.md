@@ -304,6 +304,7 @@ If you have suggestions for new resources, improvements to methodologies, or cor
 | 2025 |  |  | [Light of Normals: Unified Feature Representation for Universal Photometric Stereo](https://arxiv.org/abs/2506.18882)     | [Project](https://houyuanchen111.github.io/lino.github.io/) | [GitHub](https://github.com/houyuanchen111/LINO_UniPS) |
 | 2025 |  | WideRange4D | [WideRange4D: Enabling High-Quality 4D Reconstruction with Wide-Range Movements and Scenes](https://arxiv.org/abs/2503.13435)     |  | [GitHub](https://github.com/Gen-Verse/WideRange4D) |
 | 2025 |  | MoVieS | [MoVieS: Motion-Aware 4D Dynamic View Synthesis in One Second](https://arxiv.org/abs/2507.10065)     | [Project](https://chenguolin.github.io/projects/MoVieS/) | [GitHub](https://github.com/chenguolin/MoVieS) |
+| 2025 | CVPR | Instruct-4DGS | [Instruct-4DGS: Efficient Dynamic Scene Editing via 4D Gaussian-based Static-Dynamic Separation](https://arxiv.org/pdf/2502.02091)     | [Project](https://hanbyelcho.info/instruct-4dgs/) | [GitHub](https://github.com/juhyeon-kwon/efficient_4d_gaussian_editing) |
 
 ---
 

@@ -85,10 +85,13 @@ If you have suggestions for new resources, improvements to methodologies, or cor
 | 2021 | TITS | DDSO | [Deep Direct Visual Odometry](https://arxiv.org/abs/1912.05101) | | |
 | 2021 | T-RO | LF-SLAM | [Line Flow Based Simultaneous Localization and Mapping](https://ieeexplore.ieee.org/abstract/document/9393474) | | |
 | 2022 | ICRA | EDPLVO | [EDPLVO: Efficient Direct Point-Line Visual Odometry](https://www.cs.cmu.edu/~kaess/pub/Zhou22icra.pdf) | | |
+| 2022 | ECCV | ParticleSfM | [ParticleSfM: Exploiting Dense Point Trajectories for Localizing Moving Cameras in the Wild](https://arxiv.org/abs/2207.09137) | [Project](http://b1ueber2y.me/projects/ParticleSfM/) | [GitHub](https://github.com/bytedance/particle-sfm) |
 | 2023 | ICCV | XVO | [XVO: Generalized Visual Odometry via Cross-Modal Self-Training](https://arxiv.org/abs/2309.16772) | [Project](https://genxvo.github.io/) | [GitHub](https://github.com/h2xlab/XVO) |
 | 2023 | ICRA | DytanVO | [DytanVO: Joint Refinement of Visual Odometry and Motion Segmentation in Dynamic Environments](https://arxiv.org/abs/2209.08430) | | [GitHub](https://github.com/castacks/DytanVO) |
 | 2023 | IROS | StereoVO | [Stereo VO with Point and Line Matching using Attention GNN](https://arxiv.org/abs/2308.01125) | | |
 | 2023 | ICRA | Structure PLP-SLAM | [Structure PLP-SLAM: Efficient Sparse Mapping using Point, Line and Plane](https://arxiv.org/abs/2207.06058) | | [GitHub](https://github.com/PeterFWS/Structure-PLP-SLAM) |
+| 2024 | CVPR | LEAP-VO | [LEAP-VO: Long-term Effective Any Point Tracking for Visual Odometry](https://arxiv.org/abs/2401.01887) | [Project](https://wrchen530.github.io/projects/leapvo/) | [GitHub](https://github.com/wrchen530/leapvo) |
+| 2024 | CVPR | VGGSfM | [VGGSfM: Visual Geometry Grounded Deep Structure From Motion](https://arxiv.org/pdf/2312.04563.pdf) | [Project](https://vggsfm.github.io/) | [GitHub](https://github.com/facebookresearch/vggsfm) |
 | 2024 | ECCV | DPV-SLAM | [Deep Patch Visual SLAM](https://arxiv.org/abs/2408.01654) | | [GitHub](https://github.com/princeton-vl/DPVO) |
 | 2024 | ECCV | RLVO | [Reinforcement Learning Meets Visual Odometry](https://arxiv.org/abs/2407.15626) | | [GitHub](https://github.com/uzh-rpg/rl_vo) |
 | 2024 | RA-L | | [Efficient Camera Exposure Control for VO via Deep RL](https://arxiv.org/abs/2408.17005) | | [GitHub](https://github.com/ShuyangUni/drl_exposure_ctrl) |

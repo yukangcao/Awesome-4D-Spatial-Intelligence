@@ -366,11 +366,13 @@ If you have suggestions for new resources, improvements to methodologies, or cor
 
 | Year | Venue | Acronym | Paper | Project | GitHub |
 |------|-------|---------|-------|---------|-------------|
-| 2022 | ECCV | AvatarPoser | [Avatarposer: Articulated full-body pose tracking from sparse motion sensing](https://arxiv.org/abs/2207.13784)     | | [GitHub](https://github.com/eth-siplab/AvatarPoser) |
+| 2022 | ECCV | AvatarPoser | [Avatarposer: Articulated full-body pose tracking from sparse motion sensing](https://arxiv.org/abs/2207.13784)     |[Project](https://siplab.org/projects/AvatarPoser) | [GitHub](https://github.com/eth-siplab/AvatarPoser) |
 | 2023 | CVPR | EgoEgo | [Ego-Body Pose Estimation via Ego-Head Pose Estimation](https://arxiv.org/abs/2212.04636)     | [Project](https://lijiaman.github.io/projects/egoego/)  | [GitHub](https://github.com/lijiaman/egoego_release) |
 | 2023 | CVPR | BoDiffusion | [BoDiffusion: Diffusing Sparse Observations for Full-Body Human Motion Synthesis](https://arxiv.org/abs/2304.11118)     |  | [GitHub](https://github.com/BCV-Uniandes/BoDiffusion) |
 | 2023 | CVPR | SeceneEgo | [Scene-aware egocentric 3d human pose estimation](https://arxiv.org/abs/2212.11684)     |  | [GitHub](https://github.com/jianwang-mpi/SceneEgo) |
 | 2023 | CVPR | AGRoL | [Avatars Grow Legs: Generating Smooth Human Motion from Sparse Tracking Inputs with Diffusion Model](https://arxiv.org/abs/2304.08577)     | [Project](https://dulucas.github.io/agrol/)  | [GitHub](https://github.com/facebookresearch/AGRoL) |
+| 2024 | ECCV | EgoPoser | [EgoPoser: Robust Real-Time Egocentric Pose Estimation from Sparse and Intermittent Observations Everywhere](https://arxiv.org/abs/2308.06493)     |[Project](https://siplab.org/projects/EgoPoser) | [GitHub](https://github.com/eth-siplab/EgoPoser) |
+| 2024 | ECCV | MANIKIN | [MANIKIN: Biomechanically Accurate Neural Inverse Kinematics for Human Motion Estimation](https://static.siplab.org/papers/eccv2024-manikin.pdf)     |[Project](https://siplab.org/projects/MANIKIN) |  |
 | 2024 | CVPR | EgoWholeBody | [Egocentric Whole-Body Motion Capture with FisheyeViT and Diffusion-Based Motion Refinement](https://arxiv.org/abs/2311.16495)     |  | [GitHub](https://github.com/jianwang-mpi/egowholemocap) |
 | 2024 | CVPR | EventEgo3D | [EventEgo3D: 3D Human Motion Capture from Egocentric Event Streams](https://arxiv.org/abs/2404.08640)     | [Project](https://4dqv.mpi-inf.mpg.de/EventEgo3D/) | [GitHub](https://github.com/Chris10M/EventEgo3D) |
 | 2024 | CVPR | HMD-Poser | [HMD-Poser: On-Device Real-time Human Motion Tracking from Scalable Sparse Observations](https://arxiv.org/abs/2403.03561)     | [Project](https://pico-ai-team.github.io/hmd-poser) | [GitHub](https://github.com/Pico-AI-Team/HMD-Poser) |

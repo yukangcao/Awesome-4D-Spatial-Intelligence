@@ -386,7 +386,7 @@ If you have suggestions for new resources, improvements to methodologies, or cor
 | 2024 | CVPR | EgoWholeBody | [Egocentric Whole-Body Motion Capture with FisheyeViT and Diffusion-Based Motion Refinement](https://arxiv.org/abs/2311.16495)     |  | [GitHub](https://github.com/jianwang-mpi/egowholemocap) |
 | 2024 | CVPR | EventEgo3D | [EventEgo3D: 3D Human Motion Capture from Egocentric Event Streams](https://arxiv.org/abs/2404.08640)     | [Project](https://4dqv.mpi-inf.mpg.de/EventEgo3D/) | [GitHub](https://github.com/Chris10M/EventEgo3D) |
 | 2024 | CVPR | HMD-Poser | [HMD-Poser: On-Device Real-time Human Motion Tracking from Scalable Sparse Observations](https://arxiv.org/abs/2403.03561)     | [Project](https://pico-ai-team.github.io/hmd-poser) | [GitHub](https://github.com/Pico-AI-Team/HMD-Poser) |
-| 2024 |  | HOI-Ref | [HOI-Ref: Hand-Object Interaction Referral in Egocentric Vision](https://arxiv.org/abs/2404.09933)    | [Project](https://sid2697.github.io/hoi-ref/) | [GitHub](https://github.com/Sid2697/HOI-Ref) |
+| 2024 | arXiv | HOI-Ref | [HOI-Ref: Hand-Object Interaction Referral in Egocentric Vision](https://arxiv.org/abs/2404.09933)    | [Project](https://sid2697.github.io/hoi-ref/) | [GitHub](https://github.com/Sid2697/HOI-Ref) |
 | 2025 | 3DV | HMD$`^2`$ | [HMD$`^2`$: Environment-aware Motion Generation from Single Egocentric Head-Mounted Device](https://arxiv.org/abs/2409.13426)     | [Project](https://hmdsquared.github.io/) | |
 | 2025 | 3DV | OSNOM | [Spatial Cognition from Egocentric Video: Out of Sight, Not Out of Mind](https://arxiv.org/abs/2404.05072)     | [Project](https://dimadamen.github.io/OSNOM/) | [GitHub](https://github.com/Chiaraplizz/OSNOM) |
 | 2025 | IJCV | EventEgo3D++ | [EventEgo3D++: 3D Human Motion Capture from a Head Mounted Event Camera](https://arxiv.org/abs/2502.07869)     | [Project](https://eventego3d.mpi-inf.mpg.de/)  | [GitHub](https://github.com/Chris10M/EventEgo3D_plus_plus) |
@@ -394,7 +394,8 @@ If you have suggestions for new resources, improvements to methodologies, or cor
 | 2025 | CVPR | EgoAllo | [Estimating Body and Hand Motion in an Ego-sensed World](https://arxiv.org/abs/2410.03665)     | [Project](https://egoallo.github.io/)  | [GitHub](https://github.com/brentyi/egoallo)  |
 | 2025 | CVPR | Ego4o | [Ego4o: Egocentric Human Motion Capture and Understanding from Multi-Modal Input](https://arxiv.org/abs/2504.08449)     | [Project](https://jianwang-mpi.github.io/ego4o/)  | |
 | 2025 | CVPR | FRAME | [FRAME: Floor-aligned Representation for Avatar Motion from Egocentric Video](https://arxiv.org/abs/2503.23094)     | [Project](https://vcai.mpi-inf.mpg.de/projects/FRAME/)  | [GitHub](https://github.com/abcamiletto/frame) |
-| 2025 | | EgoH4 | [The Invisible EgoHand: 3D Hand Forecasting through EgoBody Pose Estimation](https://arxiv.org/abs/2504.08654)     | [Project](https://masashi-hatano.github.io/EgoH4/)  | [GitHub](https://github.com/masashi-hatano/EgoH4) |
+| 2025 | arXiv | EgoH4 | [The Invisible EgoHand: 3D Hand Forecasting through EgoBody Pose Estimation](https://arxiv.org/abs/2504.08654)     | [Project](https://masashi-hatano.github.io/EgoH4/)  | [GitHub](https://github.com/masashi-hatano/EgoH4) |
+| 2025 | ICCV | UniEgoMotion | [UniEgoMotion: A Unified Model for Egocentric Motion Reconstruction, Forecasting, and Generation](https://arxiv.org/abs/2508.01126)     | [Project](https://chaitanya100100.github.io/UniEgoMotion/)  | [GitHub](https://github.com/chaitanya100100/UniEgoMotion) |
 
 ---
 

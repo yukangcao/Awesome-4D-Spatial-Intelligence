@@ -444,6 +444,8 @@ If you have suggestions for new resources, improvements to methodologies, or cor
 | 2024 | CVPR | HDM | [Template Free Reconstruction of Human-object Interaction with Procedural Interaction Generation](https://arxiv.org/abs/2312.07063)     | [Project](https://virtualhumans.mpi-inf.mpg.de/procigen-hdm/) | [GitHub](https://github.com/xiexh20/HDM) |
 | 2024 | NeurIPS | InterDreamer | [InterDreamer: Zero-Shot Text to 3D Dynamic Human-Object Interaction](https://arxiv.org/abs/2403.19652)     | [Project](https://sirui-xu.github.io/InterDreamer/) | |
 | 2025 | 3DV | InterTrack | [InterTrack: Tracking Human Object Interaction without Object Templates](https://arxiv.org/abs/2408.13953)     | [Project](https://virtualhumans.mpi-inf.mpg.de/InterTrack/) | [GitHub](https://github.com/xiexh20/InterTrack) |
+| 2025 | CVPR | InteractVLM | [InteractVLM: 3D Interaction Reasoning from 2D Foundational Models](https://arxiv.org/abs/2504.05303)     | [Project](https://interactvlm.is.tue.mpg.de) | [GitHub](https://github.com/saidwivedi/InteractVLM) |
+
 
 
 ### SMPL-based human-centric interaction - HSI

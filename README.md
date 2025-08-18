@@ -138,6 +138,8 @@ If you have suggestions for new resources, improvements to methodologies, or cor
 | 2025 | arXiv    | Point3R  | [Point3R: Streaming 3D Reconstruction with Explicit Spatial Pointer Memory](https://arxiv.org/abs/2507.02863) | [Project](https://ykiwu.github.io/Point3R/) | [GitHub](https://github.com/YkiWu/Point3R) |
 | 2025 | arXiv    | StreamVGGT  | [Streaming 4D Visual Geometry Transformer](https://arxiv.org/abs/2507.11539) | [Project](https://wzzheng.net/StreamVGGT/) | [GitHub](https://github.com/wzzheng/StreamVGGT) |
 | 2025 | arXiv    | π$`^3`$  | [π$`^3`$: Scalable Permutation-Equivariant Visual Geometry Learning](https://arxiv.org/abs/2507.13347) | [Project](https://yyfz.github.io/pi3/) | [GitHub](https://github.com/yyfz/Pi3) |
+| 2025 | arXiv    | STream3R  | [STream3R: Scalable Sequential 3D Reconstruction with Causal Transformer](https://arxiv.org/abs/2508.10893) | [Project](https://nirvanalan.github.io/projects/stream3r/) | [GitHub](https://github.com/NIRVANALAN/STream3R) |
+| 2025 | arXiv    | ViPE  | [ViPE: Video Pose Engine for 3D Geometric Perception](https://research.nvidia.com/labs/toronto-ai/vipe/assets/paper.pdf) | [Project](https://research.nvidia.com/labs/toronto-ai/vipe/) | [GitHub](https://github.com/nv-tlabs/vipe) |
 
 ### Unifying depth, camera pose, and 3D tracking
 

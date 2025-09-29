@@ -69,6 +69,7 @@ If you have suggestions for new resources, improvements to methodologies, or cor
 | 2025 | CVPR | DepthCrafter | [DepthCrafter: Generating Consistent Long Depth Sequences for Open-world Videos](https://arxiv.org/abs/2409.02095) | [Project](https://depthcrafter.github.io/) | [GitHub](https://github.com/Tencent/DepthCrafter) |
 | 2025 | CVPR | ChronoDepth | [Learning Temporally Consistent Video Depth from Video Diffusion Priors](https://arxiv.org/abs/2406.01493) | [Project](https://xdimlab.github.io/ChronoDepth/) | [GitHub](https://github.com/jiahao-shao1/ChronoDepth) |
 | 2025 | CVPR | Video Depth Anything | [Video Depth Anything: Consistent Depth Estimation for Super-Long Videos](https://arxiv.org/abs/2501.12375) | [Project](https://videodepthanything.github.io/)  | [GitHub](https://github.com/DepthAnything/Video-Depth-Anything) |
+| 2025 |  | StereoAdapter | [StereoAdapter: Adapting Stereo Depth Estimation to Underwater Scenes](https://arxiv.org/abs/2509.16415) | [Project](https://aigeeksgroup.github.io/StereoAdapter/)  | [GitHub](https://github.com/AIGeeksGroup/StereoAdapter) |
 
 
 ### Camera pose estimation
@@ -140,6 +141,12 @@ If you have suggestions for new resources, improvements to methodologies, or cor
 | 2025 | arXiv    | π$`^3`$  | [π$`^3`$: Scalable Permutation-Equivariant Visual Geometry Learning](https://arxiv.org/abs/2507.13347) | [Project](https://yyfz.github.io/pi3/) | [GitHub](https://github.com/yyfz/Pi3) |
 | 2025 | arXiv    | STream3R  | [STream3R: Scalable Sequential 3D Reconstruction with Causal Transformer](https://arxiv.org/abs/2508.10893) | [Project](https://nirvanalan.github.io/projects/stream3r/) | [GitHub](https://github.com/NIRVANALAN/STream3R) |
 | 2025 | arXiv    | ViPE  | [ViPE: Video Pose Engine for 3D Geometric Perception](https://research.nvidia.com/labs/toronto-ai/vipe/assets/paper.pdf) | [Project](https://research.nvidia.com/labs/toronto-ai/vipe/) | [GitHub](https://github.com/nv-tlabs/vipe) |
+| 2025 | arXiv    | TUN3D  | [TUN3D: Towards Real-World Scene Understanding from Unposed Images](https://arxiv.org/abs/2509.21388) | | [GitHub](https://github.com/col14m/tun3d) |
+| 2025 | arXiv    | MASt3R-Fusion  | [MASt3R-Fusion: Integrating Feed-Forward Visual Model with IMU, GNSS for High-Functionality SLAM](https://arxiv.org/abs/2509.20757) | | [GitHub](https://github.com/GREAT-WHU/MASt3R-Fusion) |
+| 2025 |    | Lyra  | [Lyra: Generative 3D Scene Reconstruction via Video Diffusion Model Self-Distillation](https://arxiv.org/abs/2509.19296) | [Project](https://research.nvidia.com/labs/toronto-ai/lyra/) | [GitHub](https://github.com/nv-tlabs/lyra) |
+| 2025 |    | WinT3R  | [WinT3R: Window-Based Streaming Reconstruction with Camera Token Pool](https://arxiv.org/abs/2509.05296) | [Project](https://lizizun.github.io/WinT3R.github.io/) | [GitHub](https://github.com/LiZizun/WinT3R) |
+
+
 
 ### Unifying depth, camera pose, and 3D tracking
 
@@ -157,6 +164,7 @@ If you have suggestions for new resources, improvements to methodologies, or cor
 | 2025 | CVPR      | VGGT        | [VGGT: Visual Geometry Grounded Transformer](https://arxiv.org/abs/2503.11651)  | [Project](https://vgg-t.github.io/) | [GitHub](https://github.com/facebookresearch/vggt) |
 | 2025 | CVPR      | Zero-MSF | [Zero-Shot Monocular Scene Flow Estimation in the Wild](https://arxiv.org/abs/2501.10357)                        | [Project](https://research.nvidia.com/labs/lpr/zero_msf//) | [GitHub](https://github.com/SunYangtian/UniGeo) |
 | 2025 | ICCV | SpatialTrackerV2 | [SpatialTrackerV2: 3D Point Tracking Made Easy](https://arxiv.org/abs/2507.12462) | [Project](https://spatialtracker.github.io/) | [GitHub](https://github.com/henry123-boy/SpaTrackerV2) |
+| 2025 | ICCV | MVTracker | [Multi-View 3D Point Tracking](https://arxiv.org/abs/2508.21060) | [Project](https://ethz-vlg.github.io/mvtracker/) | [GitHub](https://github.com/ethz-vlg/mvtracker) |
 
 ## Level 2 -- 3D scene components
 
@@ -197,6 +205,13 @@ If you have suggestions for new resources, improvements to methodologies, or cor
 | 2025 |  | QuickSplat | [QuickSplat: Fast 3D Surface Reconstruction via Learned Gaussian Initialization](https://arxiv.org/abs/2505.05591)     | [Project](https://liu115.github.io/quicksplat) | |
 | 2025 | CVPR | | [Geometry Field Splatting with Gaussian Surfels](https://arxiv.org/abs/2411.17067)     | | |
 | 2025 | NeurIPS | ReTR | [ReTR: Modeling Rendering Via Transformer for Generalizable Neural Surface Reconstruction](https://arxiv.org/abs/2305.18832)     | [Project](https://yixunliang.github.io/ReTR/) | [GitHub](https://github.com/YixunLiang/ReTR) |
+| 2025 |  | | [3D Gaussian Flats: Hybrid 2D/3D Photometric Scene Reconstruction](https://arxiv.org/abs/2509.16423)     |  |  |
+| 2025 |  | VolSplat | [VolSplat: Rethinking Feed-Forward 3D Gaussian Splatting with Voxel-Aligned Prediction](https://arxiv.org/abs/2509.19297)     | [Project](https://lhmd.top/volsplat/) | [GitHub](https://github.com/ziplab/VolSplat) |
+| 2025 | NeurIPS | HyRF | [HyRF: Hybrid Radiance Fields for Memory-efficient and High-quality Novel View Synthesis](https://arxiv.org/abs/2509.17083)     | [Project](https://wzpscott.github.io/hyrf/) | [GitHub](https://github.com/wzpscott/hybrid-radiance-fields) |
+| 2025 | NeurIPS | GeoSVR | [GeoSVR: Taming Sparse Voxels for Geometrically Accurate Surface Reconstruction](https://arxiv.org/abs/2509.18090)     | [Project](https://fictionarry.github.io/GeoSVR-project/) | [GitHub](https://github.com/Fictionarry/GeoSVR) |
+| 2025 |  | Distilled-3DGS | [Distilled-3DGS:Distilled 3D Gaussian Splatting](https://arxiv.org/abs/2508.14037)     | [Project](https://arxiv.org/abs/2508.14037) | [GitHub](https://github.com/lt-xiang/Distilled-3DGS) |
+
+
 
 
 ---
@@ -311,6 +326,10 @@ If you have suggestions for new resources, improvements to methodologies, or cor
 | 2025 |  | WideRange4D | [WideRange4D: Enabling High-Quality 4D Reconstruction with Wide-Range Movements and Scenes](https://arxiv.org/abs/2503.13435)     |  | [GitHub](https://github.com/Gen-Verse/WideRange4D) |
 | 2025 |  | MoVieS | [MoVieS: Motion-Aware 4D Dynamic View Synthesis in One Second](https://arxiv.org/abs/2507.10065)     | [Project](https://chenguolin.github.io/projects/MoVieS/) | [GitHub](https://github.com/chenguolin/MoVieS) |
 | 2025 | CVPR | Instruct-4DGS | [Instruct-4DGS: Efficient Dynamic Scene Editing via 4D Gaussian-based Static-Dynamic Separation](https://arxiv.org/pdf/2502.02091)     | [Project](https://hanbyelcho.info/instruct-4dgs/) | [GitHub](https://github.com/juhyeon-kwon/efficient_4d_gaussian_editing) |
+| 2025 |  | Pixie | [Pixie: Fast and Generalizable Supervised Learning of 3D Physics from Pixels](https://arxiv.org/abs/2508.17437)     | [Project](https://pixie-3d.github.io/) | [GitHub](https://github.com/vlongle/pixie) |
+| 2025 |  | MeshSplat | [MeshSplat: Generalizable Sparse-View Surface Reconstruction via Gaussian Splatting](https://arxiv.org/abs/2508.17811)     | [Project](https://hanzhichang.github.io/meshsplat_web/) | [GitHub](https://github.com/HanzhiChang/MeshSplat) |
+| 2025 | ICCV | LongSplat | [LongSplat: Robust Unposed 3D Gaussian Splatting for Casual Long Videos](https://arxiv.org/abs/2508.14041)     | [Project](https://linjohnss.github.io/longsplat/) | [GitHub](https://github.com/NVlabs/LongSplat) |
+
 
 ---
 
@@ -398,6 +417,9 @@ If you have suggestions for new resources, improvements to methodologies, or cor
 | 2025 | CVPR | FRAME | [FRAME: Floor-aligned Representation for Avatar Motion from Egocentric Video](https://arxiv.org/abs/2503.23094)     | [Project](https://vcai.mpi-inf.mpg.de/projects/FRAME/)  | [GitHub](https://github.com/abcamiletto/frame) |
 | 2025 | arXiv | EgoH4 | [The Invisible EgoHand: 3D Hand Forecasting through EgoBody Pose Estimation](https://arxiv.org/abs/2504.08654)     | [Project](https://masashi-hatano.github.io/EgoH4/)  | [GitHub](https://github.com/masashi-hatano/EgoH4) |
 | 2025 | ICCV | UniEgoMotion | [UniEgoMotion: A Unified Model for Egocentric Motion Reconstruction, Forecasting, and Generation](https://arxiv.org/abs/2508.01126)     | [Project](https://chaitanya100100.github.io/UniEgoMotion/)  | [GitHub](https://github.com/chaitanya100100/UniEgoMotion) |
+| 2025 | ICCVW | EgoInstruct | [EgoInstruct: An Egocentric Video Dataset of Face-to-face Instructional Interactions with Multi-modal LLM Benchmarking](https://arxiv.org/abs/2509.22019)     |  |  |
+| 2025 | | EgoTwin | [EgoTwin: Dreaming Body and View in First Person](https://arxiv.org/abs/2508.13013)     | [Project](https://egotwin.pages.dev/) |  |
+
 
 ---
 
@@ -552,6 +574,9 @@ If you have suggestions for new resources, improvements to methodologies, or cor
 | 2025 | ICRA   | HOVER | [HOVER: Versatile Neural Whole-Body Controller for Humanoid Robots](https://arxiv.org/abs/2410.21229)     | [Project](https://hover-versatile-humanoid.github.io/) | [GitHub](https://github.com/NVlabs/HOVER/) |
 | 2025 | RSS   | ASAP | [ASAP: Aligning Simulation and Real-World Physics for Learning Agile Humanoid Whole-Body Skills](https://arxiv.org/abs/2502.01143)     | [Project](https://agile.human2humanoid.com/) | [GitHub](https://github.com/LeCAR-Lab/ASAP) |
 | 2025 |   | UniPhys | [UniPhys: Unified Planner and Controller with Diffusion for Flexible Physics-Based Character Control](https://arxiv.org/abs/2504.12540)     | [Project](https://wuyan01.github.io/uniphys-project/) | |
+| 2025 |   | VisualMimic | [VisualMimic: Visual Humanoid Loco-Manipulation via Motion Tracking and Generation](https://arxiv.org/abs/2509.20322)     | [Project](https://visualmimic.github.io/) | [GitHub](https://github.com/visualmimic/VisualMimic) |
+| 2025 | NeurIPS  | EgoBridge | [EgoBridge: Domain Adaptation for Generalizable Imitation from Egocentric Human Data](https://arxiv.org/abs/2509.19626)     | [Project](https://ego-bridge.github.io/) |  |
+
 
 ---
 

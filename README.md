@@ -210,7 +210,12 @@ If you have suggestions for new resources, improvements to methodologies, or cor
 | 2025 | NeurIPS | HyRF | [HyRF: Hybrid Radiance Fields for Memory-efficient and High-quality Novel View Synthesis](https://arxiv.org/abs/2509.17083)     | [Project](https://wzpscott.github.io/hyrf/) | [GitHub](https://github.com/wzpscott/hybrid-radiance-fields) |
 | 2025 | NeurIPS | GeoSVR | [GeoSVR: Taming Sparse Voxels for Geometrically Accurate Surface Reconstruction](https://arxiv.org/abs/2509.18090)     | [Project](https://fictionarry.github.io/GeoSVR-project/) | [GitHub](https://github.com/Fictionarry/GeoSVR) |
 | 2025 |  | Distilled-3DGS | [Distilled-3DGS:Distilled 3D Gaussian Splatting](https://arxiv.org/abs/2508.14037)     | [Project](https://arxiv.org/abs/2508.14037) | [GitHub](https://github.com/lt-xiang/Distilled-3DGS) |
-
+| 2025 |  | UP2You | [UP2You: Fast Reconstruction of Yourself from Unconstrained Photo Collections](https://arxiv.org/abs/2509.24817)     | [Project](https://zcai0612.github.io/UP2You/) | [GitHub](https://github.com/zcai0612/UP2You) |
+| 2025 | NeurIPS | HoloScene | [HoloScene: Simulation-Ready Interactive 3D Worlds from a Single Video](https://arxiv.org/abs/2510.05560)     | [Project](https://xiahongchi.github.io/HoloScene/) | [GitHub](https://github.com/xiahongchi/HoloScene) |
+| 2025 |  | OMG4 | [Optimized Minimal 4D Gaussian Splatting](https://arxiv.org/abs/2510.03857)     | [Project](https://minshirley.github.io/OMG4/) | [GitHub](https://github.com/MinShirley/OMG4) |
+| 2025 |  | Triangle Splatting+ | [Triangle Splatting+: Differentiable Rendering with Opaque Triangles](https://arxiv.org/abs/2509.25122)     | [Project](https://trianglesplatting2.github.io/trianglesplatting2/) | [GitHub](https://github.com/trianglesplatting2/triangle-splatting2) |
+| 2025 |  | VGGT-X | [VGGT-X: When VGGT Meets Dense Novel View Synthesis](https://arxiv.org/abs/2509.25191)     | [Project](https://dekuliutesla.github.io/vggt-x.github.io/) | [GitHub](https://github.com/Linketic/VGGT-X) |
+| 2025 | NeurIPS | NExF | [Learning Neural Exposure Fields for View Synthesis](https://arxiv.org/abs/2510.08279)     | [Project](https://m-niemeyer.github.io/nexf/index.html) | |
 
 
 
@@ -248,6 +253,7 @@ If you have suggestions for new resources, improvements to methodologies, or cor
 | 2025 | IROS |  | [3D Gaussian Splatting for Fine-Detailed Surface Reconstruction in Large-Scale Scene](https://arxiv.org/abs/2506.17636)     |  |  |
 | 2025 | EGSR |  | [Multiview Geometric Regularization of Gaussian Splatting for Accurate Radiance Fields](https://arxiv.org/abs/2506.13508)     |  |  |
 | 2025 | Siggraph | | [Photoreal Scene Reconstruction from an Egocentric Device](https://arxiv.org/abs/2506.04444)     | [Project](https://www.projectaria.com/photoreal-reconstruction/) | [GitHub](https://github.com/facebookresearch/egocentric_splats) |
+| 2025 |  | ARTDECO | [ARTDECO: Towards Efficient and High-Fidelity On-the-Fly 3D Reconstruction with Structured Scene Representation](https://arxiv.org/abs/2510.08551)     | [Project](https://city-super.github.io/artdeco/) | [GitHub](https://github.com/InternRobotics/ARTDECO) |
 
 
 ## Level 3 -- 4D dynamic scenes
@@ -329,6 +335,9 @@ If you have suggestions for new resources, improvements to methodologies, or cor
 | 2025 |  | Pixie | [Pixie: Fast and Generalizable Supervised Learning of 3D Physics from Pixels](https://arxiv.org/abs/2508.17437)     | [Project](https://pixie-3d.github.io/) | [GitHub](https://github.com/vlongle/pixie) |
 | 2025 |  | MeshSplat | [MeshSplat: Generalizable Sparse-View Surface Reconstruction via Gaussian Splatting](https://arxiv.org/abs/2508.17811)     | [Project](https://hanzhichang.github.io/meshsplat_web/) | [GitHub](https://github.com/HanzhiChang/MeshSplat) |
 | 2025 | ICCV | LongSplat | [LongSplat: Robust Unposed 3D Gaussian Splatting for Casual Long Videos](https://arxiv.org/abs/2508.14041)     | [Project](https://linjohnss.github.io/longsplat/) | [GitHub](https://github.com/NVlabs/LongSplat) |
+| 2025 | NeurIPS | Instant4D | [Instant4D: 4D Gaussian Splatting in Minutes](https://arxiv.org/abs/2510.01119)     | [Project](https://instant4d.github.io/) | [GitHub](https://github.com/Zhanpeng1202/Instant4D) |
+| 2025 |  | Human3R | [Human3R: Everyone Everywhere All at Once](https://arxiv.org/abs/2510.06219)     | [Project](https://fanegg.github.io/Human3R/) | [GitHub](https://github.com/fanegg/Human3R) |
+| 2025 |  | TTT3R | [TTT3R: 3D Reconstruction as Test-Time Training](https://arxiv.org/abs/2509.26645)     | [Project](https://rover-xingyu.github.io/TTT3R/) | [GitHub](https://github.com/Inception3D/TTT3R) |
 
 
 ---

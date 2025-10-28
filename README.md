@@ -165,6 +165,7 @@ If you have suggestions for new resources, improvements to methodologies, or cor
 | 2025 | CVPR      | Zero-MSF | [Zero-Shot Monocular Scene Flow Estimation in the Wild](https://arxiv.org/abs/2501.10357)                        | [Project](https://research.nvidia.com/labs/lpr/zero_msf//) | [GitHub](https://github.com/SunYangtian/UniGeo) |
 | 2025 | ICCV | SpatialTrackerV2 | [SpatialTrackerV2: 3D Point Tracking Made Easy](https://arxiv.org/abs/2507.12462) | [Project](https://spatialtracker.github.io/) | [GitHub](https://github.com/henry123-boy/SpaTrackerV2) |
 | 2025 | ICCV | MVTracker | [Multi-View 3D Point Tracking](https://arxiv.org/abs/2508.21060) | [Project](https://ethz-vlg.github.io/mvtracker/) | [GitHub](https://github.com/ethz-vlg/mvtracker) |
+| 2025 |  | Trace Anything | [Trace Anything: Representing Any Video in 4D via Trajectory Fields](https://arxiv.org/abs/2510.13802) | [Project](https://trace-anything.github.io/) | [GitHub](https://github.com/ByteDance-Seed/TraceAnything) |
 
 ## Level 2 -- 3D scene components
 
@@ -216,6 +217,9 @@ If you have suggestions for new resources, improvements to methodologies, or cor
 | 2025 |  | Triangle Splatting+ | [Triangle Splatting+: Differentiable Rendering with Opaque Triangles](https://arxiv.org/abs/2509.25122)     | [Project](https://trianglesplatting2.github.io/trianglesplatting2/) | [GitHub](https://github.com/trianglesplatting2/triangle-splatting2) |
 | 2025 |  | VGGT-X | [VGGT-X: When VGGT Meets Dense Novel View Synthesis](https://arxiv.org/abs/2509.25191)     | [Project](https://dekuliutesla.github.io/vggt-x.github.io/) | [GitHub](https://github.com/Linketic/VGGT-X) |
 | 2025 | NeurIPS | NExF | [Learning Neural Exposure Fields for View Synthesis](https://arxiv.org/abs/2510.08279)     | [Project](https://m-niemeyer.github.io/nexf/index.html) | |
+| 2025 |  | IGGT | [IGGT: Instance-Grounded Geometry Transformer for Semantic 3D Reconstruction](https://arxiv.org/abs/2510.22706)     | | [GitHub](https://github.com/lifuguan/IGGT_official?tab=readme-ov-file) |
+| 2025 |  |  | [Geometry Meets Vision: Revisiting Pretrained Semantics in Distilled Fields](https://arxiv.org/abs/2510.03104)     | [Project](https://spine-geo.github.io/) | [GitHub](https://github.com/irom-princeton/spine) |
+| 2025 | TMLR | SCas4D | [SCas4D: Structural Cascaded Optimization for Boosting Persistent 4D Novel View Synthesis](https://arxiv.org/abs/2510.06694)     | [Project](https://github-tree-0.github.io/SCas4D-project-page/) |  |
 
 
 
@@ -394,6 +398,7 @@ If you have suggestions for new resources, improvements to methodologies, or cor
 | 2025 | CVPR | BLADE | [BLADE: Single-view Body Mesh Learning through Accurate Depth Estimation](https://arxiv.org/abs/2412.08640)     | [Project](https://research.nvidia.com/labs/amri/projects/blade/)  |  |
 | 2025 | CVPR | HSMR | [Reconstructing Humans with a Biomechanically Accurate Skeleton](https://arxiv.org/abs/2503.21751)     | [Project](https://isshikihugh.github.io/HSMR/)  | [GitHub](https://github.com/IsshikiHugh/HSMR) |
 | 2025 | ICCV | GENMO | [GENMO: A GENarlist Model for Human MOtion](https://arxiv.org/abs/2505.01425)     | [Project](https://research.nvidia.com/labs/dair/genmo/)  |  |
+| 2025 |  | FastHMR | [FastHMR: Accelerating Human Mesh Recovery via Token and Layer Merging with Diffusion Decoding](https://arxiv.org/abs/2510.10868)     | [Project](https://soroushmehraban.github.io/FastHMR/)  | [GitHub](https://github.com/TaatiTeam/FastHMR/) |
 
 ---
 

@@ -101,6 +101,7 @@ If you have suggestions for new resources, improvements to methodologies, or cor
 | 2025 | CVPR | AnyCam | [AnyCam: Learning to Recover Camera Poses and Intrinsics from Casual Videos](https://arxiv.org/abs/2503.23282) | [Project](https://fwmb.github.io/anycam/) | [GitHub](https://github.com/Brummi/anycam) |
 | 2025 | CVPR | DynPose | [Dynamic Camera Poses and Where to Find Them](https://arxiv.org/abs/2504.17788) | [Project](https://research.nvidia.com/labs/dir/dynpose-100k/) | |
 | 2025 | T-RO | AirSLAM | [AirSLAM: An Efficient and Illumination-Robust Point-Line SLAM System](https://arxiv.org/abs/2408.03520) | [Project](https://xukuanhit.github.io/airslam/) | [GitHub](https://github.com/sair-lab/AirSLAM) |
+| 2025 | arXiv | Puffin | [Thinking with Camera: A Unified Multimodal Model for Camera-Centric Understanding and Generation](https://arxiv.org/abs/2510.08673) | [Project](https://kangliao929.github.io/projects/puffin/) | [GitHub](https://github.com/KangLiao929/Puffin) |
 
 ---
 

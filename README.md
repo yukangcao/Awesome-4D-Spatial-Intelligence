@@ -221,7 +221,16 @@ If you have suggestions for new resources, improvements to methodologies, or cor
 | 2025 |  | IGGT | [IGGT: Instance-Grounded Geometry Transformer for Semantic 3D Reconstruction](https://arxiv.org/abs/2510.22706)     | | [GitHub](https://github.com/lifuguan/IGGT_official?tab=readme-ov-file) |
 | 2025 |  |  | [Geometry Meets Vision: Revisiting Pretrained Semantics in Distilled Fields](https://arxiv.org/abs/2510.03104)     | [Project](https://spine-geo.github.io/) | [GitHub](https://github.com/irom-princeton/spine) |
 | 2025 | TMLR | SCas4D | [SCas4D: Structural Cascaded Optimization for Boosting Persistent 4D Novel View Synthesis](https://arxiv.org/abs/2510.06694)     | [Project](https://github-tree-0.github.io/SCas4D-project-page/) |  |
-
+| 2025 | NeurIPS | MaterialRefGS | [MaterialRefGS: Reflective Gaussian Splatting with Multi-view Consistent Material Inference](https://arxiv.org/abs/2510.11387)     | [Project](https://wen-yuan-zhang.github.io/MaterialRefGS) | |
+| 2025 | ICCV | Liberated-GS | [Liberated-GS: 3D Gaussian Splatting Independent from SfM Point Clouds](https://openaccess.thecvf.com/content/ICCV2025/supplemental/Pan_Liberated-GS_3D_Gaussian_ICCV_2025_supplemental.pdf)     |  |  |
+| 2025 | | InstantSfM | [InstantSfM: Fully Sparse and Parallel Structure-from-Motion](https://arxiv.org/abs/2510.13310)     | [Project](https://cre185.github.io/InstantSfM/) | [GitHub](https://github.com/cre185/InstantSfM) |
+| 2025 | | SaLon3R | [SaLon3R: Structure-aware Long-term Generalizable 3D Reconstruction from Unposed Images](https://arxiv.org/abs/2510.15072)     | [Project](https://wrld.github.io/SaLon3R/) | [GitHub](https://github.com/wrld/SaLon3R) |
+| 2025 | | 2DGS-R | [2DGS-R: Revisiting the Normal Consistency Regularization in 2D Gaussian Splatting](https://www.arxiv.org/abs/2510.16837)     |  |  |
+| 2025 | | ReAct-GS | [Re-Activating Frozen Primitives for 3D Gaussian Splatting](https://arxiv.org/abs/2510.19653)     | [Project](https://react-gs.github.io/) | [GitHub](https://github.com/react-gs/ReAct-GS) |
+| 2025 | | EV3DGS | [Extreme Views: 3DGS Filter for Novel View Synthesis from Out-of-Distribution Camera Poses](https://arxiv.org/abs/2510.20027)     | [Project](https://damian-bowness.github.io/EV3DGS/) | |
+| 2025 | NeurIPS | PLANA3R | [PLANA3R: Zero-shot Metric Planar 3D Reconstruction via Feed-Forward Planar Splatting](https://arxiv.org/abs/2510.18714)     | [Project](https://lck666666.github.io/plana3r/) | [GitHub](https://github.com/lck666666/plana3r) |
+| 2025 | NeurIPS | PlanarGS | [PlanarGS: High-Fidelity Indoor 3D Gaussian Splatting Guided by Vision-Language Planar Priors](https://arxiv.org/abs/2510.23930)     | [Project](https://planargs.github.io/) | [GitHub](https://github.com/SJTU-ViSYS-team/PlanarGS) |
+| 2025 |  | ZeroGS | [ZeroGS: Training 3D Gaussian Splatting from Unposed Images](https://arxiv.org/pdf/2411.15779)     | [Project](https://aibluefisher.github.io/ZeroGS/) | [GitHub](https://github.com/AIBluefisher/DeepGfM?tab=readme-ov-file) |
 
 
 ---
@@ -259,6 +268,9 @@ If you have suggestions for new resources, improvements to methodologies, or cor
 | 2025 | EGSR |  | [Multiview Geometric Regularization of Gaussian Splatting for Accurate Radiance Fields](https://arxiv.org/abs/2506.13508)     |  |  |
 | 2025 | Siggraph | | [Photoreal Scene Reconstruction from an Egocentric Device](https://arxiv.org/abs/2506.04444)     | [Project](https://www.projectaria.com/photoreal-reconstruction/) | [GitHub](https://github.com/facebookresearch/egocentric_splats) |
 | 2025 |  | ARTDECO | [ARTDECO: Towards Efficient and High-Fidelity On-the-Fly 3D Reconstruction with Structured Scene Representation](https://arxiv.org/abs/2510.08551)     | [Project](https://city-super.github.io/artdeco/) | [GitHub](https://github.com/InternRobotics/ARTDECO) |
+| 2025 |  | ReSplat | [ReSplat: Learning Recurrent Gaussian Splats](https://arxiv.org/abs/2510.08575)     | [Project](https://haofeixu.github.io/resplat/) | |
+| 2025 |  | NVSim | [NVSim: Novel View Synthesis Simulator for Large Scale Indoor Navigation](https://arxiv.org/abs/2510.24335)     | [Project](https://www.youtube.com/watch?v=tTiIQt6nXC8&feature=youtu.be) | |
+
 
 
 ## Level 3 -- 4D dynamic scenes
@@ -343,6 +355,12 @@ If you have suggestions for new resources, improvements to methodologies, or cor
 | 2025 | NeurIPS | Instant4D | [Instant4D: 4D Gaussian Splatting in Minutes](https://arxiv.org/abs/2510.01119)     | [Project](https://instant4d.github.io/) | [GitHub](https://github.com/Zhanpeng1202/Instant4D) |
 | 2025 |  | Human3R | [Human3R: Everyone Everywhere All at Once](https://arxiv.org/abs/2510.06219)     | [Project](https://fanegg.github.io/Human3R/) | [GitHub](https://github.com/fanegg/Human3R) |
 | 2025 |  | TTT3R | [TTT3R: 3D Reconstruction as Test-Time Training](https://arxiv.org/abs/2509.26645)     | [Project](https://rover-xingyu.github.io/TTT3R/) | [GitHub](https://github.com/Inception3D/TTT3R) |
+| 2025 |  | Mono4DGS-HDR | [Mono4DGS-HDR: High Dynamic Range 4D Gaussian Splatting from Alternating-exposure Monocular Videos](https://arxiv.org/abs/2510.18489)     | [Project](https://liujf1226.github.io/Mono4DGS-HDR/) | [GitHub](https://github.com/LiuJF1226/Mono4DGS-HDR) |
+| 2025 |  | MoE-GS | [MoE-GS: Mixture of Experts for Dynamic Gaussian Splatting](https://www.arxiv.org/abs/2510.19210)     | [Project](https://anonymous.4open.science/w/MoE-GS-68BA/) |  |
+| 2025 |  | TrackerSplat | [TrackerSplat: Exploiting Point Tracking for Fast and Robust Dynamic 3D Gaussians Reconstruction](http://profile.yindaheng98.top/TrackerSplat2025SIGGRAPHAsia.pdf)     |  | [GitHub](https://github.com/yindaheng98/TrackerSplat?tab=readme-ov-file) |
+| 2025 |  | Diff4Splat | [Diff4Splat: Controllable 4D Scene Generation with Latent Dynamic Reconstruction Models](https://arxiv.org/abs/2511.00503)     | [Project](https://paulpanwang.github.io/Diff4Splat/) | |
+| 2025 |  | | [Reconstruct, Inpaint, Finetune: Dynamic Novel-view Synthesis from Monocular Videos](https://arxiv.org/abs/2507.12646)     | [Project](https://cog-nvs.github.io/) | [GitHub](https://github.com/Kaihua-Chen/cog-nvs) |
+
 
 
 ---
@@ -460,6 +478,7 @@ If you have suggestions for new resources, improvements to methodologies, or cor
 | 2024 | CVPR | GPS-Gaussian  | [GPS-Gaussian: Generalizable Pixel-wise 3D Gaussian Splatting for Real-time Human Novel View Synthesis](https://arxiv.org/abs/2312.02155)     | [Project](https://shunyuanzheng.github.io/GPS-Gaussian)  | [GitHub](https://github.com/aipixel/GPS-Gaussian)  |
 | 2024 | CVPR | 3DGS-Avatar  | [3DGS-Avatar: Animatable Avatars via Deformable 3D Gaussian Splatting](https://arxiv.org/abs/2312.09228)     | [Project](https://neuralbodies.github.io/3DGS-Avatar/)  | [GitHub](https://github.com/mikeqzy/3dgs-avatar-release)  |
 | 2025 | CVPR | GauSTAR  | [GauSTAR: Gaussian Surface Tracking and Reconstruction](https://arxiv.org/abs/2501.10283)     | [Project](https://eth-ait.github.io/GauSTAR/) | [GitHub](https://github.com/eth-ait/GauSTAR) |
+| 2025 | Siggraph Asia |  | [Detail Enhanced Gaussian Splatting for Large-Scale Volumetric Capture](https://eyeline-labs.github.io/DEGS/degs_static/pdfs/DEGS.pdf)     | [Project](https://eyeline-labs.github.io/DEGS/) | [GitHub](https://github.com/eth-ait/GauSTAR) |
 
 
 

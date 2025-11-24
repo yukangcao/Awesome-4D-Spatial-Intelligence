@@ -147,7 +147,7 @@ If you have suggestions for new resources, improvements to methodologies, or cor
 | 2025 |    | Lyra  | [Lyra: Generative 3D Scene Reconstruction via Video Diffusion Model Self-Distillation](https://arxiv.org/abs/2509.19296) | [Project](https://research.nvidia.com/labs/toronto-ai/lyra/) | [GitHub](https://github.com/nv-tlabs/lyra) |
 | 2025 |    | WinT3R  | [WinT3R: Window-Based Streaming Reconstruction with Camera Token Pool](https://arxiv.org/abs/2509.05296) | [Project](https://lizizun.github.io/WinT3R.github.io/) | [GitHub](https://github.com/LiZizun/WinT3R) |
 | 2025 |    | Dental3R  | [Dental3R: Geometry-Aware Pairing for Intraoral 3D Reconstruction from Sparse-View Photographs](https://arxiv.org/abs/2511.14315) |  |  |
-
+| 2025 |    | OmniVGGT  | [OmniVGGT: Omni-Modality Driven Visual Geometry Grounded Transformer](https://arxiv.org/abs/2511.10560) | [Project](https://livioni.github.io/OmniVGGT-official/) | [GitHub](https://github.com/Livioni/OmniVGGT-official) |
 
 
 ### Unifying depth, camera pose, and 3D tracking
@@ -168,6 +168,7 @@ If you have suggestions for new resources, improvements to methodologies, or cor
 | 2025 | ICCV | SpatialTrackerV2 | [SpatialTrackerV2: 3D Point Tracking Made Easy](https://arxiv.org/abs/2507.12462) | [Project](https://spatialtracker.github.io/) | [GitHub](https://github.com/henry123-boy/SpaTrackerV2) |
 | 2025 | ICCV | MVTracker | [Multi-View 3D Point Tracking](https://arxiv.org/abs/2508.21060) | [Project](https://ethz-vlg.github.io/mvtracker/) | [GitHub](https://github.com/ethz-vlg/mvtracker) |
 | 2025 |  | Trace Anything | [Trace Anything: Representing Any Video in 4D via Trajectory Fields](https://arxiv.org/abs/2510.13802) | [Project](https://trace-anything.github.io/) | [GitHub](https://github.com/ByteDance-Seed/TraceAnything) |
+| 2025 | WACV | PointSt3R | [PointSt3R: Point Tracking through 3D Grounded Correspondence](https://www.arxiv.org/abs/2510.26443) | [Project](https://rhodriguerrier.github.io/PointSt3R/) | [GitHub](https://github.com/rhodriguerrier/PointSt3R) |
 
 ## Level 2 -- 3D scene components
 
@@ -239,6 +240,9 @@ If you have suggestions for new resources, improvements to methodologies, or cor
 | 2025 |  | YoNoSplat | [YoNoSplat: You Only Need One Model for Feedforward 3D Gaussian Splatting](https://arxiv.org/abs/2511.07321)     | [Project](https://botaoye.github.io/yonosplat/) |  |
 | 2025 |  | | [Improving Multi-View Reconstruction via Texture-Guided Gaussian-Mesh Joint Optimization](https://arxiv.org/abs/2511.03950)     |  |  |
 | 2025 | NeurIPS | IBGS | [IBGS: Image-Based Gaussian Splatting](https://arxiv.org/abs/2511.14357)     |  |  |
+| 2025 | | CuriGS | [CuriGS: Curriculum-Guided Gaussian Splatting for Sparse View Synthesis](https://arxiv.org/abs/2511.16030)     | [Project](https://zijian1026.github.io/CuriGS/)  |  |
+| 2025 | Eurographics | OUGS | [OUGS: Active View Selection via Object-aware Uncertainty Estimation in 3DGS](https://arxiv.org/abs/2511.09397)     |   |  |
+| 2025 | | JOGS | [JOGS: Joint Optimization of Pose Estimation and 3D Gaussian Splatting](https://arxiv.org/abs/2510.26117)     |   |  |
 
 
 ---
@@ -368,7 +372,8 @@ If you have suggestions for new resources, improvements to methodologies, or cor
 | 2025 |  | MoE-GS | [MoE-GS: Mixture of Experts for Dynamic Gaussian Splatting](https://www.arxiv.org/abs/2510.19210)     | [Project](https://anonymous.4open.science/w/MoE-GS-68BA/) |  |
 | 2025 |  | TrackerSplat | [TrackerSplat: Exploiting Point Tracking for Fast and Robust Dynamic 3D Gaussians Reconstruction](http://profile.yindaheng98.top/TrackerSplat2025SIGGRAPHAsia.pdf)     |  | [GitHub](https://github.com/yindaheng98/TrackerSplat?tab=readme-ov-file) |
 | 2025 |  | Diff4Splat | [Diff4Splat: Controllable 4D Scene Generation with Latent Dynamic Reconstruction Models](https://arxiv.org/abs/2511.00503)     | [Project](https://paulpanwang.github.io/Diff4Splat/) | |
-| 2025 | CogNVS | | [Reconstruct, Inpaint, Finetune: Dynamic Novel-view Synthesis from Monocular Videos](https://arxiv.org/abs/2507.12646)     | [Project](https://cog-nvs.github.io/) | [GitHub](https://github.com/Kaihua-Chen/cog-nvs) |
+| 2025 |  | CogNVS | [Reconstruct, Inpaint, Finetune: Dynamic Novel-view Synthesis from Monocular Videos](https://arxiv.org/abs/2507.12646)     | [Project](https://cog-nvs.github.io/) | [GitHub](https://github.com/Kaihua-Chen/cog-nvs) |
+| 2025 | NeurIPS | 4D3R | [4D3R: Motion-Aware Neural Reconstruction and Rendering of Dynamic Scenes from Monocular Videos](https://arxiv.org/abs/2511.05229)     |  |  |
 
 
 
@@ -428,6 +433,7 @@ If you have suggestions for new resources, improvements to methodologies, or cor
 | 2025 | ICCV | GENMO | [GENMO: A GENarlist Model for Human MOtion](https://arxiv.org/abs/2505.01425)     | [Project](https://research.nvidia.com/labs/dair/genmo/)  |  |
 | 2025 |  | FastHMR | [FastHMR: Accelerating Human Mesh Recovery via Token and Layer Merging with Diffusion Decoding](https://arxiv.org/abs/2510.10868)     | [Project](https://soroushmehraban.github.io/FastHMR/)  | [GitHub](https://github.com/TaatiTeam/FastHMR/) |
 | 2025 | WACV | SkelSplat | [SkelSplat: Robust Multi-view 3D Human Pose Estimation with Differentiable Gaussian Rendering](https://arxiv.org/abs/2511.08294)     | [Project](https://skelsplat.github.io/)  | [GitHub](https://github.com/laurabragagnolo/SkelSplat) |
+| 2025 |  | SAM 3D | [SAM 3D: 3Dfy Anything in Images](https://arxiv.org/abs/2511.16624)     | [Project](https://ai.meta.com/sam3d/)  | [GitHub](https://github.com/facebookresearch/sam-3d-objects) |
 
 ---
 
@@ -490,7 +496,7 @@ If you have suggestions for new resources, improvements to methodologies, or cor
 | 2025 | CVPR | GauSTAR  | [GauSTAR: Gaussian Surface Tracking and Reconstruction](https://arxiv.org/abs/2501.10283)     | [Project](https://eth-ait.github.io/GauSTAR/) | [GitHub](https://github.com/eth-ait/GauSTAR) |
 | 2025 | Siggraph Asia |  | [Detail Enhanced Gaussian Splatting for Large-Scale Volumetric Capture](https://eyeline-labs.github.io/DEGS/degs_static/pdfs/DEGS.pdf)     | [Project](https://eyeline-labs.github.io/DEGS/) | [GitHub](https://github.com/eth-ait/GauSTAR) |
 | 2025 |  | AHA | [AHA! Animating Human Avatars in Diverse Scenes with Gaussian Splatting](https://arxiv.org/abs/2511.09827)     |  |  |
-
+| 2025 | IROS | STG-Avatar | [STG-Avatar: Animatable Human Avatars via Spacetime Gaussian](https://arxiv.org/abs/2510.22140)     |  | [GitHub](https://github.com/jiangguangan/STG-Avatar) |
 
 
 ## Level 4 -- Interaction among scene components

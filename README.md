@@ -243,6 +243,8 @@ If you have suggestions for new resources, improvements to methodologies, or cor
 | 2025 | | CuriGS | [CuriGS: Curriculum-Guided Gaussian Splatting for Sparse View Synthesis](https://arxiv.org/abs/2511.16030)     | [Project](https://zijian1026.github.io/CuriGS/)  |  |
 | 2025 | Eurographics | OUGS | [OUGS: Active View Selection via Object-aware Uncertainty Estimation in 3DGS](https://arxiv.org/abs/2511.09397)     |   |  |
 | 2025 | | JOGS | [JOGS: Joint Optimization of Pose Estimation and 3D Gaussian Splatting](https://arxiv.org/abs/2510.26117)     |   |  |
+| 2025 | NeurIPS | AtlasGS | [AtlasGS: Atlanta-world Guided Surface Reconstruction with Implicit Structured Gaussians](https://arxiv.org/abs/2510.25129)     | [Project](https://zju3dv.github.io/AtlasGS/)  | [GitHub](https://github.com/xyzhang77/AtlasGS) |
+| 2025 |  | ItG-GS | [Initialize to Generalize: A Stronger Initialization Pipeline for Sparse-View 3DGS](https://arxiv.org/abs/2510.17479)     |  | [GitHub](https://github.com/zss171999645/ItG-GS) |
 
 
 ---
@@ -374,6 +376,7 @@ If you have suggestions for new resources, improvements to methodologies, or cor
 | 2025 |  | Diff4Splat | [Diff4Splat: Controllable 4D Scene Generation with Latent Dynamic Reconstruction Models](https://arxiv.org/abs/2511.00503)     | [Project](https://paulpanwang.github.io/Diff4Splat/) | |
 | 2025 |  | CogNVS | [Reconstruct, Inpaint, Finetune: Dynamic Novel-view Synthesis from Monocular Videos](https://arxiv.org/abs/2507.12646)     | [Project](https://cog-nvs.github.io/) | [GitHub](https://github.com/Kaihua-Chen/cog-nvs) |
 | 2025 | NeurIPS | 4D3R | [4D3R: Motion-Aware Neural Reconstruction and Rendering of Dynamic Scenes from Monocular Videos](https://arxiv.org/abs/2511.05229)     |  |  |
+| 2025 |  | PAGE-4D | [PAGE-4D: Disentangled Pose and Geometry Estimation for 4D Perception](https://arxiv.org/abs/2510.17568)     |  |  |
 
 
 

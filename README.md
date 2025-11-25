@@ -148,6 +148,7 @@ If you have suggestions for new resources, improvements to methodologies, or cor
 | 2025 |    | WinT3R  | [WinT3R: Window-Based Streaming Reconstruction with Camera Token Pool](https://arxiv.org/abs/2509.05296) | [Project](https://lizizun.github.io/WinT3R.github.io/) | [GitHub](https://github.com/LiZizun/WinT3R) |
 | 2025 |    | Dental3R  | [Dental3R: Geometry-Aware Pairing for Intraoral 3D Reconstruction from Sparse-View Photographs](https://arxiv.org/abs/2511.14315) |  |  |
 | 2025 |    | OmniVGGT  | [OmniVGGT: Omni-Modality Driven Visual Geometry Grounded Transformer](https://arxiv.org/abs/2511.10560) | [Project](https://livioni.github.io/OmniVGGT-official/) | [GitHub](https://github.com/Livioni/OmniVGGT-official) |
+| 2025 |    | Depth Anything 3  | [Depth Anything 3: Recovering the Visual Space from Any Views](https://arxiv.org/abs/2511.10647) | [Project](https://depth-anything-3.github.io/) | [GitHub](https://github.com/ByteDance-Seed/depth-anything-3) |
 
 
 ### Unifying depth, camera pose, and 3D tracking

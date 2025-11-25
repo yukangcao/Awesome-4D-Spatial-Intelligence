@@ -169,6 +169,8 @@ If you have suggestions for new resources, improvements to methodologies, or cor
 | 2025 | ICCV | MVTracker | [Multi-View 3D Point Tracking](https://arxiv.org/abs/2508.21060) | [Project](https://ethz-vlg.github.io/mvtracker/) | [GitHub](https://github.com/ethz-vlg/mvtracker) |
 | 2025 |  | Trace Anything | [Trace Anything: Representing Any Video in 4D via Trajectory Fields](https://arxiv.org/abs/2510.13802) | [Project](https://trace-anything.github.io/) | [GitHub](https://github.com/ByteDance-Seed/TraceAnything) |
 | 2025 | WACV | PointSt3R | [PointSt3R: Point Tracking through 3D Grounded Correspondence](https://www.arxiv.org/abs/2510.26443) | [Project](https://rhodriguerrier.github.io/PointSt3R/) | [GitHub](https://github.com/rhodriguerrier/PointSt3R) |
+| 2025 |  | Dens3R | [Dens3R: A Foundation Model for 3D Geometry Prediction](https://arxiv.org/abs/2507.16290v1) | [Project](https://g-1nonly.github.io/Dens3R/) | [GitHub](https://github.com/G-1nOnly/Dens3R?tab=readme-ov-file) |
+
 
 ## Level 2 -- 3D scene components
 

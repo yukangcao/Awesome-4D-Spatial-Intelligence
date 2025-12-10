@@ -117,6 +117,8 @@ If you have suggestions for new resources, improvements to methodologies, or cor
 | 2025 | ICLR | DELTA | [DELTA: Dense Efficient Long-range 3D Tracking for any video](https://arxiv.org/abs/2410.24211) | [Project](https://snap-research.github.io/DELTA/) | [GitHub](https://github.com/snap-research/) |
 | 2025 | CVPR | Seurat | [Seurat: From Moving Points to Depth](https://arxiv.org/abs/2504.14687) | [Project](https://seurat-cvpr.github.io/) | [GitHub](https://github.com/cvlab-kaist/seurat) |
 | 2025 | arXiv | TAPIP3D | [TAPIP3D: Tracking Any Point in Persistent 3D Geometry](https://arxiv.org/abs/2504.14717) | [Project](https://tapip3d.github.io/) | [GitHub](https://github.com/zbw001/TAPIP3D) |
+| 2025 |  | SyncTrack4D | [SyncTrack4D: Cross-Video Motion Alignment and Video Synchronization for Multi-Video 4D Gaussian Splatting
+](https://arxiv.org/abs/2512.04315) |  |  |
 
 
 ---
@@ -149,6 +151,10 @@ If you have suggestions for new resources, improvements to methodologies, or cor
 | 2025 |    | Dental3R  | [Dental3R: Geometry-Aware Pairing for Intraoral 3D Reconstruction from Sparse-View Photographs](https://arxiv.org/abs/2511.14315) |  |  |
 | 2025 |    | OmniVGGT  | [OmniVGGT: Omni-Modality Driven Visual Geometry Grounded Transformer](https://arxiv.org/abs/2511.10560) | [Project](https://livioni.github.io/OmniVGGT-official/) | [GitHub](https://github.com/Livioni/OmniVGGT-official) |
 | 2025 |    | Depth Anything 3  | [Depth Anything 3: Recovering the Visual Space from Any Views](https://arxiv.org/abs/2511.10647) | [Project](https://depth-anything-3.github.io/) | [GitHub](https://github.com/ByteDance-Seed/depth-anything-3) |
+| 2025 |    | LiteVGGT | [LiteVGGT: Boosting Vanilla VGGT via Geometry-aware Cached Token Merging](https://arxiv.org/abs/2512.04939) | [Project](https://garlicba.github.io/LiteVGGT/) | [GitHub](https://github.com/GarlicBa/LiteVGGT-repo) |
+| 2025 |    | MUT3R | [MUT3R: Motion-aware Updating Transformer for Dynamic 3D Reconstruction](https://arxiv.org/abs/2512.03939) |  |  |
+| 2025 |    | AVGGT | [AVGGT: Rethinking Global Attention for Accelerating VGGT](https://arxiv.org/abs/2512.02541) |  |  |
+
 
 
 ### Unifying depth, camera pose, and 3D tracking
@@ -171,6 +177,10 @@ If you have suggestions for new resources, improvements to methodologies, or cor
 | 2025 |  | Trace Anything | [Trace Anything: Representing Any Video in 4D via Trajectory Fields](https://arxiv.org/abs/2510.13802) | [Project](https://trace-anything.github.io/) | [GitHub](https://github.com/ByteDance-Seed/TraceAnything) |
 | 2025 | WACV | PointSt3R | [PointSt3R: Point Tracking through 3D Grounded Correspondence](https://www.arxiv.org/abs/2510.26443) | [Project](https://rhodriguerrier.github.io/PointSt3R/) | [GitHub](https://github.com/rhodriguerrier/PointSt3R) |
 | 2025 |  | Dens3R | [Dens3R: A Foundation Model for 3D Geometry Prediction](https://arxiv.org/abs/2507.16290v1) | [Project](https://g-1nonly.github.io/Dens3R/) | [GitHub](https://github.com/G-1nOnly/Dens3R?tab=readme-ov-file) |
+| 2025 |  | FlashVGGT | [FlashVGGT: Efficient and Scalable Visual Geometry Transformers with Compressed Descriptor Attention](https://arxiv.org/abs/2512.01540) | [Project](https://wzpscott.github.io/flashvggt_page/) | [GitHub](https://github.com/wzpscott/flashvggt) |
+| 2025 | NeurIPS  | Fin3R | [Fin3R: Fine-tuning Feed-forward 3D Reconstruction Models via Monocular Knowledge Distillation](https://arxiv.org/abs/2511.22429) | [Project](https://visual-ai.github.io/fin3r/) | [GitHub](https://github.com/Visual-AI/Fin3R) |
+| 2025 |  | HTTM | [HTTM: Head-wise Temporal Token Merging for Faster VGGT](https://arxiv.org/abs/2511.21317) | |  |
+| 2025 |   | AMB3R | [AMB3R: Accurate Feed-forward Metric-scale 3D Reconstruction with Backend](https://arxiv.org/abs/2511.20343) | [Project](https://hengyiwang.github.io/projects/amber) | [GitHub](https://github.com/HengyiWang/amb3r) |
 
 
 ## Level 2 -- 3D scene components
@@ -248,6 +258,14 @@ If you have suggestions for new resources, improvements to methodologies, or cor
 | 2025 | | JOGS | [JOGS: Joint Optimization of Pose Estimation and 3D Gaussian Splatting](https://arxiv.org/abs/2510.26117)     |   |  |
 | 2025 | NeurIPS | AtlasGS | [AtlasGS: Atlanta-world Guided Surface Reconstruction with Implicit Structured Gaussians](https://arxiv.org/abs/2510.25129)     | [Project](https://zju3dv.github.io/AtlasGS/)  | [GitHub](https://github.com/xyzhang77/AtlasGS) |
 | 2025 |  | ItG-GS | [Initialize to Generalize: A Stronger Initialization Pipeline for Sparse-View 3DGS](https://arxiv.org/abs/2510.17479)     |  | [GitHub](https://github.com/zss171999645/ItG-GS) |
+| 2025 |  | MuSASplat | [MuSASplat: Efficient Sparse-View 3D Gaussian Splats via Lightweight Multi-Scale Adaptation](https://arxiv.org/abs/2512.07165)     |  |  |
+| 2025 | ICCV | RobustSplat | [RobustSplat: Decoupling Densification and Dynamics for Transient-Free 3DGS](https://arxiv.org/abs/2506.02751)     | [Project](https://fcyycf.github.io/RobustSplat/) | [GitHub](https://github.com/fcyycf/RobustSplat) |
+| 2025 |  | RobustSplat++ | [RobustSplat: Decoupling Densification and Dynamics for Transient-Free 3DGS](https://arxiv.org/abs/2512.04815)     |  |  |
+| 2025 |  | UTrice | [UTrice: Unifying Primitives in Differentiable Ray Tracing and Rasterization via Triangles for Particle-Based 3D Scenes](https://arxiv.org/abs/2512.04421)     |  |  |
+| 2025 |  |  | [Radiance Meshes for Volumetric Reconstruction](https://arxiv.org/abs/2512.04076)     | [Project](https://half-potato.gitlab.io/rm/) | [GitHub](https://github.com/half-potato/radiance_meshes) |
+| 2025 |  | EGGS | [EGGS: Exchangeable 2D/3D Gaussian Splatting for Geometry-Appearance Balanced Novel View Synthesis](https://arxiv.org/abs/2512.02932)     | [Project](https://fobow.github.io/eggs.github.io/) | [GitHub](https://github.com/Fobow/EGGS) |
+| 2025 | NeurIPS | SV2CGS | [Novel View Synthesis from A Few Glimpses via Test-Time Natural Video Completion](https://arxiv.org/abs/2511.17932)     | [Project](https://decayale.github.io/project/SV2CGS/) |  |
+
 
 
 ---
@@ -288,6 +306,9 @@ If you have suggestions for new resources, improvements to methodologies, or cor
 | 2025 |  | ReSplat | [ReSplat: Learning Recurrent Gaussian Splats](https://arxiv.org/abs/2510.08575)     | [Project](https://haofeixu.github.io/resplat/) | |
 | 2025 |  | NVSim | [NVSim: Novel View Synthesis Simulator for Large Scale Indoor Navigation](https://arxiv.org/abs/2510.24335)     | [Project](https://www.youtube.com/watch?v=tTiIQt6nXC8&feature=youtu.be) | |
 | 2025 |  | FastGS | [FastGS: Training 3D Gaussian Splatting in 100 Seconds](https://arxiv.org/abs/2511.04283)     | [Project](https://fastgs.github.io/) | [GitHub](https://github.com/fastgs/FastGS) |
+| 2025 |   | SwiftVGGT | [SwiftVGGT: A Scalable Visual Geometry Grounded Transformer for Large-Scale Scenes](https://arxiv.org/abs/2511.18290) | [Project](https://jho-yonsei.github.io/SwiftVGGT/) | [GitHub](https://github.com/Jho-Yonsei/SwiftVGGT) |
+| 2025 |   | MetroGS | [MetroGS: Efficient and Stable Reconstruction of Geometrically Accurate High-Fidelity Large-Scale Scenes
+](https://arxiv.org/abs/2511.19172) | [Project](https://m3phist0.github.io/MetroGS/) | [GitHub](https://github.com/M3phist0/MetroGS) |
 
 
 
@@ -380,6 +401,11 @@ If you have suggestions for new resources, improvements to methodologies, or cor
 | 2025 |  | CogNVS | [Reconstruct, Inpaint, Finetune: Dynamic Novel-view Synthesis from Monocular Videos](https://arxiv.org/abs/2507.12646)     | [Project](https://cog-nvs.github.io/) | [GitHub](https://github.com/Kaihua-Chen/cog-nvs) |
 | 2025 | NeurIPS | 4D3R | [4D3R: Motion-Aware Neural Reconstruction and Rendering of Dynamic Scenes from Monocular Videos](https://arxiv.org/abs/2511.05229)     |  |  |
 | 2025 |  | PAGE-4D | [PAGE-4D: Disentangled Pose and Geometry Estimation for 4D Perception](https://arxiv.org/abs/2510.17568)     |  |  |
+| 2025 |  | | [Dynamic Visual SLAM using a General 3D Prior](https://arxiv.org/abs/2512.06868)     |  |  |
+| 2025 | NeurIPS | Flux4D |[Flux4D: Flow-based Unsupervised 4D Reconstruction](https://arxiv.org/abs/2512.03210)     | [Project](https://waabi.ai/research/flux4d) |  |
+| 2025 |  | VGGT4D |[VGGT4D: Mining Motion Cues in Visual Geometry Transformers for 4D Scene Reconstruction](https://arxiv.org/abs/2511.19971)     | [Project](https://3dagentworld.github.io/vggt4d/) | [GitHub](https://github.com/3DAgentWorld/VGGT4D) |
+| 2025 |  | 4D-VGGT |[4D-VGGT: A General Foundation Model with SpatioTemporal Awareness for Dynamic Scene Geometry Estimation](https://arxiv.org/abs/2511.18416)     |  |  |
+
 
 
 

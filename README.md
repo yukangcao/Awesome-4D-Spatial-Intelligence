@@ -119,6 +119,7 @@ If you have suggestions for new resources, improvements to methodologies, or cor
 | 2025 | arXiv | TAPIP3D | [TAPIP3D: Tracking Any Point in Persistent 3D Geometry](https://arxiv.org/abs/2504.14717) | [Project](https://tapip3d.github.io/) | [GitHub](https://github.com/zbw001/TAPIP3D) |
 | 2025 |  | SyncTrack4D | [SyncTrack4D: Cross-Video Motion Alignment and Video Synchronization for Multi-Video 4D Gaussian Splatting](https://arxiv.org/abs/2512.04315) |  |  |
 | 2025 | NeurIPS | TrackingWorld | [TrackingWorld: World-centric Monocular 3D Tracking of Almost All Pixels](https://arxiv.org/abs/2512.08358) | [Project](https://igl-hkust.github.io/TrackingWorld.github.io/) | [GitHub](https://github.com/IGL-HKUST/TrackingWorld) |
+| 2025 | | HybridSplat | [HybridSplat: Fast Reflection-baked Gaussian Tracing using Hybrid Splatting](https://arxiv.org/abs/2512.08334) | [Project](https://aetheryne.github.io/HybridSplat/) | |
 
 
 ---
@@ -266,6 +267,7 @@ If you have suggestions for new resources, improvements to methodologies, or cor
 | 2025 |  |  | [Radiance Meshes for Volumetric Reconstruction](https://arxiv.org/abs/2512.04076)     | [Project](https://half-potato.gitlab.io/rm/) | [GitHub](https://github.com/half-potato/radiance_meshes) |
 | 2025 |  | EGGS | [EGGS: Exchangeable 2D/3D Gaussian Splatting for Geometry-Appearance Balanced Novel View Synthesis](https://arxiv.org/abs/2512.02932)     | [Project](https://fobow.github.io/eggs.github.io/) | [GitHub](https://github.com/Fobow/EGGS) |
 | 2025 | NeurIPS | SV2CGS | [Novel View Synthesis from A Few Glimpses via Test-Time Natural Video Completion](https://arxiv.org/abs/2511.17932)     | [Project](https://decayale.github.io/project/SV2CGS/) |  |
+| 2025 | Siggraph Asia | DeMapGS | [DeMapGS: Simultaneous Mesh Deformation and Surface Attribute Mapping via Gaussian Splatting](https://arxiv.org/abs/2512.10572)     | [Project](https://shuyizhou495.github.io/DeMapGS-project-page/) |  |
 
 
 
@@ -310,6 +312,10 @@ If you have suggestions for new resources, improvements to methodologies, or cor
 | 2025 |   | SwiftVGGT | [SwiftVGGT: A Scalable Visual Geometry Grounded Transformer for Large-Scale Scenes](https://arxiv.org/abs/2511.18290) | [Project](https://jho-yonsei.github.io/SwiftVGGT/) | [GitHub](https://github.com/Jho-Yonsei/SwiftVGGT) |
 | 2025 |   | MetroGS | [MetroGS: Efficient and Stable Reconstruction of Geometrically Accurate High-Fidelity Large-Scale Scenes](https://arxiv.org/abs/2511.19172) | [Project](https://m3phist0.github.io/MetroGS/) | [GitHub](https://github.com/M3phist0/MetroGS) |
 | 2025 |   | G3Splat | [G3Splat: Geometrically Consistent Generalizable Gaussian Splatting](https://arxiv.org/abs/2512.17547) | [Project](https://m80hz.github.io/g3splat/) | |
+| 2025 |   | WorldWarp | [WorldWarp: Propagating 3D Geometry with Asynchronous Video Diffusion](https://arxiv.org/abs/2512.19678) | [Project](https://hyokong.github.io/worldwarp-page/) | [GitHub](https://github.com/HyoKong/WorldWarp) |
+| 2025 |   | Nexels | [Nexels: Neurally-Textured Surfels for Real-Time Novel View Synthesis with Sparse Geometries](https://arxiv.org/abs/2512.13796) | [Project](https://lessvrong.com/cs/nexels/) | [GitHub](https://github.com/victor-rong/nexels) |
+| 2025 |   |  | [On-the-fly Large-scale 3D Reconstruction from Multi-Camera Rigs](https://arxiv.org/abs/2512.08498) |  |  |
+
 
 
 
@@ -408,6 +414,9 @@ If you have suggestions for new resources, improvements to methodologies, or cor
 | 2025 |  | 4D-VGGT |[4D-VGGT: A General Foundation Model with SpatioTemporal Awareness for Dynamic Scene Geometry Estimation](https://arxiv.org/abs/2511.18416)     |  |  |
 | 2025 |  | Any4D |[Any4D: Unified Feed-Forward Metric 4D Reconstruction](https://arxiv.org/abs/2512.10935)     | [Project](https://any-4d.github.io/) | [GitHub](https://github.com/Any-4D/Any4D) |
 | 2025 |  | D2GSLAM |[D2GSLAM: 4D Dynamic Gaussian Splatting SLAM](https://arxiv.org/abs/2512.09411)     |  | |
+| 2025 |  | Play4D |[Play4D: Accelerated and Interactive Free-viewpoint Video Streaming for Virtual Reality and Light Field Displays](https://research.nvidia.com/labs/amri/projects/play4d/media/pdf/play4d.pdf)     | [Project](https://research.nvidia.com/labs/amri/projects/play4d/) | |
+| 2025 | Siggraph Asia  |  |[Prior-Enhanced Gaussian Splatting for Dynamic Scene Reconstruction from Casual Video](https://dl.acm.org/doi/10.1145/3757377.3763910)     | [Project](https://priorenhancedgaussian.github.io/) | |
+| 2025 |  | MoRel |[MoRel: Long-Range Flicker-Free 4D Motion Modeling via Anchor Relay-based Bidirectional Blending with Hierarchical Densification](https://arxiv.org/abs/2512.09270)     | [Project](https://cmlab-korea.github.io/MoRel/) | [GitHub](https://github.com/CMLab-Korea/MoRel-arXiv) |
 
 
 

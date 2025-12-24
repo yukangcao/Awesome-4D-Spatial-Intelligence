@@ -117,8 +117,8 @@ If you have suggestions for new resources, improvements to methodologies, or cor
 | 2025 | ICLR | DELTA | [DELTA: Dense Efficient Long-range 3D Tracking for any video](https://arxiv.org/abs/2410.24211) | [Project](https://snap-research.github.io/DELTA/) | [GitHub](https://github.com/snap-research/) |
 | 2025 | CVPR | Seurat | [Seurat: From Moving Points to Depth](https://arxiv.org/abs/2504.14687) | [Project](https://seurat-cvpr.github.io/) | [GitHub](https://github.com/cvlab-kaist/seurat) |
 | 2025 | arXiv | TAPIP3D | [TAPIP3D: Tracking Any Point in Persistent 3D Geometry](https://arxiv.org/abs/2504.14717) | [Project](https://tapip3d.github.io/) | [GitHub](https://github.com/zbw001/TAPIP3D) |
-| 2025 |  | SyncTrack4D | [SyncTrack4D: Cross-Video Motion Alignment and Video Synchronization for Multi-Video 4D Gaussian Splatting
-](https://arxiv.org/abs/2512.04315) |  |  |
+| 2025 |  | SyncTrack4D | [SyncTrack4D: Cross-Video Motion Alignment and Video Synchronization for Multi-Video 4D Gaussian Splatting](https://arxiv.org/abs/2512.04315) |  |  |
+| 2025 | NeurIPS | TrackingWorld | [TrackingWorld: World-centric Monocular 3D Tracking of Almost All Pixels](https://arxiv.org/abs/2512.08358) | [Project](https://igl-hkust.github.io/TrackingWorld.github.io/) | [GitHub](https://github.com/IGL-HKUST/TrackingWorld) |
 
 
 ---
@@ -181,6 +181,7 @@ If you have suggestions for new resources, improvements to methodologies, or cor
 | 2025 | NeurIPS  | Fin3R | [Fin3R: Fine-tuning Feed-forward 3D Reconstruction Models via Monocular Knowledge Distillation](https://arxiv.org/abs/2511.22429) | [Project](https://visual-ai.github.io/fin3r/) | [GitHub](https://github.com/Visual-AI/Fin3R) |
 | 2025 |  | HTTM | [HTTM: Head-wise Temporal Token Merging for Faster VGGT](https://arxiv.org/abs/2511.21317) | |  |
 | 2025 |   | AMB3R | [AMB3R: Accurate Feed-forward Metric-scale 3D Reconstruction with Backend](https://arxiv.org/abs/2511.20343) | [Project](https://hengyiwang.github.io/projects/amber) | [GitHub](https://github.com/HengyiWang/amb3r) |
+| 2025 |   | Selfi | [Selfi: Self Improving Reconstruction Engine via 3D Geometric Feature Alignment](https://arxiv.org/abs/2512.08930) | [Project](https://denghilbert.github.io/selfi/) |  |
 
 
 ## Level 2 -- 3D scene components
@@ -307,8 +308,8 @@ If you have suggestions for new resources, improvements to methodologies, or cor
 | 2025 |  | NVSim | [NVSim: Novel View Synthesis Simulator for Large Scale Indoor Navigation](https://arxiv.org/abs/2510.24335)     | [Project](https://www.youtube.com/watch?v=tTiIQt6nXC8&feature=youtu.be) | |
 | 2025 |  | FastGS | [FastGS: Training 3D Gaussian Splatting in 100 Seconds](https://arxiv.org/abs/2511.04283)     | [Project](https://fastgs.github.io/) | [GitHub](https://github.com/fastgs/FastGS) |
 | 2025 |   | SwiftVGGT | [SwiftVGGT: A Scalable Visual Geometry Grounded Transformer for Large-Scale Scenes](https://arxiv.org/abs/2511.18290) | [Project](https://jho-yonsei.github.io/SwiftVGGT/) | [GitHub](https://github.com/Jho-Yonsei/SwiftVGGT) |
-| 2025 |   | MetroGS | [MetroGS: Efficient and Stable Reconstruction of Geometrically Accurate High-Fidelity Large-Scale Scenes
-](https://arxiv.org/abs/2511.19172) | [Project](https://m3phist0.github.io/MetroGS/) | [GitHub](https://github.com/M3phist0/MetroGS) |
+| 2025 |   | MetroGS | [MetroGS: Efficient and Stable Reconstruction of Geometrically Accurate High-Fidelity Large-Scale Scenes](https://arxiv.org/abs/2511.19172) | [Project](https://m3phist0.github.io/MetroGS/) | [GitHub](https://github.com/M3phist0/MetroGS) |
+| 2025 |   | G3Splat | [G3Splat: Geometrically Consistent Generalizable Gaussian Splatting](https://arxiv.org/abs/2512.17547) | [Project](https://m80hz.github.io/g3splat/) | |
 
 
 
@@ -405,6 +406,8 @@ If you have suggestions for new resources, improvements to methodologies, or cor
 | 2025 | NeurIPS | Flux4D |[Flux4D: Flow-based Unsupervised 4D Reconstruction](https://arxiv.org/abs/2512.03210)     | [Project](https://waabi.ai/research/flux4d) |  |
 | 2025 |  | VGGT4D |[VGGT4D: Mining Motion Cues in Visual Geometry Transformers for 4D Scene Reconstruction](https://arxiv.org/abs/2511.19971)     | [Project](https://3dagentworld.github.io/vggt4d/) | [GitHub](https://github.com/3DAgentWorld/VGGT4D) |
 | 2025 |  | 4D-VGGT |[4D-VGGT: A General Foundation Model with SpatioTemporal Awareness for Dynamic Scene Geometry Estimation](https://arxiv.org/abs/2511.18416)     |  |  |
+| 2025 |  | Any4D |[Any4D: Unified Feed-Forward Metric 4D Reconstruction](https://arxiv.org/abs/2512.10935)     | [Project](https://any-4d.github.io/) | [GitHub](https://github.com/Any-4D/Any4D) |
+| 2025 |  | D2GSLAM |[D2GSLAM: 4D Dynamic Gaussian Splatting SLAM](https://arxiv.org/abs/2512.09411)     |  | |
 
 
 

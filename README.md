@@ -183,6 +183,7 @@ If you have suggestions for new resources, improvements to methodologies, or cor
 | 2025 |  | HTTM | [HTTM: Head-wise Temporal Token Merging for Faster VGGT](https://arxiv.org/abs/2511.21317) | |  |
 | 2025 |   | AMB3R | [AMB3R: Accurate Feed-forward Metric-scale 3D Reconstruction with Backend](https://arxiv.org/abs/2511.20343) | [Project](https://hengyiwang.github.io/projects/amber) | [GitHub](https://github.com/HengyiWang/amb3r) |
 | 2025 |   | Selfi | [Selfi: Self Improving Reconstruction Engine via 3D Geometric Feature Alignment](https://arxiv.org/abs/2512.08930) | [Project](https://denghilbert.github.io/selfi/) |  |
+| 2025 |   | UniPR-3D | [UniPR-3D: Towards Universal Visual Place Recognition with Visual Geometry Grounded Transformer](https://arxiv.org/abs/2512.21078) |  | [GitHub](https://github.com/dtc111111/UniPR-3D) |
 
 
 ## Level 2 -- 3D scene components
@@ -268,6 +269,8 @@ If you have suggestions for new resources, improvements to methodologies, or cor
 | 2025 |  | EGGS | [EGGS: Exchangeable 2D/3D Gaussian Splatting for Geometry-Appearance Balanced Novel View Synthesis](https://arxiv.org/abs/2512.02932)     | [Project](https://fobow.github.io/eggs.github.io/) | [GitHub](https://github.com/Fobow/EGGS) |
 | 2025 | NeurIPS | SV2CGS | [Novel View Synthesis from A Few Glimpses via Test-Time Natural Video Completion](https://arxiv.org/abs/2511.17932)     | [Project](https://decayale.github.io/project/SV2CGS/) |  |
 | 2025 | Siggraph Asia | DeMapGS | [DeMapGS: Simultaneous Mesh Deformation and Surface Attribute Mapping via Gaussian Splatting](https://arxiv.org/abs/2512.10572)     | [Project](https://shuyizhou495.github.io/DeMapGS-project-page/) |  |
+| 2025 | | GaMO | [GaMO: Geometry-aware Multi-view Diffusion Outpainting for Sparse-View 3D Reconstruction](https://arxiv.org/abs/2512.25073)     | [Project](https://yichuanh.github.io/GaMO/) | [GitHub](https://github.com/yichuanH/GaMO_official) |
+| 2025 | | EcoSplat | [EcoSplat: Efficiency-controllable Feed-forward 3D Gaussian Splatting from Multi-view Images](https://arxiv.org/abs/2512.18692)     | [Project](https://kaist-viclab.github.io/ecosplat-site/) | [GitHub](https://github.com/KAIST-VICLab/EcoSplat) |
 
 
 
@@ -315,6 +318,7 @@ If you have suggestions for new resources, improvements to methodologies, or cor
 | 2025 |   | WorldWarp | [WorldWarp: Propagating 3D Geometry with Asynchronous Video Diffusion](https://arxiv.org/abs/2512.19678) | [Project](https://hyokong.github.io/worldwarp-page/) | [GitHub](https://github.com/HyoKong/WorldWarp) |
 | 2025 |   | Nexels | [Nexels: Neurally-Textured Surfels for Real-Time Novel View Synthesis with Sparse Geometries](https://arxiv.org/abs/2512.13796) | [Project](https://lessvrong.com/cs/nexels/) | [GitHub](https://github.com/victor-rong/nexels) |
 | 2025 |   |  | [On-the-fly Large-scale 3D Reconstruction from Multi-Camera Rigs](https://arxiv.org/abs/2512.08498) |  |  |
+| 2025 | OpenSource Studio  | LightField Studio | [LightField Studio: A high-performance C++ and CUDA implementation of 3D Gaussian Splatting](https://github.com/MrNeRF/LichtFeld-Studio/tree/nightly?tab=readme-ov-file) | [Project](https://lichtfeld.io/) |  |
 
 
 

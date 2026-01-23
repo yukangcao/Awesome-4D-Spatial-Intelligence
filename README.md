@@ -271,7 +271,7 @@ If you have suggestions for new resources, improvements to methodologies, or cor
 | 2025 | Siggraph Asia | DeMapGS | [DeMapGS: Simultaneous Mesh Deformation and Surface Attribute Mapping via Gaussian Splatting](https://arxiv.org/abs/2512.10572)     | [Project](https://shuyizhou495.github.io/DeMapGS-project-page/) |  |
 | 2025 | | GaMO | [GaMO: Geometry-aware Multi-view Diffusion Outpainting for Sparse-View 3D Reconstruction](https://arxiv.org/abs/2512.25073)     | [Project](https://yichuanh.github.io/GaMO/) | [GitHub](https://github.com/yichuanH/GaMO_official) |
 | 2025 | | EcoSplat | [EcoSplat: Efficiency-controllable Feed-forward 3D Gaussian Splatting from Multi-view Images](https://arxiv.org/abs/2512.18692)     | [Project](https://kaist-viclab.github.io/ecosplat-site/) | [GitHub](https://github.com/KAIST-VICLab/EcoSplat) |
-
+| 2025 | | MVInverse | [MVInverse: Feed-forward Multi-view Inverse Rendering in Seconds](https://arxiv.org/abs/2512.21003)     | [Project](https://maddog241.github.io/mvinverse-page/) | [GitHub](https://github.com/Maddog241/mvinverse) |
 
 
 ---
@@ -421,7 +421,8 @@ If you have suggestions for new resources, improvements to methodologies, or cor
 | 2025 |  | Play4D |[Play4D: Accelerated and Interactive Free-viewpoint Video Streaming for Virtual Reality and Light Field Displays](https://research.nvidia.com/labs/amri/projects/play4d/media/pdf/play4d.pdf)     | [Project](https://research.nvidia.com/labs/amri/projects/play4d/) | |
 | 2025 | Siggraph Asia  |  |[Prior-Enhanced Gaussian Splatting for Dynamic Scene Reconstruction from Casual Video](https://dl.acm.org/doi/10.1145/3757377.3763910)     | [Project](https://priorenhancedgaussian.github.io/) | |
 | 2025 |  | MoRel |[MoRel: Long-Range Flicker-Free 4D Motion Modeling via Anchor Relay-based Bidirectional Blending with Hierarchical Densification](https://arxiv.org/abs/2512.09270)     | [Project](https://cmlab-korea.github.io/MoRel/) | [GitHub](https://github.com/CMLab-Korea/MoRel-arXiv) |
-
+| 2025 |  | UniSH |[UniSH: Unifying Scene and Human Reconstruction in a Feed-Forward Pass](https://arxiv.org/abs/2601.01222)     | [Project](https://murphylmf.github.io/UniSH/) | [GitHub](https://github.com/murphylmf/UniSH) |
+| 2025 |  | V-DPM |[V-DPM: 4D Video Reconstruction with Dynamic Point Maps](https://arxiv.org/abs/2601.09499)     | [Project](https://www.robots.ox.ac.uk/~vgg/research/vdpm/) | [GitHub](https://github.com/eldar/vdpm) |
 
 
 

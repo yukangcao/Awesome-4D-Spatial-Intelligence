@@ -272,6 +272,22 @@ If you have suggestions for new resources, improvements to methodologies, or cor
 | 2025 | | GaMO | [GaMO: Geometry-aware Multi-view Diffusion Outpainting for Sparse-View 3D Reconstruction](https://arxiv.org/abs/2512.25073)     | [Project](https://yichuanh.github.io/GaMO/) | [GitHub](https://github.com/yichuanH/GaMO_official) |
 | 2025 | | EcoSplat | [EcoSplat: Efficiency-controllable Feed-forward 3D Gaussian Splatting from Multi-view Images](https://arxiv.org/abs/2512.18692)     | [Project](https://kaist-viclab.github.io/ecosplat-site/) | [GitHub](https://github.com/KAIST-VICLab/EcoSplat) |
 | 2025 | | MVInverse | [MVInverse: Feed-forward Multi-view Inverse Rendering in Seconds](https://arxiv.org/abs/2512.21003)     | [Project](https://maddog241.github.io/mvinverse-page/) | [GitHub](https://github.com/Maddog241/mvinverse) |
+| 2026 | | GSM-GS | [GSM-GS: Geometry-Constrained Single and Multi-view Gaussian Splatting for Surface Reconstruction](https://arxiv.org/abs/2602.12796)     | [Project](https://aislab-sustech.github.io/GSM-GS/) | [GitHub](https://github.com/AISLAB-sustech/GSM-GS) |
+| 2026 | | 4RC | [4RC: 4D Reconstruction via Conditional Querying Anytime and Anywhere](https://arxiv.org/abs/2602.10094)     | [Project](https://yihangluo.com/projects/4RC/) | [GitHub](https://github.com/Luo-Yihang/4RC) |
+| 2026 | | Faster-GS | [Faster-GS: Analyzing and Improving Gaussian Splatting Optimization](https://arxiv.org/abs/2602.09999)     | [Project](https://fhahlbohm.github.io/faster-gaussian-splatting/) | [GitHub](https://github.com/nerficg-project/faster-gaussian-splatting) |
+| 2026 | | Wid3R | [Wid3R: Wide Field-of-View 3D Reconstruction via Camera Model Conditioning](https://arxiv.org/abs/2602.05321)     |  |  |
+| 2026 | | S-MUSt3R | [S-MUSt3R: Sliding Multi-view 3D Reconstruction](https://arxiv.org/abs/2602.04517)     |  |  |
+| 2026 | | Pi-GS | [Pi-GS: Sparse-View Gaussian Splatting with Dense π^3 Initialization](https://arxiv.org/abs/2602.03327)     |  |  |
+| 2026 | | 3DGS^2-TR | [3DGS^2-TR: Scalable Second-Order Trust-Region Method for 3D Gaussian Splatting](https://arxiv.org/abs/2602.00395)     |  |  |
+| 2026 | ICLR | SurfSplat | [SurfSplat: Conquering Feedforward 2D Gaussian Splatting with Surface Continuity Priors](https://arxiv.org/abs/2602.02000)     | [Project](https://hebing-sjtu.github.io/SurfSplat-website/)  | [GitHub](https://github.com/hebing-sjtu/SurfSplat) |
+| 2026 |  | TTSA3R | [TTSA3R: Training-Free Temporal-Spatial Adaptive Persistent State for Streaming 3D Reconstruction](https://arxiv.org/abs/2601.22615)     |   | [GitHub](https://github.com/anonus2357/ttsa3r) |
+| 2026 |  | GVGS | [GVGS: Gaussian Visibility-Aware Multi-View Geometry for Accurate Surface Reconstruction](https://arxiv.org/abs/2601.20331)     |   | [GitHub](https://github.com/GVGScode/GVGS) |
+| 2026 | 3DV | FreeFix | [FreeFix: Boosting 3D Gaussian Splatting via Fine-Tuning-Free Diffusion Models](https://arxiv.org/abs/2601.20857)     | [Project](https://xdimlab.github.io/freefix/)  | [GitHub](https://github.com/hyzhou404/FreeFix) |
+| 2026 |  |  | [Geometry-Grounded Gaussian Splatting](https://arxiv.org/abs/2601.17835)     | [Project](https://baowenz.github.io/geometry_grounded_gaussian_splatting/)  | [GitHub](https://github.com/HKUST-SAIL/Geometry-Grounded-Gaussian-Splatting/tree/main) |
+| 2026 |  | AnyView | [AnyView: Synthesizing Any Novel View in Dynamic Scenes](https://arxiv.org/abs/2601.16982)     | [Project](https://tri-ml.github.io/AnyView/)  |  |
+| 2026 | ICLR | MEGS^2 | [MEGS2: Memory-Efficient Gaussian Splatting via Spherical Gaussians and Unified Pruning](https://arxiv.org/abs/2509.07021)     | [Project](https://megs-2.github.io/)  | [GitHub](https://github.com/IGL-HKUST/MEGS-2) |
+| 2026 |  | Fast-SAM3D | [Fast-SAM3D: 3Dfy Anything in Images but Faster](https://www.arxiv.org/abs/2602.05293)     |  | [GitHub](https://github.com/wlfeng0509/Fast-SAM3D) |
+| 2026 |  | GaussianPOP | [GaussianPOP: Principled Simplification Framework for Compact 3D Gaussian Splatting via Error Quantification](https://arxiv.org/abs/2602.06830)     |  |  |
 
 
 ---
@@ -319,6 +335,9 @@ If you have suggestions for new resources, improvements to methodologies, or cor
 | 2025 |   | Nexels | [Nexels: Neurally-Textured Surfels for Real-Time Novel View Synthesis with Sparse Geometries](https://arxiv.org/abs/2512.13796) | [Project](https://lessvrong.com/cs/nexels/) | [GitHub](https://github.com/victor-rong/nexels) |
 | 2025 |   |  | [On-the-fly Large-scale 3D Reconstruction from Multi-Camera Rigs](https://arxiv.org/abs/2512.08498) |  |  |
 | 2025 | OpenSource Studio  | LightField Studio | [LightField Studio: A high-performance C++ and CUDA implementation of 3D Gaussian Splatting](https://github.com/MrNeRF/LichtFeld-Studio/tree/nightly?tab=readme-ov-file) | [Project](https://lichtfeld.io/) |  |
+| 2026 | | VGGT-Motion | [VGGT-Motion: Motion-Aware Calibration-Free Monocular SLAM for Long-Range Consistency](https://arxiv.org/abs/2602.05508)     |  |  |
+| 2026 | ICLR | UrbanGS | [UrbanGS: A Scalable and Efficient Architecture for Geometrically Accurate Large-Scene Reconstruction](https://arxiv.org/abs/2602.02089)     |  |  |
+
 
 
 
@@ -421,8 +440,10 @@ If you have suggestions for new resources, improvements to methodologies, or cor
 | 2025 |  | Play4D |[Play4D: Accelerated and Interactive Free-viewpoint Video Streaming for Virtual Reality and Light Field Displays](https://research.nvidia.com/labs/amri/projects/play4d/media/pdf/play4d.pdf)     | [Project](https://research.nvidia.com/labs/amri/projects/play4d/) | |
 | 2025 | Siggraph Asia  |  |[Prior-Enhanced Gaussian Splatting for Dynamic Scene Reconstruction from Casual Video](https://dl.acm.org/doi/10.1145/3757377.3763910)     | [Project](https://priorenhancedgaussian.github.io/) | |
 | 2025 |  | MoRel |[MoRel: Long-Range Flicker-Free 4D Motion Modeling via Anchor Relay-based Bidirectional Blending with Hierarchical Densification](https://arxiv.org/abs/2512.09270)     | [Project](https://cmlab-korea.github.io/MoRel/) | [GitHub](https://github.com/CMLab-Korea/MoRel-arXiv) |
-| 2025 |  | UniSH |[UniSH: Unifying Scene and Human Reconstruction in a Feed-Forward Pass](https://arxiv.org/abs/2601.01222)     | [Project](https://murphylmf.github.io/UniSH/) | [GitHub](https://github.com/murphylmf/UniSH) |
-| 2025 |  | V-DPM |[V-DPM: 4D Video Reconstruction with Dynamic Point Maps](https://arxiv.org/abs/2601.09499)     | [Project](https://www.robots.ox.ac.uk/~vgg/research/vdpm/) | [GitHub](https://github.com/eldar/vdpm) |
+| 2026 |  | UniSH |[UniSH: Unifying Scene and Human Reconstruction in a Feed-Forward Pass](https://arxiv.org/abs/2601.01222)     | [Project](https://murphylmf.github.io/UniSH/) | [GitHub](https://github.com/murphylmf/UniSH) |
+| 2026 |  | V-DPM |[V-DPM: 4D Video Reconstruction with Dynamic Point Maps](https://arxiv.org/abs/2601.09499)     | [Project](https://www.robots.ox.ac.uk/~vgg/research/vdpm/) | [GitHub](https://github.com/eldar/vdpm) |
+| 2026 |  | Flow4R |[Flow4R: Unifying 4D Reconstruction and Tracking with Scene Flow](https://arxiv.org/abs/2602.14021)     | [Project](https://shenhanqian.github.io/flow4r) |  |
+| 2026 |  |  |[Grow with the Flow: 4D Reconstruction of Growing Plants with Gaussian Flow Fields](https://arxiv.org/abs/2602.08958)     | [Project](https://weihanluo.ca/growflow/) | [GitHub](https://github.com/weihan1/growflow) |
 
 
 
@@ -546,6 +567,7 @@ If you have suggestions for new resources, improvements to methodologies, or cor
 | 2025 | Siggraph Asia |  | [Detail Enhanced Gaussian Splatting for Large-Scale Volumetric Capture](https://eyeline-labs.github.io/DEGS/degs_static/pdfs/DEGS.pdf)     | [Project](https://eyeline-labs.github.io/DEGS/) | [GitHub](https://github.com/eth-ait/GauSTAR) |
 | 2025 |  | AHA | [AHA! Animating Human Avatars in Diverse Scenes with Gaussian Splatting](https://arxiv.org/abs/2511.09827)     |  |  |
 | 2025 | IROS | STG-Avatar | [STG-Avatar: Animatable Human Avatars via Spacetime Gaussian](https://arxiv.org/abs/2510.22140)     |  | [GitHub](https://github.com/jiangguangan/STG-Avatar) |
+| 2026 | TVCG | VRGaussianAvatar | [VRGaussianAvatar: Integrating 3D Gaussian Avatars into VR](https://arxiv.org/abs/2602.01674)     | [Project](https://vrgaussianavatar.github.io/) | [GitHub](https://github.com/hailsong/VRGaussianAvatar) |
 
 
 ## Level 4 -- Interaction among scene components

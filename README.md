@@ -151,7 +151,7 @@ If you have suggestions for new resources, improvements to methodologies, or cor
 | 2025 |    | WinT3R  | [WinT3R: Window-Based Streaming Reconstruction with Camera Token Pool](https://arxiv.org/abs/2509.05296) | [Project](https://lizizun.github.io/WinT3R.github.io/) | [GitHub](https://github.com/LiZizun/WinT3R) |
 | 2025 |    | Dental3R  | [Dental3R: Geometry-Aware Pairing for Intraoral 3D Reconstruction from Sparse-View Photographs](https://arxiv.org/abs/2511.14315) |  |  |
 | 2025 |    | OmniVGGT  | [OmniVGGT: Omni-Modality Driven Visual Geometry Grounded Transformer](https://arxiv.org/abs/2511.10560) | [Project](https://livioni.github.io/OmniVGGT-official/) | [GitHub](https://github.com/Livioni/OmniVGGT-official) |
-| 2025 |    | Depth Anything 3  | [Depth Anything 3: Recovering the Visual Space from Any Views](https://arxiv.org/abs/2511.10647) | [Project](https://depth-anything-3.github.io/) | [GitHub](https://github.com/ByteDance-Seed/depth-anything-3) |
+| 2025 | ICLR   | Depth Anything 3  | [Depth Anything 3: Recovering the Visual Space from Any Views](https://arxiv.org/abs/2511.10647) | [Project](https://depth-anything-3.github.io/) | [GitHub](https://github.com/ByteDance-Seed/depth-anything-3) |
 | 2025 |    | LiteVGGT | [LiteVGGT: Boosting Vanilla VGGT via Geometry-aware Cached Token Merging](https://arxiv.org/abs/2512.04939) | [Project](https://garlicba.github.io/LiteVGGT/) | [GitHub](https://github.com/GarlicBa/LiteVGGT-repo) |
 | 2025 |    | MUT3R | [MUT3R: Motion-aware Updating Transformer for Dynamic 3D Reconstruction](https://arxiv.org/abs/2512.03939) |  |  |
 | 2025 |    | AVGGT | [AVGGT: Rethinking Global Attention for Accelerating VGGT](https://arxiv.org/abs/2512.02541) |  |  |
@@ -175,21 +175,21 @@ If you have suggestions for new resources, improvements to methodologies, or cor
 | 2025 | CVPR      | Zero-MSF | [Zero-Shot Monocular Scene Flow Estimation in the Wild](https://arxiv.org/abs/2501.10357)                        | [Project](https://research.nvidia.com/labs/lpr/zero_msf//) | [GitHub](https://github.com/SunYangtian/UniGeo) |
 | 2025 | ICCV | SpatialTrackerV2 | [SpatialTrackerV2: 3D Point Tracking Made Easy](https://arxiv.org/abs/2507.12462) | [Project](https://spatialtracker.github.io/) | [GitHub](https://github.com/henry123-boy/SpaTrackerV2) |
 | 2025 | ICCV | MVTracker | [Multi-View 3D Point Tracking](https://arxiv.org/abs/2508.21060) | [Project](https://ethz-vlg.github.io/mvtracker/) | [GitHub](https://github.com/ethz-vlg/mvtracker) |
-| 2025 |  | Trace Anything | [Trace Anything: Representing Any Video in 4D via Trajectory Fields](https://arxiv.org/abs/2510.13802) | [Project](https://trace-anything.github.io/) | [GitHub](https://github.com/ByteDance-Seed/TraceAnything) |
+| 2025 | ICLR | Trace Anything | [Trace Anything: Representing Any Video in 4D via Trajectory Fields](https://arxiv.org/abs/2510.13802) | [Project](https://trace-anything.github.io/) | [GitHub](https://github.com/ByteDance-Seed/TraceAnything) |
 | 2025 | WACV | PointSt3R | [PointSt3R: Point Tracking through 3D Grounded Correspondence](https://www.arxiv.org/abs/2510.26443) | [Project](https://rhodriguerrier.github.io/PointSt3R/) | [GitHub](https://github.com/rhodriguerrier/PointSt3R) |
-| 2025 |  | Dens3R | [Dens3R: A Foundation Model for 3D Geometry Prediction](https://arxiv.org/abs/2507.16290v1) | [Project](https://g-1nonly.github.io/Dens3R/) | [GitHub](https://github.com/G-1nOnly/Dens3R?tab=readme-ov-file) |
-| 2025 |  | FlashVGGT | [FlashVGGT: Efficient and Scalable Visual Geometry Transformers with Compressed Descriptor Attention](https://arxiv.org/abs/2512.01540) | [Project](https://wzpscott.github.io/flashvggt_page/) | [GitHub](https://github.com/wzpscott/flashvggt) |
+| 2025 | arXiv | Dens3R | [Dens3R: A Foundation Model for 3D Geometry Prediction](https://arxiv.org/abs/2507.16290v1) | [Project](https://g-1nonly.github.io/Dens3R/) | [GitHub](https://github.com/G-1nOnly/Dens3R?tab=readme-ov-file) |
+| 2025 | arXiv | FlashVGGT | [FlashVGGT: Efficient and Scalable Visual Geometry Transformers with Compressed Descriptor Attention](https://arxiv.org/abs/2512.01540) | [Project](https://wzpscott.github.io/flashvggt_page/) | [GitHub](https://github.com/wzpscott/flashvggt) |
 | 2025 | NeurIPS  | Fin3R | [Fin3R: Fine-tuning Feed-forward 3D Reconstruction Models via Monocular Knowledge Distillation](https://arxiv.org/abs/2511.22429) | [Project](https://visual-ai.github.io/fin3r/) | [GitHub](https://github.com/Visual-AI/Fin3R) |
-| 2025 |  | HTTM | [HTTM: Head-wise Temporal Token Merging for Faster VGGT](https://arxiv.org/abs/2511.21317) | |  |
-| 2025 |   | AMB3R | [AMB3R: Accurate Feed-forward Metric-scale 3D Reconstruction with Backend](https://arxiv.org/abs/2511.20343) | [Project](https://hengyiwang.github.io/projects/amber) | [GitHub](https://github.com/HengyiWang/amb3r) |
-| 2025 |   | Selfi | [Selfi: Self Improving Reconstruction Engine via 3D Geometric Feature Alignment](https://arxiv.org/abs/2512.08930) | [Project](https://denghilbert.github.io/selfi/) |  |
-| 2025 |   | UniPR-3D | [UniPR-3D: Towards Universal Visual Place Recognition with Visual Geometry Grounded Transformer](https://arxiv.org/abs/2512.21078) |  | [GitHub](https://github.com/dtc111111/UniPR-3D) |
-| 2025 |   | Any4D | [Any4D: Unified Feed-Forward Metric 4D Reconstruction](https://arxiv.org/abs/2512.10935) | [Project](https://any-4d.github.io/) | [GitHub](https://github.com/Any-4D/Any4D) |
-| 2025 |   | D4RT | [Efficiently Reconstructing Dynamic Scenes One D4RT at a Time](https://arxiv.org/abs/2512.08924) | [Project](https://d4rt-paper.github.io/) | 
-| 2025 |   | DePT3R | [DePT3R: Joint Dense Point Tracking and 3D Reconstruction of Dynamic Scenes in a Single Forward Pass](https://arxiv.org/abs/2512.13122) | 
-| 2026 |   | V-DPM | [V-DPM: 4D Video Reconstruction with Dynamic Point Maps](https://arxiv.org/abs/2601.09499) | [Project](https://www.robots.ox.ac.uk/~vgg/research/vdpm/) | [GitHub](https://github.com/eldar/vdpm) |
-| 2026 |   | 4RC | [4RC: 4D Reconstruction via Conditional Querying Anytime and Anywhere](https://arxiv.org/abs/2602.10094) | [Project](https://yihangluo.com/projects/4RC/) | 
-| 2026 |   | MotionCrafter | [MotionCrafter: Dense Geometry and Motion Reconstruction with a 4D VAE](https://arxiv.org/abs/2602.08961) | [Project](https://ruijiezhu94.github.io/MotionCrafter_Page/) | [GitHub](https://github.com/TencentARC/MotionCrafter) |
+| 2025 | arXiv | HTTM | [HTTM: Head-wise Temporal Token Merging for Faster VGGT](https://arxiv.org/abs/2511.21317) | |  |
+| 2025 | arXiv  | AMB3R | [AMB3R: Accurate Feed-forward Metric-scale 3D Reconstruction with Backend](https://arxiv.org/abs/2511.20343) | [Project](https://hengyiwang.github.io/projects/amber) | [GitHub](https://github.com/HengyiWang/amb3r) |
+| 2025 |  arXiv | Selfi | [Selfi: Self Improving Reconstruction Engine via 3D Geometric Feature Alignment](https://arxiv.org/abs/2512.08930) | [Project](https://denghilbert.github.io/selfi/) |  |
+| 2025 | arXiv  | UniPR-3D | [UniPR-3D: Towards Universal Visual Place Recognition with Visual Geometry Grounded Transformer](https://arxiv.org/abs/2512.21078) |  | [GitHub](https://github.com/dtc111111/UniPR-3D) |
+| 2025 |  arXiv | Any4D | [Any4D: Unified Feed-Forward Metric 4D Reconstruction](https://arxiv.org/abs/2512.10935) | [Project](https://any-4d.github.io/) | [GitHub](https://github.com/Any-4D/Any4D) |
+| 2025 |  arXiv | D4RT | [Efficiently Reconstructing Dynamic Scenes One D4RT at a Time](https://arxiv.org/abs/2512.08924) | [Project](https://d4rt-paper.github.io/) | 
+| 2025 | arXiv  | DePT3R | [DePT3R: Joint Dense Point Tracking and 3D Reconstruction of Dynamic Scenes in a Single Forward Pass](https://arxiv.org/abs/2512.13122) | 
+| 2026 |  arXiv | V-DPM | [V-DPM: 4D Video Reconstruction with Dynamic Point Maps](https://arxiv.org/abs/2601.09499) | [Project](https://www.robots.ox.ac.uk/~vgg/research/vdpm/) | [GitHub](https://github.com/eldar/vdpm) |
+| 2026 | arXiv  | 4RC | [4RC: 4D Reconstruction via Conditional Querying Anytime and Anywhere](https://arxiv.org/abs/2602.10094) | [Project](https://yihangluo.com/projects/4RC/) | 
+| 2026 | CVPR  | MotionCrafter | [MotionCrafter: Dense Geometry and Motion Reconstruction with a 4D VAE](https://arxiv.org/abs/2602.08961) | [Project](https://ruijiezhu94.github.io/MotionCrafter_Page/) | [GitHub](https://github.com/TencentARC/MotionCrafter) |
 
 ## Level 2 -- 3D scene components
 

@@ -184,7 +184,12 @@ If you have suggestions for new resources, improvements to methodologies, or cor
 | 2025 |   | AMB3R | [AMB3R: Accurate Feed-forward Metric-scale 3D Reconstruction with Backend](https://arxiv.org/abs/2511.20343) | [Project](https://hengyiwang.github.io/projects/amber) | [GitHub](https://github.com/HengyiWang/amb3r) |
 | 2025 |   | Selfi | [Selfi: Self Improving Reconstruction Engine via 3D Geometric Feature Alignment](https://arxiv.org/abs/2512.08930) | [Project](https://denghilbert.github.io/selfi/) |  |
 | 2025 |   | UniPR-3D | [UniPR-3D: Towards Universal Visual Place Recognition with Visual Geometry Grounded Transformer](https://arxiv.org/abs/2512.21078) |  | [GitHub](https://github.com/dtc111111/UniPR-3D) |
-
+| 2025 |   | Any4D | [Any4D: Unified Feed-Forward Metric 4D Reconstruction](https://arxiv.org/abs/2512.10935) | [Project](https://any-4d.github.io/) | [GitHub](https://github.com/Any-4D/Any4D) |
+| 2025 |   | D4RT | [Efficiently Reconstructing Dynamic Scenes One D4RT at a Time](https://arxiv.org/abs/2512.08924) | [Project](https://d4rt-paper.github.io/) | 
+| 2025 |   | DePT3R | [DePT3R: Joint Dense Point Tracking and 3D Reconstruction of Dynamic Scenes in a Single Forward Pass](https://arxiv.org/abs/2512.13122) | 
+| 2026 |   | V-DPM | [V-DPM: 4D Video Reconstruction with Dynamic Point Maps](https://arxiv.org/abs/2601.09499) | [Project](https://www.robots.ox.ac.uk/~vgg/research/vdpm/) | [GitHub](https://github.com/eldar/vdpm) |
+| 2026 |   | 4RC | [4RC: 4D Reconstruction via Conditional Querying Anytime and Anywhere](https://arxiv.org/abs/2602.10094) | [Project](https://yihangluo.com/projects/4RC/) | 
+| 2026 |   | MotionCrafter | [MotionCrafter: Dense Geometry and Motion Reconstruction with a 4D VAE](https://arxiv.org/abs/2602.08961) | [Project](https://ruijiezhu94.github.io/MotionCrafter_Page/) | [GitHub](https://github.com/TencentARC/MotionCrafter) |
 
 ## Level 2 -- 3D scene components
 

@@ -190,6 +190,7 @@ If you have suggestions for new resources, improvements to methodologies, or cor
 | 2026 |  arXiv | V-DPM | [V-DPM: 4D Video Reconstruction with Dynamic Point Maps](https://arxiv.org/abs/2601.09499) | [Project](https://www.robots.ox.ac.uk/~vgg/research/vdpm/) | [GitHub](https://github.com/eldar/vdpm) |
 | 2026 | arXiv  | 4RC | [4RC: 4D Reconstruction via Conditional Querying Anytime and Anywhere](https://arxiv.org/abs/2602.10094) | [Project](https://yihangluo.com/projects/4RC/) | 
 | 2026 | CVPR  | MotionCrafter | [MotionCrafter: Dense Geometry and Motion Reconstruction with a 4D VAE](https://arxiv.org/abs/2602.08961) | [Project](https://ruijiezhu94.github.io/MotionCrafter_Page/) | [GitHub](https://github.com/TencentARC/MotionCrafter) |
+| 2026 | arXiv  | Track4World | [Track4World: Feedforward World-centric Dense 3D Tracking of All Pixels](https://arxiv.org/abs/2603.02573) | [Project](https://jiah-cloud.github.io/Track4World.github.io/) | [GitHub](https://github.com/TencentARC/Track4World) |
 
 ## Level 2 -- 3D scene components
 

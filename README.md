@@ -191,6 +191,7 @@ If you have suggestions for new resources, improvements to methodologies, or cor
 | 2026 | arXiv  | 4RC | [4RC: 4D Reconstruction via Conditional Querying Anytime and Anywhere](https://arxiv.org/abs/2602.10094) | [Project](https://yihangluo.com/projects/4RC/) | 
 | 2026 | CVPR  | MotionCrafter | [MotionCrafter: Dense Geometry and Motion Reconstruction with a 4D VAE](https://arxiv.org/abs/2602.08961) | [Project](https://ruijiezhu94.github.io/MotionCrafter_Page/) | [GitHub](https://github.com/TencentARC/MotionCrafter) |
 | 2026 | arXiv  | Track4World | [Track4World: Feedforward World-centric Dense 3D Tracking of All Pixels](https://arxiv.org/abs/2603.02573) | [Project](https://jiah-cloud.github.io/Track4World.github.io/) | [GitHub](https://github.com/TencentARC/Track4World) |
+| 2026 | CVPR  | VGGT-Det | [VGGT-Det: Mining VGGT Internal Priors for Sensor-Geometry-Free Multi-View Indoor 3D Object Detection](https://arxiv.org/abs/2603.00912) |  | [GitHub](https://github.com/yangcaoai/VGGT-Det-CVPR2026) |
 
 ## Level 2 -- 3D scene components
 
@@ -450,6 +451,7 @@ If you have suggestions for new resources, improvements to methodologies, or cor
 | 2026 |  | V-DPM |[V-DPM: 4D Video Reconstruction with Dynamic Point Maps](https://arxiv.org/abs/2601.09499)     | [Project](https://www.robots.ox.ac.uk/~vgg/research/vdpm/) | [GitHub](https://github.com/eldar/vdpm) |
 | 2026 |  | Flow4R |[Flow4R: Unifying 4D Reconstruction and Tracking with Scene Flow](https://arxiv.org/abs/2602.14021)     | [Project](https://shenhanqian.github.io/flow4r) |  |
 | 2026 |  |  |[Grow with the Flow: 4D Reconstruction of Growing Plants with Gaussian Flow Fields](https://arxiv.org/abs/2602.08958)     | [Project](https://weihanluo.ca/growflow/) | [GitHub](https://github.com/weihan1/growflow) |
+| 2026 |  | LoGeR |[LoGeR: Long-Context Geometric Reconstruction with Hybrid Memory](https://arxiv.org/abs/2603.03269)     | [Project](https://loger-project.github.io/) | [GitHub](https://github.com/Junyi42/LoGeR) |
 
 
 

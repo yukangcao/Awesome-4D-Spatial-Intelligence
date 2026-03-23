@@ -295,6 +295,9 @@ If you have suggestions for new resources, improvements to methodologies, or cor
 | 2026 | ICLR | MEGS^2 | [MEGS2: Memory-Efficient Gaussian Splatting via Spherical Gaussians and Unified Pruning](https://arxiv.org/abs/2509.07021)     | [Project](https://megs-2.github.io/)  | [GitHub](https://github.com/IGL-HKUST/MEGS-2) |
 | 2026 |  | Fast-SAM3D | [Fast-SAM3D: 3Dfy Anything in Images but Faster](https://www.arxiv.org/abs/2602.05293)     |  | [GitHub](https://github.com/wlfeng0509/Fast-SAM3D) |
 | 2026 |  | GaussianPOP | [GaussianPOP: Principled Simplification Framework for Compact 3D Gaussian Splatting via Error Quantification](https://arxiv.org/abs/2602.06830)     |  |  |
+| 2026 |  | MeMix | [MeMix: Writing Less, Remembering More for Streaming 3D Reconstruction](https://arxiv.org/abs/2603.15330)     | [Project](https://dongjiacheng06.github.io/MeMix/) | [GitHub](https://github.com/dongjiacheng06/MeMix) |
+| 2026 | CVPR | GGPT | [GGPT: Geometry-Grounded Point Transformer](https://arxiv.org/abs/2603.11174)     | [Project](https://chenyutongthu.github.io/research/ggpt/) | [GitHub](https://github.com/ChenYutongTHU/GGPT) |
+| 2026 | CVPR | RetimeGS | [RetimeGS: Continuous-Time Reconstruction of 4D Gaussian Splatting](https://arxiv.org/abs/2603.13783)     | [Project](https://william-wang2.github.io/RetimeGS/) |  |
 
 
 ---
@@ -344,6 +347,8 @@ If you have suggestions for new resources, improvements to methodologies, or cor
 | 2025 | OpenSource Studio  | LightField Studio | [LightField Studio: A high-performance C++ and CUDA implementation of 3D Gaussian Splatting](https://github.com/MrNeRF/LichtFeld-Studio/tree/nightly?tab=readme-ov-file) | [Project](https://lichtfeld.io/) |  |
 | 2026 | | VGGT-Motion | [VGGT-Motion: Motion-Aware Calibration-Free Monocular SLAM for Long-Range Consistency](https://arxiv.org/abs/2602.05508)     |  |  |
 | 2026 | ICLR | UrbanGS | [UrbanGS: A Scalable and Efficient Architecture for Geometrically Accurate Large-Scene Reconstruction](https://arxiv.org/abs/2602.02089)     |  |  |
+| 2026 | |  | [World Reconstruction From Inconsistent Views](https://arxiv.org/abs/2603.16736)     | [Project](https://lukashoel.github.io/video_to_world/) | [GitHub](https://github.com/lukasHoel/video_to_world) |
+| 2026 | | GeoNVS | [GeoNVS: Geometry Grounded Video Diffusion for Novel View Synthesis](https://arxiv.org/abs/2603.14965)     | [Project](https://sites.google.com/view/minjun-kang/geonvs-arxiv26) |  |
 
 
 
@@ -452,6 +457,8 @@ If you have suggestions for new resources, improvements to methodologies, or cor
 | 2026 |  | Flow4R |[Flow4R: Unifying 4D Reconstruction and Tracking with Scene Flow](https://arxiv.org/abs/2602.14021)     | [Project](https://shenhanqian.github.io/flow4r) |  |
 | 2026 |  |  |[Grow with the Flow: 4D Reconstruction of Growing Plants with Gaussian Flow Fields](https://arxiv.org/abs/2602.08958)     | [Project](https://weihanluo.ca/growflow/) | [GitHub](https://github.com/weihan1/growflow) |
 | 2026 |  | LoGeR |[LoGeR: Long-Context Geometric Reconstruction with Hybrid Memory](https://arxiv.org/abs/2603.03269)     | [Project](https://loger-project.github.io/) | [GitHub](https://github.com/Junyi42/LoGeR) |
+| 2026 |  | FILT3R |[FILT3R: Latent State Adaptive Kalman Filter for Streaming 3D Reconstruction](https://arxiv.org/abs/2603.18493)     |  | [GitHub](https://github.com/jinotter3/FILT3R) |
+| 2026 |  | VGGT-World |[VGGT-World: Transforming VGGT into an Autoregressive Geometry World Model](https://arxiv.org/abs/2603.12655)     |  |  |
 
 
 
@@ -576,6 +583,7 @@ If you have suggestions for new resources, improvements to methodologies, or cor
 | 2025 |  | AHA | [AHA! Animating Human Avatars in Diverse Scenes with Gaussian Splatting](https://arxiv.org/abs/2511.09827)     |  |  |
 | 2025 | IROS | STG-Avatar | [STG-Avatar: Animatable Human Avatars via Spacetime Gaussian](https://arxiv.org/abs/2510.22140)     |  | [GitHub](https://github.com/jiangguangan/STG-Avatar) |
 | 2026 | TVCG | VRGaussianAvatar | [VRGaussianAvatar: Integrating 3D Gaussian Avatars into VR](https://arxiv.org/abs/2602.01674)     | [Project](https://vrgaussianavatar.github.io/) | [GitHub](https://github.com/hailsong/VRGaussianAvatar) |
+| 2026 | CVPR | MATCH | [Feed-forward Gaussian Registration for Head Avatar Creation and Editing](https://arxiv.org/abs/2603.15811)     | [Project](https://malteprinzler.github.io/projects/match/) |  |
 
 
 ## Level 4 -- Interaction among scene components

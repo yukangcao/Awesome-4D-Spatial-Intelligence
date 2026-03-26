@@ -442,7 +442,6 @@ If you have suggestions for new resources, improvements to methodologies, or cor
 | 2025 |  | Diff4Splat | [Diff4Splat: Controllable 4D Scene Generation with Latent Dynamic Reconstruction Models](https://arxiv.org/abs/2511.00503)     | [Project](https://paulpanwang.github.io/Diff4Splat/) | |
 | 2025 |  | CogNVS | [Reconstruct, Inpaint, Finetune: Dynamic Novel-view Synthesis from Monocular Videos](https://arxiv.org/abs/2507.12646)     | [Project](https://cog-nvs.github.io/) | [GitHub](https://github.com/Kaihua-Chen/cog-nvs) |
 | 2025 | NeurIPS | 4D3R | [4D3R: Motion-Aware Neural Reconstruction and Rendering of Dynamic Scenes from Monocular Videos](https://arxiv.org/abs/2511.05229)     |  |  |
-| 2025 |  | PAGE-4D | [PAGE-4D: Disentangled Pose and Geometry Estimation for 4D Perception](https://arxiv.org/abs/2510.17568)     |  |  |
 | 2025 |  | | [Dynamic Visual SLAM using a General 3D Prior](https://arxiv.org/abs/2512.06868)     |  |  |
 | 2025 | NeurIPS | Flux4D |[Flux4D: Flow-based Unsupervised 4D Reconstruction](https://arxiv.org/abs/2512.03210)     | [Project](https://waabi.ai/research/flux4d) |  |
 | 2025 |  | VGGT4D |[VGGT4D: Mining Motion Cues in Visual Geometry Transformers for 4D Scene Reconstruction](https://arxiv.org/abs/2511.19971)     | [Project](https://3dagentworld.github.io/vggt4d/) | [GitHub](https://github.com/3DAgentWorld/VGGT4D) |
@@ -459,6 +458,7 @@ If you have suggestions for new resources, improvements to methodologies, or cor
 | 2026 |  | LoGeR |[LoGeR: Long-Context Geometric Reconstruction with Hybrid Memory](https://arxiv.org/abs/2603.03269)     | [Project](https://loger-project.github.io/) | [GitHub](https://github.com/Junyi42/LoGeR) |
 | 2026 |  | FILT3R |[FILT3R: Latent State Adaptive Kalman Filter for Streaming 3D Reconstruction](https://arxiv.org/abs/2603.18493)     |  | [GitHub](https://github.com/jinotter3/FILT3R) |
 | 2026 |  | VGGT-World |[VGGT-World: Transforming VGGT into an Autoregressive Geometry World Model](https://arxiv.org/abs/2603.12655)     |  |  |
+| 2026 | ICLR | PAGE-4D | [PAGE-4D: Disentangled Pose and Geometry Estimation for 4D Perception](https://arxiv.org/abs/2510.17568)     | [Project](https://page4d.github.io/) | [GitHub](https://github.com/kaichen-z/PAGE4D) |
 
 
 

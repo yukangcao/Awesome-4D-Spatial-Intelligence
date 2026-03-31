@@ -102,6 +102,7 @@ If you have suggestions for new resources, improvements to methodologies, or cor
 | 2025 | CVPR | DynPose | [Dynamic Camera Poses and Where to Find Them](https://arxiv.org/abs/2504.17788) | [Project](https://research.nvidia.com/labs/dir/dynpose-100k/) | |
 | 2025 | T-RO | AirSLAM | [AirSLAM: An Efficient and Illumination-Robust Point-Line SLAM System](https://arxiv.org/abs/2408.03520) | [Project](https://xukuanhit.github.io/airslam/) | [GitHub](https://github.com/sair-lab/AirSLAM) |
 | 2025 | arXiv | Puffin | [Thinking with Camera: A Unified Multimodal Model for Camera-Centric Understanding and Generation](https://arxiv.org/abs/2510.08673) | [Project](https://kangliao929.github.io/projects/puffin/) | [GitHub](https://github.com/KangLiao929/Puffin) |
+| 2026 | CVPR | EgoXtreme | [EgoXtreme: A Dataset for Robust Object Pose Estimation in Egocentric Views under Extreme Conditions](https://arxiv.org/abs/2603.25135) | [Project](https://taegyoun88.github.io/EgoXtreme/) | [GitHub](https://github.com/taegyoun88/EgoXtreme) |
 
 ---
 
@@ -155,6 +156,7 @@ If you have suggestions for new resources, improvements to methodologies, or cor
 | 2025 |    | LiteVGGT | [LiteVGGT: Boosting Vanilla VGGT via Geometry-aware Cached Token Merging](https://arxiv.org/abs/2512.04939) | [Project](https://garlicba.github.io/LiteVGGT/) | [GitHub](https://github.com/GarlicBa/LiteVGGT-repo) |
 | 2025 |    | MUT3R | [MUT3R: Motion-aware Updating Transformer for Dynamic 3D Reconstruction](https://arxiv.org/abs/2512.03939) |  |  |
 | 2025 |    | AVGGT | [AVGGT: Rethinking Global Attention for Accelerating VGGT](https://arxiv.org/abs/2512.02541) |  |  |
+| 2025 |    | VGGRPO | [VGGRPO: Towards World-Consistent Video Generation with 4D Latent Reward](https://arxiv.org/abs/2603.26599) | [Project](https://zhaochongan.github.io/projects/VGGRPO/) |  |
 
 
 
@@ -298,6 +300,9 @@ If you have suggestions for new resources, improvements to methodologies, or cor
 | 2026 |  | MeMix | [MeMix: Writing Less, Remembering More for Streaming 3D Reconstruction](https://arxiv.org/abs/2603.15330)     | [Project](https://dongjiacheng06.github.io/MeMix/) | [GitHub](https://github.com/dongjiacheng06/MeMix) |
 | 2026 | CVPR | GGPT | [GGPT: Geometry-Grounded Point Transformer](https://arxiv.org/abs/2603.11174)     | [Project](https://chenyutongthu.github.io/research/ggpt/) | [GitHub](https://github.com/ChenYutongTHU/GGPT) |
 | 2026 | CVPR | RetimeGS | [RetimeGS: Continuous-Time Reconstruction of 4D Gaussian Splatting](https://arxiv.org/abs/2603.13783)     | [Project](https://william-wang2.github.io/RetimeGS/) |  |
+| 2026 |  | GaussianGPT | [GaussianGPT: Towards Autoregressive 3D Gaussian Scene Generation](https://arxiv.org/abs/2603.26661)     | [Project](https://nicolasvonluetzow.github.io/GaussianGPT/) |  |
+| 2026 |  | Fus3D | [Fus3D: Decoding Consolidated 3D Geometry from Feed-forward Geometry Transformer Latents](https://arxiv.org/abs/2603.25827)     | [Project](https://lorafib.github.io/fus3d/) | [GitHub](https://github.com/lorafib/fus3d) |
+
 
 
 ---
@@ -349,6 +354,7 @@ If you have suggestions for new resources, improvements to methodologies, or cor
 | 2026 | ICLR | UrbanGS | [UrbanGS: A Scalable and Efficient Architecture for Geometrically Accurate Large-Scene Reconstruction](https://arxiv.org/abs/2602.02089)     |  |  |
 | 2026 | |  | [World Reconstruction From Inconsistent Views](https://arxiv.org/abs/2603.16736)     | [Project](https://lukashoel.github.io/video_to_world/) | [GitHub](https://github.com/lukasHoel/video_to_world) |
 | 2026 | | GeoNVS | [GeoNVS: Geometry Grounded Video Diffusion for Novel View Synthesis](https://arxiv.org/abs/2603.14965)     | [Project](https://sites.google.com/view/minjun-kang/geonvs-arxiv26) |  |
+| 2026 | | | [Scene Grounding In the Wild](https://arxiv.org/abs/2603.26584)     | [Project](https://tau-vailab.github.io/SceneGround/) |  |
 
 
 

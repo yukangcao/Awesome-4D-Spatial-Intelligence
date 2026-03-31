@@ -355,7 +355,8 @@ If you have suggestions for new resources, improvements to methodologies, or cor
 | 2026 | |  | [World Reconstruction From Inconsistent Views](https://arxiv.org/abs/2603.16736)     | [Project](https://lukashoel.github.io/video_to_world/) | [GitHub](https://github.com/lukasHoel/video_to_world) |
 | 2026 | | GeoNVS | [GeoNVS: Geometry Grounded Video Diffusion for Novel View Synthesis](https://arxiv.org/abs/2603.14965)     | [Project](https://sites.google.com/view/minjun-kang/geonvs-arxiv26) |  |
 | 2026 | | | [Scene Grounding In the Wild](https://arxiv.org/abs/2603.26584)     | [Project](https://tau-vailab.github.io/SceneGround/) |  |
-
+| 2026 | CVPR | GaussFusion | [GaussFusion: Improving 3D Reconstruction in the Wild with A Geometry-Informed Video Generator](https://arxiv.org/abs/2603.25053)     | [Project](http://research.zhuliyuan.net/projects/GaussFusion/) |  |
+| 2026 |  | AirSplat | [AirSplat: Alignment and Rating for Robust Feed-Forward 3D Gaussian Splatting](https://arxiv.org/abs/2603.25129)     | [Project](https://kaist-viclab.github.io/airsplat-site/) |  |
 
 
 
@@ -465,6 +466,7 @@ If you have suggestions for new resources, improvements to methodologies, or cor
 | 2026 |  | FILT3R |[FILT3R: Latent State Adaptive Kalman Filter for Streaming 3D Reconstruction](https://arxiv.org/abs/2603.18493)     |  | [GitHub](https://github.com/jinotter3/FILT3R) |
 | 2026 |  | VGGT-World |[VGGT-World: Transforming VGGT into an Autoregressive Geometry World Model](https://arxiv.org/abs/2603.12655)     |  |  |
 | 2026 | ICLR | PAGE-4D | [PAGE-4D: Disentangled Pose and Geometry Estimation for 4D Perception](https://arxiv.org/abs/2510.17568)     | [Project](https://page4d.github.io/) | [GitHub](https://github.com/kaichen-z/PAGE4D) |
+| 2026 |  | CAM3R | [CAM3R: Camera-Agnostic Model for 3D Reconstruction](https://arxiv.org/abs/2603.22631)     | [Project](https://nam1410.github.io/cam3r/) |  |
 
 
 

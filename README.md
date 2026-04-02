@@ -121,6 +121,7 @@ If you have suggestions for new resources, improvements to methodologies, or cor
 | 2025 |  | SyncTrack4D | [SyncTrack4D: Cross-Video Motion Alignment and Video Synchronization for Multi-Video 4D Gaussian Splatting](https://arxiv.org/abs/2512.04315) |  |  |
 | 2025 | NeurIPS | TrackingWorld | [TrackingWorld: World-centric Monocular 3D Tracking of Almost All Pixels](https://arxiv.org/abs/2512.08358) | [Project](https://igl-hkust.github.io/TrackingWorld.github.io/) | [GitHub](https://github.com/IGL-HKUST/TrackingWorld) |
 | 2025 | | HybridSplat | [HybridSplat: Fast Reflection-baked Gaussian Tracing using Hybrid Splatting](https://arxiv.org/abs/2512.08334) | [Project](https://aetheryne.github.io/HybridSplat/) | |
+| 2025 | | MatchAnything | [MatchAnything: Universal Cross-Modality Image Matching with Large-Scale Pre-Training](https://arxiv.org/abs/2501.07556) | [Project](https://zju3dv.github.io/MatchAnything/) | [GitHub](https://github.com/zju3dv/MatchAnything)|
 
 
 ---
@@ -194,6 +195,7 @@ If you have suggestions for new resources, improvements to methodologies, or cor
 | 2026 | CVPR  | MotionCrafter | [MotionCrafter: Dense Geometry and Motion Reconstruction with a 4D VAE](https://arxiv.org/abs/2602.08961) | [Project](https://ruijiezhu94.github.io/MotionCrafter_Page/) | [GitHub](https://github.com/TencentARC/MotionCrafter) |
 | 2026 | arXiv  | Track4World | [Track4World: Feedforward World-centric Dense 3D Tracking of All Pixels](https://arxiv.org/abs/2603.02573) | [Project](https://jiah-cloud.github.io/Track4World.github.io/) | [GitHub](https://github.com/TencentARC/Track4World) |
 | 2026 | CVPR  | VGGT-Det | [VGGT-Det: Mining VGGT Internal Priors for Sensor-Geometry-Free Multi-View Indoor 3D Object Detection](https://arxiv.org/abs/2603.00912) |  | [GitHub](https://github.com/yangcaoai/VGGT-Det-CVPR2026) |
+| 2026 | ICLR  | Real-3DQA | [Do 3D Large Language Models Really Understand 3D Spatial Relationships?](https://arxiv.org/abs/2603.23523) | [Project](https://real-3dqa.github.io/) | [GitHub](https://github.com/xianzhengma/Real-3DQA) |
 
 ## Level 2 -- 3D scene components
 
@@ -302,6 +304,9 @@ If you have suggestions for new resources, improvements to methodologies, or cor
 | 2026 | CVPR | RetimeGS | [RetimeGS: Continuous-Time Reconstruction of 4D Gaussian Splatting](https://arxiv.org/abs/2603.13783)     | [Project](https://william-wang2.github.io/RetimeGS/) |  |
 | 2026 |  | GaussianGPT | [GaussianGPT: Towards Autoregressive 3D Gaussian Scene Generation](https://arxiv.org/abs/2603.26661)     | [Project](https://nicolasvonluetzow.github.io/GaussianGPT/) |  |
 | 2026 |  | Fus3D | [Fus3D: Decoding Consolidated 3D Geometry from Feed-forward Geometry Transformer Latents](https://arxiv.org/abs/2603.25827)     | [Project](https://lorafib.github.io/fus3d/) | [GitHub](https://github.com/lorafib/fus3d) |
+| 2026 |  | LightHarmony3D | [LightHarmony3D: Harmonizing Illumination and Shadows for Object Insertion in 3D Gaussian Splatting](https://arxiv.org/abs/2603.29209)     |  |  |
+| 2026 |  | Seen2Scene | [Seen2Scene: Completing Realistic 3D Scenes with Visibility-Guided Flow](https://arxiv.org/abs/2603.28548)     | [Project](https://quan-meng.github.io/projects/seen2scene/)  | [GitHub](https://github.com/quan-meng/seen2scene) |
+| 2026 |  | Know3D | [Know3D: Prompting 3D Generation with Knowledge from Vision-Language Models](https://arxiv.org/abs/2603.22782)     | [Project](https://xishuxishu.github.io/Know3D.github.io/)  | [GitHub](https://github.com/xishuxishu/Know3D) |
 
 
 
@@ -357,8 +362,8 @@ If you have suggestions for new resources, improvements to methodologies, or cor
 | 2026 | | | [Scene Grounding In the Wild](https://arxiv.org/abs/2603.26584)     | [Project](https://tau-vailab.github.io/SceneGround/) |  |
 | 2026 | CVPR | GaussFusion | [GaussFusion: Improving 3D Reconstruction in the Wild with A Geometry-Informed Video Generator](https://arxiv.org/abs/2603.25053)     | [Project](http://research.zhuliyuan.net/projects/GaussFusion/) |  |
 | 2026 |  | AirSplat | [AirSplat: Alignment and Rating for Robust Feed-Forward 3D Gaussian Splatting](https://arxiv.org/abs/2603.25129)     | [Project](https://kaist-viclab.github.io/airsplat-site/) |  |
-
-
+| 2026 |  | ReSplat | [ReSplat: Learning Recurrent Gaussian Splatting](https://arxiv.org/abs/2510.08575)     | [Project](https://haofeixu.github.io/resplat/) | [GitHub](https://github.com/cvg/resplat) |
+| 2026 |  | NAS3R | [From None to All: Self-Supervised 3D Reconstruction via Novel View Synthesis](https://arxiv.org/abs/2603.27455)     | [Project](https://ranrhuang.github.io/nas3r/) | [GitHub](https://github.com/ranrhuang/NAS3R?tab=readme-ov-file) |
 
 
 ## Level 3 -- 4D dynamic scenes

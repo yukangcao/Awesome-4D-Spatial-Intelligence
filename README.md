@@ -307,6 +307,7 @@ If you have suggestions for new resources, improvements to methodologies, or cor
 | 2026 |  | LightHarmony3D | [LightHarmony3D: Harmonizing Illumination and Shadows for Object Insertion in 3D Gaussian Splatting](https://arxiv.org/abs/2603.29209)     |  |  |
 | 2026 |  | Seen2Scene | [Seen2Scene: Completing Realistic 3D Scenes with Visibility-Guided Flow](https://arxiv.org/abs/2603.28548)     | [Project](https://quan-meng.github.io/projects/seen2scene/)  | [GitHub](https://github.com/quan-meng/seen2scene) |
 | 2026 |  | Know3D | [Know3D: Prompting 3D Generation with Knowledge from Vision-Language Models](https://arxiv.org/abs/2603.22782)     | [Project](https://xishuxishu.github.io/Know3D.github.io/)  | [GitHub](https://github.com/xishuxishu/Know3D) |
+| 2026 |  | Complete4R | [Complet4R: Geometric Complete 4D Reconstruction](https://arxiv.org/abs/2603.27300)     |   |  |
 
 
 
@@ -364,6 +365,8 @@ If you have suggestions for new resources, improvements to methodologies, or cor
 | 2026 |  | AirSplat | [AirSplat: Alignment and Rating for Robust Feed-Forward 3D Gaussian Splatting](https://arxiv.org/abs/2603.25129)     | [Project](https://kaist-viclab.github.io/airsplat-site/) |  |
 | 2026 |  | ReSplat | [ReSplat: Learning Recurrent Gaussian Splatting](https://arxiv.org/abs/2510.08575)     | [Project](https://haofeixu.github.io/resplat/) | [GitHub](https://github.com/cvg/resplat) |
 | 2026 |  | NAS3R | [From None to All: Self-Supervised 3D Reconstruction via Novel View Synthesis](https://arxiv.org/abs/2603.27455)     | [Project](https://ranrhuang.github.io/nas3r/) | [GitHub](https://github.com/ranrhuang/NAS3R?tab=readme-ov-file) |
+| 2026 |  | Fisheye3R | [Fisheye3R: Adapting Unified 3D Feed-Forward Foundation Models to Fisheye Lenses](https://arxiv.org/abs/2603.28896)     | |  |
+| 2026 |  | StereoVGGT | [StereoVGGT: A Training-Free Visual Geometry Transformer for Stereo Vision](https://arxiv.org/abs/2603.29368)     | [Project](https://stereovggt.github.io/) |  |
 
 
 ## Level 3 -- 4D dynamic scenes

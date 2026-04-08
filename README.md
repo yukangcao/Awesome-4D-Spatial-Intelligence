@@ -157,7 +157,9 @@ If you have suggestions for new resources, improvements to methodologies, or cor
 | 2025 |    | LiteVGGT | [LiteVGGT: Boosting Vanilla VGGT via Geometry-aware Cached Token Merging](https://arxiv.org/abs/2512.04939) | [Project](https://garlicba.github.io/LiteVGGT/) | [GitHub](https://github.com/GarlicBa/LiteVGGT-repo) |
 | 2025 |    | MUT3R | [MUT3R: Motion-aware Updating Transformer for Dynamic 3D Reconstruction](https://arxiv.org/abs/2512.03939) |  |  |
 | 2025 |    | AVGGT | [AVGGT: Rethinking Global Attention for Accelerating VGGT](https://arxiv.org/abs/2512.02541) |  |  |
-| 2025 |    | VGGRPO | [VGGRPO: Towards World-Consistent Video Generation with 4D Latent Reward](https://arxiv.org/abs/2603.26599) | [Project](https://zhaochongan.github.io/projects/VGGRPO/) |  |
+| 2026 |    | VGGRPO | [VGGRPO: Towards World-Consistent Video Generation with 4D Latent Reward](https://arxiv.org/abs/2603.26599) | [Project](https://zhaochongan.github.io/projects/VGGRPO/) |  |
+| 2026 |    | VGGT-X | [VGGT-X: When VGGT Meets Dense Novel View Synthesis](https://arxiv.org/abs/2509.25191) | [Project](https://dekuliutesla.github.io/vggt-x.github.io/) | [GitHub](https://github.com/Linketic/VGGT-X) |
+| 2026 |    | Diff3R | [Diff3R: Feed-forward 3D Gaussian Splatting with Uncertainty-aware Differentiable Optimization](https://arxiv.org/abs/2604.01030) | [Project](https://liu115.github.io/diff3r) |  |
 
 
 
@@ -308,6 +310,9 @@ If you have suggestions for new resources, improvements to methodologies, or cor
 | 2026 |  | Seen2Scene | [Seen2Scene: Completing Realistic 3D Scenes with Visibility-Guided Flow](https://arxiv.org/abs/2603.28548)     | [Project](https://quan-meng.github.io/projects/seen2scene/)  | [GitHub](https://github.com/quan-meng/seen2scene) |
 | 2026 |  | Know3D | [Know3D: Prompting 3D Generation with Knowledge from Vision-Language Models](https://arxiv.org/abs/2603.22782)     | [Project](https://xishuxishu.github.io/Know3D.github.io/)  | [GitHub](https://github.com/xishuxishu/Know3D) |
 | 2026 |  | Complete4R | [Complet4R: Geometric Complete 4D Reconstruction](https://arxiv.org/abs/2603.27300)     |   |  |
+| 2026 |  | GA-GS | [GA-GS: Generation-Assisted Gaussian Splatting for Static Scene Reconstruction](https://arxiv.org/abs/2604.04331)     |   |  |
+| 2026 | CVPR |  | [Learning 3D Reconstruction with Priors in Test Time](https://arxiv.org/abs/2604.03878)     |   | [GitHub](https://github.com/cvlab-stonybrook/TCO) |
+| 2026 |  | FullCircle | [FullCircle: Effortless 3D Reconstruction from Casual 360∘ Captures](https://arxiv.org/abs/2603.22572)     |   | [GitHub](https://github.com/theialab/fullcircle) |
 
 
 
@@ -475,6 +480,8 @@ If you have suggestions for new resources, improvements to methodologies, or cor
 | 2026 |  | VGGT-World |[VGGT-World: Transforming VGGT into an Autoregressive Geometry World Model](https://arxiv.org/abs/2603.12655)     |  |  |
 | 2026 | ICLR | PAGE-4D | [PAGE-4D: Disentangled Pose and Geometry Estimation for 4D Perception](https://arxiv.org/abs/2510.17568)     | [Project](https://page4d.github.io/) | [GitHub](https://github.com/kaichen-z/PAGE4D) |
 | 2026 |  | CAM3R | [CAM3R: Camera-Agnostic Model for 3D Reconstruction](https://arxiv.org/abs/2603.22631)     | [Project](https://nam1410.github.io/cam3r/) |  |
+| 2026 | CVPR | 4C4D | [4C4D: 4 Camera 4D Gaussian Splatting](https://arxiv.org/abs/2604.04063)     | [Project](https://junshengzhou.github.io/4C4D/) | [GitHub](https://github.com/yangzf-1023/4C4D) |
+| 2026 |  | TRiGS | [TRiGS: Temporal Rigid-Body Motion for Scalable 4D Gaussian Splatting](https://arxiv.org/abs/2604.00538)     | [Project](https://wwwjjn.github.io/TRiGS-project_page/) |  |
 
 
 
@@ -535,6 +542,7 @@ If you have suggestions for new resources, improvements to methodologies, or cor
 | 2025 |  | FastHMR | [FastHMR: Accelerating Human Mesh Recovery via Token and Layer Merging with Diffusion Decoding](https://arxiv.org/abs/2510.10868)     | [Project](https://soroushmehraban.github.io/FastHMR/)  | [GitHub](https://github.com/TaatiTeam/FastHMR/) |
 | 2025 | WACV | SkelSplat | [SkelSplat: Robust Multi-view 3D Human Pose Estimation with Differentiable Gaussian Rendering](https://arxiv.org/abs/2511.08294)     | [Project](https://skelsplat.github.io/)  | [GitHub](https://github.com/laurabragagnolo/SkelSplat) |
 | 2025 |  | SAM 3D | [SAM 3D: 3Dfy Anything in Images](https://arxiv.org/abs/2511.16624)     | [Project](https://ai.meta.com/sam3d/)  | [GitHub](https://github.com/facebookresearch/sam-3d-objects) |
+| 2026 | CVPR | AvatarPointillist | [AvatarPointillist: AutoRegressive 4D Gaussian Avatarization](https://arxiv.org/abs/2604.04787)     | [Project](https://kumapowerliu.github.io/AvatarPointillist/)  | [GitHub](https://github.com/KumapowerLIU/AvatarPointillist) |
 
 ---
 

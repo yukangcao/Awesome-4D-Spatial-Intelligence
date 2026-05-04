@@ -318,6 +318,9 @@ If you have suggestions for new resources, improvements to methodologies, or cor
 | 2026 |  | FullCircle | [FullCircle: Effortless 3D Reconstruction from Casual 360∘ Captures](https://arxiv.org/abs/2603.22572)     |   | [GitHub](https://github.com/theialab/fullcircle) |
 | 2026 |  | RecGen | [Reconstruction by Generation: 3D Multi-Object Scene Reconstruction from Sparse Observations](https://arxiv.org/abs/2604.27106)     | [Project](https://reconstruction-by-generation.github.io/)  | [GitHub](https://github.com/TRI-ML/recgen) |
 | 2026 |  | Softmax-GS | [Softmax-GS: Generalized Gaussians Learning When to Blend or Bound](https://arxiv.org/abs/2604.27437)     | [Project](https://arthurhero.github.io/projects/smgs/)  |  |
+| 2026 |  | PowerFoam | [Power Foam: Unifying Real-Time Differentiable Ray Tracing and Rasterization](https://arxiv.org/abs/2604.24994)     | [Project](https://powerfoam.github.io/)  | [GitHub](https://github.com/theialab/powerfoam) |
+| 2026 | CVPR | SparseSplat | [Power Foam: Unifying Real-Time Differentiable Ray Tracing and Rasterization](https://arxiv.org/abs/2604.03069)     | [Project](https://victkk.github.io/SparseSplat-page/)  | [GitHub](https://github.com/victkk/SparseSplat-page) |
+| 2026 |  | PointSplat | [PointSplat: Efficient Geometry-Driven Pruning and Transformer Refinement for 3D Gaussian Splatting](https://arxiv.org/abs/2604.09903)     |  | [GitHub](https://github.com/anhthuan1999/pointsplat) |
 
 
 ---
@@ -385,6 +388,7 @@ If you have suggestions for new resources, improvements to methodologies, or cor
 | 2026 |  | WildSplatter | [WildSplatter: Feed-forward 3D Gaussian Splatting with Appearance Control from Unconstrained Images](https://arxiv.org/abs/2604.21182)     | | [GitHub](https://github.com/yfujimura/WildSplatter) |
 | 2026 | CVPR | TokenGS | [TokenGS: Decoupling 3D Gaussian Prediction from Pixels with Learnable Tokens](https://arxiv.org/abs/2604.15239)     | [Project](https://research.nvidia.com/labs/toronto-ai/tokengs/) | [GitHub](https://github.com/nv-tlabs/TokenGS) |
 | 2026 |  | GlobalSplat | [GlobalSplat: Efficient Feed-Forward 3D Gaussian Splatting via Global Scene Tokens](https://arxiv.org/abs/2604.15284)     | [Project](https://r-itk.github.io/globalsplat/) |  |
+| 2026 |  | FullCircle | [FullCircle: Effortless 3D Reconstruction from Casual 360∘ Captures](https://arxiv.org/abs/2603.22572)     | [Project](https://theialab.github.io/fullcircle/) | [GitHub](https://github.com/theialab/fullcircle) |
 
 
 

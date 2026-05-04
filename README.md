@@ -103,6 +103,8 @@ If you have suggestions for new resources, improvements to methodologies, or cor
 | 2025 | T-RO | AirSLAM | [AirSLAM: An Efficient and Illumination-Robust Point-Line SLAM System](https://arxiv.org/abs/2408.03520) | [Project](https://xukuanhit.github.io/airslam/) | [GitHub](https://github.com/sair-lab/AirSLAM) |
 | 2025 | arXiv | Puffin | [Thinking with Camera: A Unified Multimodal Model for Camera-Centric Understanding and Generation](https://arxiv.org/abs/2510.08673) | [Project](https://kangliao929.github.io/projects/puffin/) | [GitHub](https://github.com/KangLiao929/Puffin) |
 | 2026 | CVPR | EgoXtreme | [EgoXtreme: A Dataset for Robust Object Pose Estimation in Egocentric Views under Extreme Conditions](https://arxiv.org/abs/2603.25135) | [Project](https://taegyoun88.github.io/EgoXtreme/) | [GitHub](https://github.com/taegyoun88/EgoXtreme) |
+| 2026 | CVPR | LA-Pose | [LA-Pose: Latent Action Pretraining Meets Pose Estimation](https://arxiv.org/abs/2604.27448) | [Project](https://la-pose.github.io/) |  |
+| 2026 |  | PoseFM | [PoseFM: Relative Camera Pose Estimation Through Flow Matching](https://arxiv.org/abs/2604.22350) |  |  |
 
 ---
 
@@ -160,6 +162,7 @@ If you have suggestions for new resources, improvements to methodologies, or cor
 | 2026 |    | VGGRPO | [VGGRPO: Towards World-Consistent Video Generation with 4D Latent Reward](https://arxiv.org/abs/2603.26599) | [Project](https://zhaochongan.github.io/projects/VGGRPO/) |  |
 | 2026 |    | VGGT-X | [VGGT-X: When VGGT Meets Dense Novel View Synthesis](https://arxiv.org/abs/2509.25191) | [Project](https://dekuliutesla.github.io/vggt-x.github.io/) | [GitHub](https://github.com/Linketic/VGGT-X) |
 | 2026 |    | Diff3R | [Diff3R: Feed-forward 3D Gaussian Splatting with Uncertainty-aware Differentiable Optimization](https://arxiv.org/abs/2604.01030) | [Project](https://liu115.github.io/diff3r) |  |
+| 2026 |  CVPR  | PAGaS | [PAGaS: Pixel-Aligned 1DoF Gaussian Splatting for Depth Refinement](https://arxiv.org/abs/2604.22129) | [Project](https://davidrecasens.github.io/pagas/) | [GitHub](https://github.com/UZ-SLAMLab/pagas) |
 
 
 
@@ -313,6 +316,7 @@ If you have suggestions for new resources, improvements to methodologies, or cor
 | 2026 |  | GA-GS | [GA-GS: Generation-Assisted Gaussian Splatting for Static Scene Reconstruction](https://arxiv.org/abs/2604.04331)     |   |  |
 | 2026 | CVPR |  | [Learning 3D Reconstruction with Priors in Test Time](https://arxiv.org/abs/2604.03878)     |   | [GitHub](https://github.com/cvlab-stonybrook/TCO) |
 | 2026 |  | FullCircle | [FullCircle: Effortless 3D Reconstruction from Casual 360∘ Captures](https://arxiv.org/abs/2603.22572)     |   | [GitHub](https://github.com/theialab/fullcircle) |
+| 2026 |  | RecGen | [Reconstruction by Generation: 3D Multi-Object Scene Reconstruction from Sparse Observations](https://arxiv.org/abs/2604.27106)     | [Project](https://reconstruction-by-generation.github.io/)  | [GitHub](https://github.com/TRI-ML/recgen) |
 
 
 
@@ -372,6 +376,12 @@ If you have suggestions for new resources, improvements to methodologies, or cor
 | 2026 |  | NAS3R | [From None to All: Self-Supervised 3D Reconstruction via Novel View Synthesis](https://arxiv.org/abs/2603.27455)     | [Project](https://ranrhuang.github.io/nas3r/) | [GitHub](https://github.com/ranrhuang/NAS3R?tab=readme-ov-file) |
 | 2026 |  | Fisheye3R | [Fisheye3R: Adapting Unified 3D Feed-Forward Foundation Models to Fisheye Lenses](https://arxiv.org/abs/2603.28896)     | |  |
 | 2026 |  | StereoVGGT | [StereoVGGT: A Training-Free Visual Geometry Transformer for Stereo Vision](https://arxiv.org/abs/2603.29368)     | [Project](https://stereovggt.github.io/) |  |
+| 2026 | CVPR |  | [Long-tail Internet photo reconstruction](https://arxiv.org/abs/2604.22714)     | [Project](https://megadepth-x.github.io/) |  |
+| 2026 |  | LingBot-Map | [Geometric Context Transformer for Streaming 3D Reconstruction](https://arxiv.org/abs/2604.14141)     | [Project](https://technology.robbyant.com/lingbot-map) | [GitHub](https://github.com/Robbyant/lingbot-map) |
+| 2026 |  | AnyRecon | [AnyRecon: Arbitrary-View 3D Reconstruction with Video Diffusion Model](https://arxiv.org/pdf/2604.19747)     | [Project](https://yutian10.github.io/AnyRecon/) | [GitHub](https://github.com/OpenImagingLab/AnyRecon) |
+| 2026 | CVPR | Scal3R | [Scal3R: Scalable Test-Time Training for Large-Scale 3D Reconstruction](https://arxiv.org/abs/2604.08542)     | [Project](https://zju3dv.github.io/scal3r/) | [GitHub](https://zju3dv.github.io/scal3r/) |
+| 2026 |  | SyncFix | [SyncFix: Fixing 3D Reconstructions via Multi-View Synchronization](https://arxiv.org/abs/2604.11797)     | [Project](https://syncfix.github.io/) | [GitHub](https://github.com/Deming77/SyncFix) |
+
 
 
 ## Level 3 -- 4D dynamic scenes
@@ -482,6 +492,9 @@ If you have suggestions for new resources, improvements to methodologies, or cor
 | 2026 |  | CAM3R | [CAM3R: Camera-Agnostic Model for 3D Reconstruction](https://arxiv.org/abs/2603.22631)     | [Project](https://nam1410.github.io/cam3r/) |  |
 | 2026 | CVPR | 4C4D | [4C4D: 4 Camera 4D Gaussian Splatting](https://arxiv.org/abs/2604.04063)     | [Project](https://junshengzhou.github.io/4C4D/) | [GitHub](https://github.com/yangzf-1023/4C4D) |
 | 2026 |  | TRiGS | [TRiGS: Temporal Rigid-Body Motion for Scalable 4D Gaussian Splatting](https://arxiv.org/abs/2604.00538)     | [Project](https://wwwjjn.github.io/TRiGS-project_page/) |  |
+| 2026 | CVPR | Vista4D | [Vista4D: Video Reshooting with 4D Point Clouds](https://arxiv.org/abs/2604.21915)     | [Project](https://eyeline-labs.github.io/Vista4D/) | [GitHub](https://github.com/Eyeline-Labs/Vista4D) |
+| 2026 | CVPR | Flow4DGS-SLAM | [Flow4DGS-SLAM: Optical Flow-Guided 4D Gaussian Splatting SLAM](https://arxiv.org/abs/2604.22339)     | [Project](https://eyeline-labs.github.io/Vista4D/) | [GitHub](https://github.com/Eyeline-Labs/Vista4D) |
+| 2026 |  |  | [Robust 4D Visual Geometry Transformer with Uncertainty-Aware Priors](https://arxiv.org/abs/2604.09366)     |  |  |
 
 
 
@@ -543,6 +556,7 @@ If you have suggestions for new resources, improvements to methodologies, or cor
 | 2025 | WACV | SkelSplat | [SkelSplat: Robust Multi-view 3D Human Pose Estimation with Differentiable Gaussian Rendering](https://arxiv.org/abs/2511.08294)     | [Project](https://skelsplat.github.io/)  | [GitHub](https://github.com/laurabragagnolo/SkelSplat) |
 | 2025 |  | SAM 3D | [SAM 3D: 3Dfy Anything in Images](https://arxiv.org/abs/2511.16624)     | [Project](https://ai.meta.com/sam3d/)  | [GitHub](https://github.com/facebookresearch/sam-3d-objects) |
 | 2026 | CVPR | AvatarPointillist | [AvatarPointillist: AutoRegressive 4D Gaussian Avatarization](https://arxiv.org/abs/2604.04787)     | [Project](https://kumapowerliu.github.io/AvatarPointillist/)  | [GitHub](https://github.com/KumapowerLIU/AvatarPointillist) |
+| 2026 | | SAM 3D Body | [SAM 3D Body: Robust Full-Body Human Mesh Recovery](https://arxiv.org/abs/2602.15989)     | [Project](https://ai.meta.com/blog/sam-3d/)  | [GitHub](https://github.com/facebookresearch/sam-3d-body) |
 
 ---
 
@@ -608,6 +622,7 @@ If you have suggestions for new resources, improvements to methodologies, or cor
 | 2025 | IROS | STG-Avatar | [STG-Avatar: Animatable Human Avatars via Spacetime Gaussian](https://arxiv.org/abs/2510.22140)     |  | [GitHub](https://github.com/jiangguangan/STG-Avatar) |
 | 2026 | TVCG | VRGaussianAvatar | [VRGaussianAvatar: Integrating 3D Gaussian Avatars into VR](https://arxiv.org/abs/2602.01674)     | [Project](https://vrgaussianavatar.github.io/) | [GitHub](https://github.com/hailsong/VRGaussianAvatar) |
 | 2026 | CVPR | MATCH | [Feed-forward Gaussian Registration for Head Avatar Creation and Editing](https://arxiv.org/abs/2603.15811)     | [Project](https://malteprinzler.github.io/projects/match/) |  |
+| 2026 |  | D-Rex | [D-Rex : Diffusion Rendering for Relightable Expressive Avatars](https://arxiv.org/abs/2604.27871)     | [Project](https://vcai.mpi-inf.mpg.de/projects/DRex/) |  |
 
 
 ## Level 4 -- Interaction among scene components

@@ -321,6 +321,9 @@ If you have suggestions for new resources, improvements to methodologies, or cor
 | 2026 |  | PowerFoam | [Power Foam: Unifying Real-Time Differentiable Ray Tracing and Rasterization](https://arxiv.org/abs/2604.24994)     | [Project](https://powerfoam.github.io/)  | [GitHub](https://github.com/theialab/powerfoam) |
 | 2026 | CVPR | SparseSplat | [Power Foam: Unifying Real-Time Differentiable Ray Tracing and Rasterization](https://arxiv.org/abs/2604.03069)     | [Project](https://victkk.github.io/SparseSplat-page/)  | [GitHub](https://github.com/victkk/SparseSplat-page) |
 | 2026 |  | PointSplat | [PointSplat: Efficient Geometry-Driven Pruning and Transformer Refinement for 3D Gaussian Splatting](https://arxiv.org/abs/2604.09903)     |  | [GitHub](https://github.com/anhthuan1999/pointsplat) |
+| 2026 |  | GenRecon | [GenRecon: Bridging Generative Priors for Multi-View 3D Scene Reconstruction](https://arxiv.org/abs/2605.23888)     | [Project](https://kasothaphie.github.io/GenRecon/) |  |
+| 2026 |  | IVGT | [IVGT: Implicit Visual Geometry Transformer for Neural Scene Representation](https://arxiv.org/abs/2605.16258)     | [Project](https://wzzheng.net/IVGT/) | [GitHub](https://github.com/wzzheng/IVGT/) |
+
 
 
 ---
@@ -389,6 +392,7 @@ If you have suggestions for new resources, improvements to methodologies, or cor
 | 2026 | CVPR | TokenGS | [TokenGS: Decoupling 3D Gaussian Prediction from Pixels with Learnable Tokens](https://arxiv.org/abs/2604.15239)     | [Project](https://research.nvidia.com/labs/toronto-ai/tokengs/) | [GitHub](https://github.com/nv-tlabs/TokenGS) |
 | 2026 |  | GlobalSplat | [GlobalSplat: Efficient Feed-Forward 3D Gaussian Splatting via Global Scene Tokens](https://arxiv.org/abs/2604.15284)     | [Project](https://r-itk.github.io/globalsplat/) |  |
 | 2026 |  | FullCircle | [FullCircle: Effortless 3D Reconstruction from Casual 360∘ Captures](https://arxiv.org/abs/2603.22572)     | [Project](https://theialab.github.io/fullcircle/) | [GitHub](https://github.com/theialab/fullcircle) |
+| 2026 |  | VGG-T3 | [VGG-T3: Offline Feed-Forward 3D Reconstruction at Scale](https://arxiv.org/abs/2602.23361)     | [Project](https://research.nvidia.com/labs/dvl/projects/vgg-ttt/) | [GitHub](https://github.com/nv-dvl/vgg-ttt) |
 
 
 
@@ -503,6 +507,8 @@ If you have suggestions for new resources, improvements to methodologies, or cor
 | 2026 | CVPR | Vista4D | [Vista4D: Video Reshooting with 4D Point Clouds](https://arxiv.org/abs/2604.21915)     | [Project](https://eyeline-labs.github.io/Vista4D/) | [GitHub](https://github.com/Eyeline-Labs/Vista4D) |
 | 2026 | CVPR | Flow4DGS-SLAM | [Flow4DGS-SLAM: Optical Flow-Guided 4D Gaussian Splatting SLAM](https://arxiv.org/abs/2604.22339)     | [Project](https://eyeline-labs.github.io/Vista4D/) | [GitHub](https://github.com/Eyeline-Labs/Vista4D) |
 | 2026 |  |  | [Robust 4D Visual Geometry Transformer with Uncertainty-Aware Priors](https://arxiv.org/abs/2604.09366)     |  |  |
+| 2026 |  | NoPo4D | [No Pose, No Problem in 4D: Feed-Forward Dynamic Gaussians from Unposed Multi-View Videos](https://arxiv.org/abs/2605.22190)     | [Project](https://bralani.github.io/nopo4d_html/) | [GitHub](https://github.com/bralani/NoPo4D) |
+| 2026 | CVPR | VGGT-Ω | [VGGT-Ω](https://arxiv.org/abs/2605.15195)     | [Project](https://vggt-omega.github.io/) | [GitHub](https://github.com/facebookresearch/vggt-omega) |
 
 
 

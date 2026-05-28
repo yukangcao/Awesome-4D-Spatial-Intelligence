@@ -393,6 +393,7 @@ If you have suggestions for new resources, improvements to methodologies, or cor
 | 2026 |  | GlobalSplat | [GlobalSplat: Efficient Feed-Forward 3D Gaussian Splatting via Global Scene Tokens](https://arxiv.org/abs/2604.15284)     | [Project](https://r-itk.github.io/globalsplat/) |  |
 | 2026 |  | FullCircle | [FullCircle: Effortless 3D Reconstruction from Casual 360∘ Captures](https://arxiv.org/abs/2603.22572)     | [Project](https://theialab.github.io/fullcircle/) | [GitHub](https://github.com/theialab/fullcircle) |
 | 2026 |  | VGG-T3 | [VGG-T3: Offline Feed-Forward 3D Reconstruction at Scale](https://arxiv.org/abs/2602.23361)     | [Project](https://research.nvidia.com/labs/dvl/projects/vgg-ttt/) | [GitHub](https://github.com/nv-dvl/vgg-ttt) |
+| 2026 |  | R3 | [R3: 3D Reconstruction via Relative Regression](https://arxiv.org/abs/2605.26519)     | [Project](https://kevinxu02.github.io/r3-site/) | [GitHub](https://github.com/KevinXu02/R3) |
 
 
 

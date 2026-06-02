@@ -163,6 +163,7 @@ If you have suggestions for new resources, improvements to methodologies, or cor
 | 2026 |    | VGGT-X | [VGGT-X: When VGGT Meets Dense Novel View Synthesis](https://arxiv.org/abs/2509.25191) | [Project](https://dekuliutesla.github.io/vggt-x.github.io/) | [GitHub](https://github.com/Linketic/VGGT-X) |
 | 2026 |    | Diff3R | [Diff3R: Feed-forward 3D Gaussian Splatting with Uncertainty-aware Differentiable Optimization](https://arxiv.org/abs/2604.01030) | [Project](https://liu115.github.io/diff3r) |  |
 | 2026 |  CVPR  | PAGaS | [PAGaS: Pixel-Aligned 1DoF Gaussian Splatting for Depth Refinement](https://arxiv.org/abs/2604.22129) | [Project](https://davidrecasens.github.io/pagas/) | [GitHub](https://github.com/UZ-SLAMLab/pagas) |
+| 2026 |  CVPR  | QVGGT | [QVGGT: Post-Training Quantized Visual Geometry Grounded Transformer](https://arxiv.org/abs/2605.31124) | [Project](https://ddsacu.github.io/QVGGT/) | [GitHub](https://github.com/DDsacu/QVGGT) |
 
 
 
@@ -323,6 +324,7 @@ If you have suggestions for new resources, improvements to methodologies, or cor
 | 2026 |  | PointSplat | [PointSplat: Efficient Geometry-Driven Pruning and Transformer Refinement for 3D Gaussian Splatting](https://arxiv.org/abs/2604.09903)     |  | [GitHub](https://github.com/anhthuan1999/pointsplat) |
 | 2026 |  | GenRecon | [GenRecon: Bridging Generative Priors for Multi-View 3D Scene Reconstruction](https://arxiv.org/abs/2605.23888)     | [Project](https://kasothaphie.github.io/GenRecon/) |  |
 | 2026 |  | IVGT | [IVGT: Implicit Visual Geometry Transformer for Neural Scene Representation](https://arxiv.org/abs/2605.16258)     | [Project](https://wzzheng.net/IVGT/) | [GitHub](https://github.com/wzzheng/IVGT/) |
+| 2026 |  |  | [Triangle Splatting SLAM](https://arxiv.org/abs/2605.31419)     | [Project](https://nmjfry.github.io/triangle-splatting-slam/) |  |
 
 
 
@@ -394,7 +396,8 @@ If you have suggestions for new resources, improvements to methodologies, or cor
 | 2026 |  | FullCircle | [FullCircle: Effortless 3D Reconstruction from Casual 360∘ Captures](https://arxiv.org/abs/2603.22572)     | [Project](https://theialab.github.io/fullcircle/) | [GitHub](https://github.com/theialab/fullcircle) |
 | 2026 |  | VGG-T3 | [VGG-T3: Offline Feed-Forward 3D Reconstruction at Scale](https://arxiv.org/abs/2602.23361)     | [Project](https://research.nvidia.com/labs/dvl/projects/vgg-ttt/) | [GitHub](https://github.com/nv-dvl/vgg-ttt) |
 | 2026 |  | R3 | [R3: 3D Reconstruction via Relative Regression](https://arxiv.org/abs/2605.26519)     | [Project](https://kevinxu02.github.io/r3-site/) | [GitHub](https://github.com/KevinXu02/R3) |
-
+| 2026 |  | RayDer | [RayDer: Scalable Self-Supervised Novel View Synthesis from Real-World Video](https://arxiv.org/abs/2605.31535)     | [Project](https://compvis.github.io/rayder/) | [GitHub](https://github.com/CompVis/rayder) |
+| 2026 |  | Déjà View | [Déjà View: Looping Transformers for Multi-View 3D Reconstruction](https://arxiv.org/abs/2605.30215)     | [Project](https://research.nvidia.com/labs/dvl/projects/dvlt/) | [GitHub](https://github.com/nv-tlabs/dvlt) |
 
 
 ## Level 3 -- 4D dynamic scenes
@@ -510,6 +513,7 @@ If you have suggestions for new resources, improvements to methodologies, or cor
 | 2026 |  |  | [Robust 4D Visual Geometry Transformer with Uncertainty-Aware Priors](https://arxiv.org/abs/2604.09366)     |  |  |
 | 2026 |  | NoPo4D | [No Pose, No Problem in 4D: Feed-Forward Dynamic Gaussians from Unposed Multi-View Videos](https://arxiv.org/abs/2605.22190)     | [Project](https://bralani.github.io/nopo4d_html/) | [GitHub](https://github.com/bralani/NoPo4D) |
 | 2026 | CVPR | VGGT-Ω | [VGGT-Ω](https://arxiv.org/abs/2605.15195)     | [Project](https://vggt-omega.github.io/) | [GitHub](https://github.com/facebookresearch/vggt-omega) |
+| 2026 | CVPR | NeuROK | [NeuROK: Generative 4D Neural Object Kinematics](https://arxiv.org/abs/2605.30347)     | [Project](https://chen-geng.com/neurok) |  |
 
 
 

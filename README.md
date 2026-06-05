@@ -70,6 +70,7 @@ If you have suggestions for new resources, improvements to methodologies, or cor
 | 2025 | CVPR | ChronoDepth | [Learning Temporally Consistent Video Depth from Video Diffusion Priors](https://arxiv.org/abs/2406.01493) | [Project](https://xdimlab.github.io/ChronoDepth/) | [GitHub](https://github.com/jiahao-shao1/ChronoDepth) |
 | 2025 | CVPR | Video Depth Anything | [Video Depth Anything: Consistent Depth Estimation for Super-Long Videos](https://arxiv.org/abs/2501.12375) | [Project](https://videodepthanything.github.io/)  | [GitHub](https://github.com/DepthAnything/Video-Depth-Anything) |
 | 2025 |  | StereoAdapter | [StereoAdapter: Adapting Stereo Depth Estimation to Underwater Scenes](https://arxiv.org/abs/2509.16415) | [Project](https://aigeeksgroup.github.io/StereoAdapter/)  | [GitHub](https://github.com/AIGeeksGroup/StereoAdapter) |
+| 2025 |  | MDA | [Modeling Depth Ambiguity: A Mixture-Density Representation for Flying-Point-Free Depth Estimation](https://arxiv.org/abs/2606.02552) | [Project](https://biansy000.github.io/mda-site/#)  | [GitHub](https://github.com/biansy000/MDA) |
 
 
 ### Camera pose estimation
@@ -202,6 +203,7 @@ If you have suggestions for new resources, improvements to methodologies, or cor
 | 2026 | arXiv  | Track4World | [Track4World: Feedforward World-centric Dense 3D Tracking of All Pixels](https://arxiv.org/abs/2603.02573) | [Project](https://jiah-cloud.github.io/Track4World.github.io/) | [GitHub](https://github.com/TencentARC/Track4World) |
 | 2026 | CVPR  | VGGT-Det | [VGGT-Det: Mining VGGT Internal Priors for Sensor-Geometry-Free Multi-View Indoor 3D Object Detection](https://arxiv.org/abs/2603.00912) |  | [GitHub](https://github.com/yangcaoai/VGGT-Det-CVPR2026) |
 | 2026 | ICLR  | Real-3DQA | [Do 3D Large Language Models Really Understand 3D Spatial Relationships?](https://arxiv.org/abs/2603.23523) | [Project](https://real-3dqa.github.io/) | [GitHub](https://github.com/xianzhengma/Real-3DQA) |
+| 2026 | CVPR  | Speed3R | [Speed3R: Sparse Feed-forward 3D Reconstruction Models](https://arxiv.org/abs/2603.08055) | [Project](https://visual-ai.github.io/speed3r/) | [GitHub](https://github.com/Visual-AI/speed3r) |
 
 ## Level 2 -- 3D scene components
 
@@ -325,6 +327,8 @@ If you have suggestions for new resources, improvements to methodologies, or cor
 | 2026 |  | GenRecon | [GenRecon: Bridging Generative Priors for Multi-View 3D Scene Reconstruction](https://arxiv.org/abs/2605.23888)     | [Project](https://kasothaphie.github.io/GenRecon/) |  |
 | 2026 |  | IVGT | [IVGT: Implicit Visual Geometry Transformer for Neural Scene Representation](https://arxiv.org/abs/2605.16258)     | [Project](https://wzzheng.net/IVGT/) | [GitHub](https://github.com/wzzheng/IVGT/) |
 | 2026 |  |  | [Triangle Splatting SLAM](https://arxiv.org/abs/2605.31419)     | [Project](https://nmjfry.github.io/triangle-splatting-slam/) |  |
+| 2026 |  | MLP Splatting | [MLP Splatting: Object-Centric Neural Fields](https://arxiv.org/abs/2606.03877)     | [Project](https://www.shinjeongkim.com/mlp-splatting/) |  |
+| 2026 |  | HiGS | [HiGS: A Hierarchical Rendering Architecture for Real-Time 3D Gaussian Splatting](https://arxiv.org/abs/2606.00352)     | [Project](https://research.nvidia.com/labs/sil/projects/higs/) | [GitHub](https://github.com/nerfstudio-project/gsplat#inference-rendering) |
 
 
 
